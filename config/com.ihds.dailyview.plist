@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <!-- 任务标识符 -->
+    <key>Label</key>
+    <string>com.ihds.dailyview</string>
+    
+    <!-- 执行程序和参数 -->
+    <key>ProgramArguments</key>
+    <array>
+        <string>/usr/bin/python3</string>
+        <string>/Users/eric/Downloads/Cursor_Project/ihds/main.py</string>
+    </array>
+    
+    <!-- 每天早上 8:00 执行 -->
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>8</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+    
+    <!-- 环境变量 -->
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>DEEPSEEK_API_KEY</key>
+        <string>sk-b006820f1cfd4c54ae530ccc0ed6dd5a</string>
+        <key>PATH</key>
+        <string>/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+    </dict>
+    
+    <!-- 工作目录 -->
+    <key>WorkingDirectory</key>
+    <string>/Users/eric/Downloads/Cursor_Project/ihds</string>
+    
+    <!-- 日志输出 -->
+    <key>StandardOutPath</key>
+    <string>/Users/eric/Downloads/Cursor_Project/ihds/logs/daily_view.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/eric/Downloads/Cursor_Project/ihds/logs/daily_view_error.log</string>
+    
+    <!-- 如果错过了执行时间，启动时立即执行一次 -->
+    <key>RunAtLoad</key>
+    <false/>
+</dict>
+</plist>

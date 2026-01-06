@@ -1,0 +1,6 @@
+# IHDS Daily View Fetcher Dependencies
+# Python 3.8+
+
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
