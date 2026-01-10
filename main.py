@@ -45,7 +45,7 @@ Examples:
     parser.add_argument(
         '--api-key',
         type=str,
-        default=os.environ.get('DEEPSEEK_API_KEY', 'sk-b006820f1cfd4c54ae530ccc0ed6dd5a'),
+        default=None,
         help='DeepSeek API Key (默认使用环境变量 DEEPSEEK_API_KEY)'
     )
     
@@ -79,9 +79,18 @@ Examples:
     
     args = parser.parse_args()
     
+    # 确定 API Key（优先级：命令行参数 > 环境变量 > 默认值）
+    api_key = args.api_key
+    if not api_key:
+        api_key = os.environ.get('DEEPSEEK_API_KEY', '').strip()
+    if not api_key:
+        # 使用默认 key（仅用于测试）
+        api_key = 'sk-b006820f1cfd4c54ae530ccc0ed6dd5a'
+        print("⚠️  未设置 DEEPSEEK_API_KEY，使用默认密钥")
+    
     # 运行 Daily View 抓取
     fetcher = DailyViewFetcher(
-        deepseek_api_key=args.api_key,
+        deepseek_api_key=api_key,
         output_dir=args.output_dir
     )
     

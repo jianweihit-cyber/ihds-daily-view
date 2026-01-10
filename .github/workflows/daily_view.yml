@@ -41,18 +41,36 @@ jobs:
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
         run: |
+          echo "🔍 Python 版本: $(python --version)"
+          echo "🔍 当前目录: $(pwd)"
+          echo "🔍 目录结构:"
+          ls -la
+          ls -la src/ihds/
+          echo ""
+          echo "🚀 开始运行抓取脚本..."
           python main.py
           echo "✅ Daily View 抓取完成"
+          echo ""
+          echo "📂 输出文件:"
+          ls -la output/daily_views/ || echo "output/daily_views/ 不存在"
       
       # 5. 获取今日信息用于提交消息
       - name: Get today's info
         id: info
         run: |
-          # 读取最新的英文文件获取 Gate 信息
-          GATE_INFO=$(head -1 output/daily_views/latest_en.md | sed 's/# //')
+          # 设置日期
           DATE=$(date +%Y-%m-%d)
-          echo "gate_info=$GATE_INFO" >> $GITHUB_OUTPUT
           echo "date=$DATE" >> $GITHUB_OUTPUT
+          
+          # 读取最新的英文文件获取 Gate 信息
+          if [ -f "output/daily_views/latest_en.md" ]; then
+            GATE_INFO=$(head -1 output/daily_views/latest_en.md | sed 's/# //')
+            echo "gate_info=$GATE_INFO" >> $GITHUB_OUTPUT
+            echo "📖 Gate 信息: $GATE_INFO"
+          else
+            echo "gate_info=Daily View" >> $GITHUB_OUTPUT
+            echo "⚠️ latest_en.md 文件不存在"
+          fi
       
       # 6. 提交并推送更改
       - name: Commit and push changes

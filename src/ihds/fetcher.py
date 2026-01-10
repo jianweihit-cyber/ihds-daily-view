@@ -674,10 +674,14 @@ def main():
     import argparse
     
     parser = argparse.ArgumentParser(description='IHDS Daily View Fetcher')
+    # 确定 API Key
+    env_key = os.environ.get('DEEPSEEK_API_KEY', '').strip()
+    default_key = env_key if env_key else 'sk-b006820f1cfd4c54ae530ccc0ed6dd5a'
+    
     parser.add_argument(
         '--api-key',
         type=str,
-        default=os.environ.get('DEEPSEEK_API_KEY', 'sk-b006820f1cfd4c54ae530ccc0ed6dd5a'),
+        default=default_key,
         help='DeepSeek API Key'
     )
     parser.add_argument(
