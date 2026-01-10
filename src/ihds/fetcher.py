@@ -33,10 +33,14 @@ class IHDSDailyViewFetcher:
             self.base_output_dir = project_root / "output" / "daily_views"
         self.base_output_dir.mkdir(parents=True, exist_ok=True)
         
+        # 统一的图片收藏目录
+        self.images_collection_dir = self.base_output_dir.parent / "Gate_Rave_Mandala_Collection"
+        self.images_collection_dir.mkdir(parents=True, exist_ok=True)
+        
         # 日期字符串，目录会在解析内容后创建
         self.date_str = datetime.now().strftime("%Y-%m-%d")
         self.output_dir = None
-        self.images_dir = None
+        self.gate_num = None  # 当前 Gate 号
     
     def _extract_gate_line_numbers(self, content: Dict[str, Any]) -> tuple:
         """从内容中提取 Gate 号和 Line 号"""
@@ -60,6 +64,7 @@ class IHDSDailyViewFetcher:
     def _setup_daily_directory(self, content: Dict[str, Any]):
         """根据内容创建今天的目录，格式: 2026-01-06-54.1"""
         gate_num, line_num = self._extract_gate_line_numbers(content)
+        self.gate_num = gate_num  # 保存 Gate 号供图片命名使用
         
         # 构建目录名: 日期-Gate号.Line号
         if gate_num and line_num:
@@ -72,8 +77,7 @@ class IHDSDailyViewFetcher:
         self.output_dir = self.base_output_dir / dir_name
         self.output_dir.mkdir(parents=True, exist_ok=True)
         
-        self.images_dir = self.output_dir / "images"
-        self.images_dir.mkdir(parents=True, exist_ok=True)
+        # 不再创建 images 子目录，图片统一存放在 Gate_Rave_Mandala_Collection
         
         return dir_name
         
@@ -86,35 +90,30 @@ class IHDSDailyViewFetcher:
         response.raise_for_status()
         return response.text
     
-    def download_image(self, url: str, filename: str) -> str:
-        """下载图片并返回本地路径"""
-        local_path = self.images_dir / filename
-        
-        # 如果图片已存在，直接返回
-        if local_path.exists():
-            return str(local_path.relative_to(self.output_dir))
-        
-        try:
-            response = requests.get(url, timeout=30)
-            response.raise_for_status()
-            with open(local_path, 'wb') as f:
-                f.write(response.content)
-            return str(local_path.relative_to(self.output_dir))
-        except Exception as e:
-            print(f"下载图片失败 {url}: {e}")
-            return url  # 返回原始 URL
-    
     def download_images(self, content: Dict[str, Any]) -> Dict[str, Any]:
-        """下载所有图片并更新内容中的路径"""
-        # 下载 Gate 图片
-        if content.get('gate_image_url') and content.get('gate_image_filename'):
-            content['gate_image_local'] = self.download_image(
-                content['gate_image_url'], 
-                content['gate_image_filename']
-            )
+        """下载图片到统一目录 Gate_Rave_Mandala_Collection"""
+        gate_num = self.gate_num or ""
         
-        # 处理 Rave Mandala base64 图片
-        if content.get('rave_mandala_b64'):
+        # Gate 图片：检查是否已存在，不存在则下载
+        if content.get('gate_image_url') and gate_num:
+            gate_image_path = self.images_collection_dir / f"Gate-{gate_num}.jpg"
+            
+            if not gate_image_path.exists():
+                try:
+                    response = requests.get(content['gate_image_url'], timeout=30)
+                    response.raise_for_status()
+                    with open(gate_image_path, 'wb') as f:
+                        f.write(response.content)
+                    print(f"   ✅ Gate-{gate_num}.jpg 已下載")
+                except Exception as e:
+                    print(f"   ⚠️ Gate 圖片下載失敗: {e}")
+            else:
+                print(f"   ⏭️  Gate-{gate_num}.jpg 已存在")
+            
+            content['gate_image_local'] = f"Gate-{gate_num}.jpg"
+        
+        # Rave Mandala：每天動態生成，保存為 Gate-{num}-Rave-Mandala.png
+        if content.get('rave_mandala_b64') and gate_num:
             try:
                 b64_data = content['rave_mandala_b64']
                 
@@ -130,11 +129,13 @@ class IHDSDailyViewFetcher:
                     b64_data += '=' * (4 - missing_padding)
                 
                 img_data = base64.b64decode(b64_data)
-                rave_mandala_path = self.images_dir / 'rave_mandala.png'
+                rave_mandala_path = self.images_collection_dir / f"Gate-{gate_num}-Rave-Mandala.png"
+                
+                # Rave Mandala 每天都更新（因为行星位置每天变化）
                 with open(rave_mandala_path, 'wb') as f:
                     f.write(img_data)
-                content['rave_mandala_local'] = str(rave_mandala_path.relative_to(self.output_dir))
-                print(f"   ✅ Rave Mandala 圖片已保存 ({len(img_data)} 字節)")
+                content['rave_mandala_local'] = f"Gate-{gate_num}-Rave-Mandala.png"
+                print(f"   ✅ Gate-{gate_num}-Rave-Mandala.png 已保存 ({len(img_data)} 字節)")
             except Exception as e:
                 print(f"   ⚠️ Rave Mandala 解碼失敗: {e}")
         
@@ -323,8 +324,11 @@ class IHDSDailyViewFetcher:
         """生成英文 Markdown 文件"""
         date_display = datetime.now().strftime("%B %d, %Y")
         
-        gate_image = content.get('gate_image_local', content.get('gate_image_url', ''))
-        rave_mandala = content.get('rave_mandala_local', '')
+        # 图片路径：相对于日期目录，指向 Gate_Rave_Mandala_Collection
+        gate_image_file = content.get('gate_image_local', '')
+        rave_mandala_file = content.get('rave_mandala_local', '')
+        gate_image = f"../../Gate_Rave_Mandala_Collection/{gate_image_file}" if gate_image_file else ''
+        rave_mandala = f"../../Gate_Rave_Mandala_Collection/{rave_mandala_file}" if rave_mandala_file else ''
         gate_title = content.get('gate_title', '')
         gate_subtitle = content.get('gate_subtitle', '')
         lead = content.get('lead_description', '')
@@ -402,8 +406,11 @@ class IHDSDailyViewFetcher:
         """生成繁體中文 Markdown 文件"""
         date_display = datetime.now().strftime("%Y年%m月%d日")
         
-        gate_image = content.get('gate_image_local', content.get('gate_image_url', ''))
-        rave_mandala = content.get('rave_mandala_local', '')
+        # 图片路径：相对于日期目录，指向 Gate_Rave_Mandala_Collection
+        gate_image_file = content.get('gate_image_local', '')
+        rave_mandala_file = content.get('rave_mandala_local', '')
+        gate_image = f"../../Gate_Rave_Mandala_Collection/{gate_image_file}" if gate_image_file else ''
+        rave_mandala = f"../../Gate_Rave_Mandala_Collection/{rave_mandala_file}" if rave_mandala_file else ''
         gate_title = content.get('gate_title', '')
         gate_subtitle = content.get('gate_subtitle', '')
         lead = content.get('lead_description', '')
@@ -526,10 +533,9 @@ class IHDSDailyViewFetcher:
             f.write(markdown_zh)
         print(f"   ✅ 繁體中文版: {filepath_zh}")
         
-        # 同时保存 latest 版本到根目录（图片路径指向当前日期目录）
-        dir_name = self.output_dir.name  # 例如: 2026-01-06-54.1
-        latest_markdown_en = markdown_en.replace('images/', f'{dir_name}/images/')
-        latest_markdown_zh = markdown_zh.replace('images/', f'{dir_name}/images/')
+        # 同时保存 latest 版本到根目录（调整图片路径：从 ../../ 改为 ../）
+        latest_markdown_en = markdown_en.replace('../../Gate_Rave_Mandala_Collection/', '../Gate_Rave_Mandala_Collection/')
+        latest_markdown_zh = markdown_zh.replace('../../Gate_Rave_Mandala_Collection/', '../Gate_Rave_Mandala_Collection/')
         
         latest_en_path = self.base_output_dir / "latest_en.md"
         with open(latest_en_path, 'w', encoding='utf-8') as f:
@@ -541,11 +547,126 @@ class IHDSDailyViewFetcher:
         print(f"   ✅ 最新英文版: {latest_en_path}")
         print(f"   ✅ 最新中文版: {latest_zh_path}")
         
+        # 7. 生成 AI 绘图提示词文件
+        print("\n🎨 正在生成 AI 繪圖提示詞...")
+        prompt_path = self.generate_ai_prompt(en_content)
+        print(f"   ✅ 提示詞文件: {prompt_path}")
+        
         print("\n" + "=" * 60)
         print("✨ 完成!")
         print("=" * 60)
         
         return str(filepath_en)
+    
+    def generate_ai_prompt(self, content: Dict[str, Any]) -> str:
+        """
+        生成适用于 Leonardo.AI / Midjourney 等 AI 绘图工具的提示词文件
+        
+        Args:
+            content: Daily View 英文内容字典
+            
+        Returns:
+            提示词文件路径
+        """
+        gate_num = self.gate_num or "unknown"
+        gate_title = content.get('gate_title', '')
+        gate_subtitle = content.get('gate_subtitle', '')
+        lead = content.get('lead_description', '')
+        line_title = content.get('line_title', '')
+        exaltation = content.get('exaltation', '')
+        
+        # 英文提示词（用于 AI 生图）
+        en_prompt = f"""Mystical spiritual artwork for Human Design {gate_title}.
+
+Theme: {gate_subtitle}
+Energy essence: {lead}
+Line expression: {line_title}
+
+Art style requirements:
+- Sacred geometry patterns and cosmic mandala elements
+- Deep purple, golden light, celestial blue color palette
+- I Ching hexagram subtle integration
+- Ethereal flowing energy lines and luminous particles
+- Mystical transformation and enlightenment mood
+- Professional poster composition with elegant mystical border
+- High detail, cinematic lighting, 4K ultra quality
+
+Additional elements: starfield background, nebula wisps, sacred symbols, golden ratio spirals, soft glowing aura"""
+
+        # 负面提示词
+        negative_prompt = "text, watermark, signature, words, letters, blurry, low quality, distorted, ugly, amateur, cartoon, anime, childish, oversaturated"
+        
+        # 完整的提示词文件内容
+        prompt_content = f"""# AI 绘图提示词 - {gate_title}
+# 日期: {self.date_str}
+# Gate: {gate_num} | Line: {line_title}
+
+================================================================================
+🎨 LEONARDO.AI / MIDJOURNEY 提示词
+================================================================================
+
+【英文提示词 - 直接复制使用】
+
+{en_prompt}
+
+--------------------------------------------------------------------------------
+
+【负面提示词 Negative Prompt】
+
+{negative_prompt}
+
+================================================================================
+📷 参考图片（可选上传）
+================================================================================
+
+请从以下路径上传参考图片以获得更好的效果：
+
+1. Gate 图片（I Ching 卦象图）:
+   📁 output/Gate_Rave_Mandala_Collection/Gate-{gate_num}.jpg
+
+2. Rave Mandala（人类图曼陀罗）:
+   📁 output/Gate_Rave_Mandala_Collection/Gate-{gate_num}-Rave-Mandala.png
+
+================================================================================
+⚙️ 推荐设置 (Leonardo.AI)
+================================================================================
+
+- Model: Leonardo Vision XL 或 Leonardo Creative
+- 图片尺寸: 1024 x 1024 (1:1 正方形)
+- Guidance Scale: 7-9
+- 如使用参考图片:
+  - Init Strength: 0.2-0.3 (保留创意空间)
+  - 勾选 "Use as reference" 而非 "Image to Image"
+
+================================================================================
+📋 使用步骤
+================================================================================
+
+1. 打开 Leonardo.AI (https://leonardo.ai/)
+2. 点击 "AI Image Generation"
+3. 复制上方【英文提示词】粘贴到 Prompt 框
+4. 复制【负面提示词】粘贴到 Negative Prompt 框
+5. (可选) 点击 "Image Input" 上传参考图片
+6. 选择模型和尺寸
+7. 点击 "Generate" 生成
+8. 下载喜欢的图片
+
+================================================================================
+"""
+        
+        # 保存到日期目录
+        prompt_filename = f"ai_prompt_{self.date_str}.txt"
+        prompt_path = self.output_dir / prompt_filename
+        
+        with open(prompt_path, 'w', encoding='utf-8') as f:
+            f.write(prompt_content)
+        
+        # 同时保存一份到 base_output_dir 作为 latest
+        latest_prompt_path = self.base_output_dir / "latest_ai_prompt.txt"
+        with open(latest_prompt_path, 'w', encoding='utf-8') as f:
+            f.write(prompt_content)
+        
+        return str(prompt_path)
 
 
 def main():

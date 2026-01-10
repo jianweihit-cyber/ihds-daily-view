@@ -1,0 +1,118 @@
+name: IHDS Daily View Fetcher
+
+on:
+  # 定时运行：每天 UTC 0:00 (北京时间 8:00)
+  schedule:
+    - cron: '0 0 * * *'
+  
+  # 支持手动触发
+  workflow_dispatch:
+
+# 设置权限，允许推送代码
+permissions:
+  contents: write
+
+jobs:
+  fetch-daily-view:
+    runs-on: ubuntu-latest
+    
+    steps:
+      # 1. 检出代码
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      # 2. 设置 Python 环境
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      
+      # 3. 安装依赖
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      # 4. 运行抓取脚本
+      - name: Fetch Daily View
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: |
+          python main.py
+          echo "✅ Daily View 抓取完成"
+      
+      # 5. 获取今日信息用于提交消息
+      - name: Get today's info
+        id: info
+        run: |
+          # 读取最新的英文文件获取 Gate 信息
+          GATE_INFO=$(head -1 output/daily_views/latest_en.md | sed 's/# //')
+          DATE=$(date +%Y-%m-%d)
+          echo "gate_info=$GATE_INFO" >> $GITHUB_OUTPUT
+          echo "date=$DATE" >> $GITHUB_OUTPUT
+      
+      # 6. 提交并推送更改
+      - name: Commit and push changes
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          
+          # 添加所有输出文件
+          git add output/
+          
+          # 检查是否有更改
+          if git diff --staged --quiet; then
+            echo "没有新的更改需要提交"
+          else
+            git commit -m "📅 Daily View: ${{ steps.info.outputs.gate_info }} (${{ steps.info.outputs.date }})"
+            git push
+            echo "✅ 已提交并推送到仓库"
+          fi
+      
+      # 7. 发送邮件通知（成功时）
+      - name: Send success email
+        if: success()
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 587
+          secure: true
+          username: ${{ secrets.EMAIL_USERNAME }}
+          password: ${{ secrets.EMAIL_PASSWORD }}
+          subject: "✨ IHDS Daily View - ${{ steps.info.outputs.gate_info }}"
+          to: ${{ secrets.EMAIL_TO }}
+          from: "IHDS Daily Bot <${{ secrets.EMAIL_USERNAME }}>"
+          body: |
+            🌟 今日 Human Design Daily View 已更新！
+            
+            📅 日期：${{ steps.info.outputs.date }}
+            🚪 Gate：${{ steps.info.outputs.gate_info }}
+            
+            📂 查看仓库：${{ github.server_url }}/${{ github.repository }}
+            
+            ---
+            此邮件由 GitHub Actions 自动发送
+      
+      # 8. 发送失败通知
+      - name: Send failure email
+        if: failure()
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 587
+          secure: true
+          username: ${{ secrets.EMAIL_USERNAME }}
+          password: ${{ secrets.EMAIL_PASSWORD }}
+          subject: "❌ IHDS Daily View 抓取失败 - ${{ steps.info.outputs.date }}"
+          to: ${{ secrets.EMAIL_TO }}
+          from: "IHDS Daily Bot <${{ secrets.EMAIL_USERNAME }}>"
+          body: |
+            ⚠️ 今日 Daily View 抓取失败！
+            
+            📅 日期：${{ steps.info.outputs.date }}
+            🔗 查看日志：${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+            
+            请检查运行日志排查问题。

@@ -2,7 +2,7 @@
 
 **January 06, 2026**
 
-![Gate](images/Gate-54.jpg)
+![Gate](../../Gate_Rave_Mandala_Collection/Gate-54.jpg)
 
 ## *Gate of Ambition - The Drive to RIse Up*
 
@@ -18,7 +18,7 @@ This Gate is part of the Channel of Transformation, A Design of Being Driven, li
 
 Gate 54 provides humanity with the fuel and ambition to transform the Tribe's material direction and standing among other tribes. It supplies the energy for our most mundane ambitions, and the highest spiritual aspirations that may be hidden within them. Only when we have mastered our instincts to thrive on the mundane plane, is transformation of a spiritual nature possible. We live our spiritual ideals through the mundane plane, and ambition is the fulfillment of our personal potential. If someone notices us higher up in the hierarchy, there is a good chance that we can better our position in life. Our inner drive to 'rise up' provides the impetus for transformation for those around us as well; it levels the playing field for others to compete on equal terms. Our drive needs direction, however, so we naturally look to someone with Gate 32 to channel our ambitions toward something of lasting value. Without this direction, our drive may turn into blind ambition.
 
-![Rave Mandala](images/rave_mandala.png)
+![Rave Mandala](../../Gate_Rave_Mandala_Collection/Gate-54-Rave-Mandala.png)
 
 ---
 

@@ -8,11 +8,16 @@ Usage:
     >>> from ihds import DailyViewFetcher
     >>> fetcher = DailyViewFetcher(api_key="your-api-key")
     >>> fetcher.run()
+
+    >>> from ihds import LeonardoImageGenerator
+    >>> generator = LeonardoImageGenerator(api_key="your-leonardo-key")
+    >>> generator.generate_daily_art(content, output_dir)
 """
 
 from .fetcher import IHDSDailyViewFetcher as DailyViewFetcher
+from .image_generator import LeonardoImageGenerator
 
-__version__ = "1.0.0"
+__version__ = "1.1.0"
 __author__ = "IHDS Daily View Project"
-__all__ = ["DailyViewFetcher"]
+__all__ = ["DailyViewFetcher", "LeonardoImageGenerator"]
 
