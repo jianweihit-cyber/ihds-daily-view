@@ -2,7 +2,7 @@
 
 **January 11, 2026**
 
-![Gate](../Gate_Rave_Mandala_Collection/Gate-61.jpg)
+![Gate](../../Gate_Rave_Mandala_Collection/Gate-61.jpg)
 
 ## *Gate of Mystery - The Potential of Inner Truth is Silence*
 
@@ -18,7 +18,7 @@ This Gate is part of the Channel of Awareness, A Design of the Thinker, linking 
 
 Gate 61 is the pressure to know, to unravel the mystery, and to inspire with unique moments of absolute recognition. This knowing moves us toward deeper levels of self-acceptance where we can embrace what distinguishes us from others. We love to spend time musing, and mentally delving into the unknown. When we 'know' that we have a unique insight, and wait for the right time to express it, we feel liberated. When our knowing inspires, empowers, or mutates others, we feel empowered. Compared to the Collective mind, which is either focused on what happened in the past or predicting what may happen in the future, our Individual mind yearns for silence now, for all the voices and dialogue to stop. If we give in to the intense pressure, and let the unknown haunt us, our inspiration can become confused by delusion, leading to deep uncertainty and anxiety. The secret is to enjoy our thoughts and let our inner knowing, our inner truth, reveal itself in its own unique timing. Without Gate 24 we are not designed to solve the mystery, but simply to enjoy it.
 
-![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-61-Rave-Mandala.png)
+![Rave Mandala](../../Gate_Rave_Mandala_Collection/Gate-61-Rave-Mandala.png)
 
 ---
 
