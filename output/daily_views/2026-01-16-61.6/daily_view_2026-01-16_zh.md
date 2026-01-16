@@ -2,7 +2,7 @@
 
 **2026年01月16日**
 
-![閘門](../Gate_Rave_Mandala_Collection/Gate-61.jpg)
+![閘門](../../Gate_Rave_Mandala_Collection/Gate-61.jpg)
 
 ## *神秘之門 - 內在真理的潛能是靜默*
 
@@ -22,7 +22,7 @@ Gate 61 代表著知曉的壓力、解開奧秘的驅動力，以及透過絕對
 
 相較於集體意識總是聚焦過去已發生之事或預測未來可能之事，我們的個體意識渴望當下的靜默，期盼所有聲音與對話止息。若我們屈服於這股強烈壓力，任憑未知侵擾心神，我們的靈感可能被妄念混淆，導致深層的不確定與焦慮。秘訣在於享受思考過程，讓內在知曉與內在真理，以其獨特的時機自然顯現。若未連接 Gate 24，我們並非被設計來解開謎題，而僅是單純享受探索之趣。
 
-![人類圖曼陀羅](../Gate_Rave_Mandala_Collection/Gate-61-Rave-Mandala.png)
+![人類圖曼陀羅](../../Gate_Rave_Mandala_Collection/Gate-61-Rave-Mandala.png)
 
 ---
 
