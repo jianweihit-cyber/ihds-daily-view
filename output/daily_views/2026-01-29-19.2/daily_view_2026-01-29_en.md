@@ -2,7 +2,7 @@
 
 **January 29, 2026**
 
-![Gate](../Gate_Rave_Mandala_Collection/Gate-19.jpg)
+![Gate](../../Gate_Rave_Mandala_Collection/Gate-19.jpg)
 
 ## *Gate of Wanting - Fuel for our Social Needs*
 
@@ -18,7 +18,7 @@ This Gate is part of the Channel of Synthesis, A Design of Being Sensitive, link
 
 Gate 19 fuels two essential human mandates: the need to have access to basic resources like food and shelter, and the need for spirit. These mandates set us up to interact or bond with others in specific ways. When everyone has enough to eat, a place to live and a god to worship, we experience life as one healthy community, supporting each other and making our unique contribution to the whole. When there is want or need or great inequality in our tribe, communal support breaks down and nothing works. We are here to be alert and sensitive to which resources are being withheld from our family, community and eventually the global community. We bring others to an awareness of what resources are needed for everyone to survive, as well as thrive and achieve their personal or communal potential. The way we go about this depends on the specific line(s) defined in our chart, but the process usually requires enticing or bargaining with the people or institutions who share our principles, and possess or control what is needed. We know what is needed, and look to Gate 49 to fulfill those needs. The consequences of turning the Root Center's pressure inward are experienced as oversensitivity, an addiction to being needed, or personal neediness as in "Doesn't anyone care about me? When will I get my needs met?"
 
-![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-19-Rave-Mandala.png)
+![Rave Mandala](../../Gate_Rave_Mandala_Collection/Gate-19-Rave-Mandala.png)
 
 ---
 
