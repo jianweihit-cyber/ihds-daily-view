@@ -13,14 +13,24 @@
         <string>/Users/eric/Downloads/Cursor_Project/ihds/main.py</string>
     </array>
     
-    <!-- 每天早上 8:00 执行 -->
+    <!-- 每天执行两次，防止闘门/爻线切换遗漏 -->
     <key>StartCalendarInterval</key>
-    <dict>
-        <key>Hour</key>
-        <integer>8</integer>
-        <key>Minute</key>
-        <integer>0</integer>
-    </dict>
+    <array>
+        <!-- 每天早上 8:00 执行 -->
+        <dict>
+            <key>Hour</key>
+            <integer>8</integer>
+            <key>Minute</key>
+            <integer>0</integer>
+        </dict>
+        <!-- 每天晚上 20:00 执行 -->
+        <dict>
+            <key>Hour</key>
+            <integer>20</integer>
+            <key>Minute</key>
+            <integer>0</integer>
+        </dict>
+    </array>
     
     <!-- 环境变量 -->
     <key>EnvironmentVariables</key>

@@ -484,6 +484,24 @@ class IHDSDailyViewFetcher:
         
         return md
     
+    def _check_duplicate(self) -> bool:
+        """
+        检查当前内容是否已存在（防止重复抓取）
+        
+        Returns:
+            True 表示内容已存在，应跳过；False 表示是新内容
+        """
+        if self.output_dir is None:
+            return False
+        
+        en_file = self.output_dir / f"daily_view_{self.date_str}_en.md"
+        zh_file = self.output_dir / f"daily_view_{self.date_str}_zh.md"
+        
+        if en_file.exists() and zh_file.exists():
+            return True
+        
+        return False
+    
     def run(self) -> str:
         """执行完整的抓取、翻译和生成流程"""
         print("=" * 60)
@@ -503,6 +521,15 @@ class IHDSDailyViewFetcher:
         # 3. 根据内容创建目录（格式: 2026-01-06-54.1）
         dir_name = self._setup_daily_directory(en_content)
         print(f"   📁 目錄: {dir_name}")
+        
+        # 3.5 重复检测：如果同一个 Gate.Line 的内容已存在，跳过
+        if self._check_duplicate():
+            print(f"\n   ⏭️  {dir_name} 已存在完整內容，跳過本次抓取")
+            print("\n" + "=" * 60)
+            print("✨ 內容已是最新，無需重複抓取!")
+            print("=" * 60)
+            # 返回已有文件的路径
+            return str(self.output_dir / f"daily_view_{self.date_str}_en.md")
         
         # 4. 下载图片
         print("\n📷 正在下載圖片...")

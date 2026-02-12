@@ -1,9 +1,10 @@
 name: IHDS Daily View Fetcher
 
 on:
-  # 定时运行：每天 UTC 0:00 (北京时间 8:00)
+  # 定时运行：每天执行两次，防止闘门/爻线切换遗漏
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'     # UTC 0:00 (北京时间 8:00)
+    - cron: '0 12 * * *'    # UTC 12:00 (北京时间 20:00)
   
   # 支持手动触发
   workflow_dispatch:
@@ -74,6 +75,7 @@ jobs:
       
       # 6. 提交并推送更改
       - name: Commit and push changes
+        id: commit
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
@@ -83,16 +85,18 @@ jobs:
           
           # 检查是否有更改
           if git diff --staged --quiet; then
-            echo "没有新的更改需要提交"
+            echo "没有新的更改需要提交（内容与上次相同，已跳过）"
+            echo "has_new_content=false" >> $GITHUB_OUTPUT
           else
             git commit -m "📅 Daily View: ${{ steps.info.outputs.gate_info }} (${{ steps.info.outputs.date }})"
             git push
             echo "✅ 已提交并推送到仓库"
+            echo "has_new_content=true" >> $GITHUB_OUTPUT
           fi
       
-      # 7. 发送邮件通知（成功时）
+      # 7. 发送邮件通知（仅在有新内容时）
       - name: Send success email
-        if: success()
+        if: success() && steps.commit.outputs.has_new_content == 'true'
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: smtp.gmail.com
