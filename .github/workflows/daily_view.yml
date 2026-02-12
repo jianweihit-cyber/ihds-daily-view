@@ -94,7 +94,55 @@ jobs:
             echo "has_new_content=true" >> $GITHUB_OUTPUT
           fi
       
-      # 7. 发送邮件通知（仅在有新内容时）
+      # 7. 检测仓库不活跃天数（GitHub 60 天无活动会自动禁用定时任务）
+      - name: Check repo inactivity
+        id: inactivity
+        if: always()
+        run: |
+          # 获取最后一次 commit 的时间戳
+          LAST_COMMIT_DATE=$(git log -1 --format='%ct')
+          NOW=$(date +%s)
+          DIFF_DAYS=$(( (NOW - LAST_COMMIT_DATE) / 86400 ))
+          echo "days_since_last_commit=$DIFF_DAYS" >> $GITHUB_OUTPUT
+          echo "📊 距上次 commit 已过 $DIFF_DAYS 天"
+          
+          if [ "$DIFF_DAYS" -ge 50 ]; then
+            echo "need_warning=true" >> $GITHUB_OUTPUT
+            echo "⚠️ 接近 60 天不活跃限制，需要发送提醒！"
+          else
+            echo "need_warning=false" >> $GITHUB_OUTPUT
+          fi
+      
+      # 7.5 发送不活跃预警邮件（距上次 commit 超过 50 天时）
+      - name: Send inactivity warning email
+        if: always() && steps.inactivity.outputs.need_warning == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.EMAIL_USERNAME }}
+          password: ${{ secrets.EMAIL_PASSWORD }}
+          subject: "⚠️ IHDS 仓库即将因不活跃被 GitHub 禁用定时任务"
+          to: ${{ secrets.EMAIL_TO }}
+          from: "IHDS Daily Bot <${{ secrets.EMAIL_USERNAME }}>"
+          body: |
+            ⚠️ 仓库不活跃预警！
+            
+            📊 距离上次成功 commit 已过 ${{ steps.inactivity.outputs.days_since_last_commit }} 天
+            ⏰ GitHub 会在 60 天无活动后自动禁用定时工作流
+            
+            🔧 请尽快处理：
+            1. 检查 Actions 运行日志，排查为何近期没有新内容提交
+            2. 或手动触发一次 workflow 保持仓库活跃
+            
+            📂 仓库地址：${{ github.server_url }}/${{ github.repository }}
+            🔗 Actions 日志：${{ github.server_url }}/${{ github.repository }}/actions
+            
+            ---
+            此邮件由 GitHub Actions 自动发送
+      
+      # 8. 发送邮件通知（仅在有新内容时）
       - name: Send success email
         if: success() && steps.commit.outputs.has_new_content == 'true'
         uses: dawidd6/action-send-mail@v3
@@ -118,7 +166,7 @@ jobs:
             ---
             此邮件由 GitHub Actions 自动发送
       
-      # 8. 发送失败通知
+      # 9. 发送失败通知
       - name: Send failure email
         if: failure()
         uses: dawidd6/action-send-mail@v3
