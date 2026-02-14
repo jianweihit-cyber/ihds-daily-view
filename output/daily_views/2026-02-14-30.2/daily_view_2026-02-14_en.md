@@ -2,7 +2,7 @@
 
 **February 14, 2026**
 
-![Gate](../Gate_Rave_Mandala_Collection/Gate-30.jpg)
+![Gate](../../Gate_Rave_Mandala_Collection/Gate-30.jpg)
 
 ## *Gate of Feelings - Surrendering to Fate*
 
@@ -18,7 +18,7 @@ This Gate is part of the Channel of Recognition, A Design of Focused Energy, lin
 
 The Gate of the Fates teaches us that life is not what we expect it to be - it is what we allow it to be. Experiences are conceived from a desire that then meets life on the highs and lows of our emotional wave. This desire can feel like an obsessive hunger that weaves the yearnings of different lives together, influencing our every interaction until it is satisfied or fulfilled. The only control we have is over the clarity with which we enter into each experience, not over the outcome. Because desire can only be temporarily assuaged, life without clarity becomes a wild emotional ride. Over time, we see that the freedom to fulfill our wildest dreams is merely an illusion, and unreciprocated desire should not be taken personally. Balance in our life comes through surrender, through accepting what is. In doing so, we need not fear the fates or feel pressured to chase after the fantasies of Gate 41. By accepting our limitation, or place in the larger pattern of life, our reflections on feeling and desiring deeply while experiencing our humanness become a gift to be shared with others.
 
-![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-30-Rave-Mandala.png)
+![Rave Mandala](../../Gate_Rave_Mandala_Collection/Gate-30-Rave-Mandala.png)
 
 ---
 
