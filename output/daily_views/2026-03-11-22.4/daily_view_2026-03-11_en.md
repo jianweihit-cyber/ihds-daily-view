@@ -2,7 +2,7 @@
 
 **March 11, 2026**
 
-![Gate](../Gate_Rave_Mandala_Collection/Gate-22.jpg)
+![Gate](../../Gate_Rave_Mandala_Collection/Gate-22.jpg)
 
 ## *Gate of Openness - Sharing Spirit with Others*
 
@@ -20,7 +20,7 @@ Gate 22 combines the potential for emotional openness through listening, with a 
 
 Those who carry this gate listen to others until they complete what they are saying, making what they have to say naturally come second. This is grace in action, as well as the key to our own empowerment. In fact, it is our responsibility and privilege to use our social listening skills in a way that makes change available to others. Without the 12th gate, we may know what we feel, but not how to express it verbally. Because silence makes us nervous, what we fear most is that there is nothing worthwhile to listen to.
 
-![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-22-Rave-Mandala.png)
+![Rave Mandala](../../Gate_Rave_Mandala_Collection/Gate-22-Rave-Mandala.png)
 
 ---
 
