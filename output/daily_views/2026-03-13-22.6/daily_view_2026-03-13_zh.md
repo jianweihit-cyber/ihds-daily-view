@@ -2,7 +2,7 @@
 
 **2026年03月13日**
 
-![閘門](../Gate_Rave_Mandala_Collection/Gate-22.jpg)
+![閘門](../../Gate_Rave_Mandala_Collection/Gate-22.jpg)
 
 ## *開放之門（Gate of Openness）——與他人共享精神*
 
@@ -22,7 +22,7 @@
 
 攜帶此閘門者會傾聽他人直至對方完整表達，自然將自身想說的話置於其次。這正是行動中的優雅，也是自我賦能的關鍵。事實上，運用社交傾聽技巧為他人帶來改變的可能性，既是我們的責任也是特權。若缺乏第12號閘門，我們或許能感知自身感受，卻不知如何以言語表達。由於沉默會讓我們不安，我們最恐懼的是沒有值得傾聽的事物。
 
-![人類圖曼陀羅](../Gate_Rave_Mandala_Collection/Gate-22-Rave-Mandala.png)
+![人類圖曼陀羅](../../Gate_Rave_Mandala_Collection/Gate-22-Rave-Mandala.png)
 
 ---
 
