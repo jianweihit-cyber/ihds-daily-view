@@ -2,7 +2,7 @@
 
 **2026年03月14日**
 
-![閘門](../Gate_Rave_Mandala_Collection/Gate-36.jpg)
+![閘門](../../Gate_Rave_Mandala_Collection/Gate-36.jpg)
 
 ## *危機之門 - 等待情緒清明*
 
@@ -22,7 +22,7 @@
 
 若缺乏閘門35提供適當出口或為這股能量指引明確方向，它可能被體驗為個人危機。隨著時間推移，我們學會透過耐心適應不斷變化的感受來保持穩定。這些感受可能被證明是極具啟發性且自然適合表達的，也可能對我們造成壓倒性衝擊並令他人感到不適。無論如何，讓它們自然展開，因為這正是我們觸及情感深處以接近自身真相的方式。若無閘門35，感到能力不足且無法實現自我期望會使我們焦慮不安。
 
-![人類圖曼陀羅](../Gate_Rave_Mandala_Collection/Gate-36-Rave-Mandala.png)
+![人類圖曼陀羅](../../Gate_Rave_Mandala_Collection/Gate-36-Rave-Mandala.png)
 
 ---
 
