@@ -2,7 +2,7 @@
 
 **March 14, 2026**
 
-![Gate](../Gate_Rave_Mandala_Collection/Gate-36.jpg)
+![Gate](../../Gate_Rave_Mandala_Collection/Gate-36.jpg)
 
 ## *Gate of Crisis - Wait for Emotional Clarity*
 
@@ -20,7 +20,7 @@ Gate 36 is the place where our fears of vulnerability and inexperience (emotiona
 
 Without Gate 35 to provide a proper outlet or give a focused direction to this energy, it can be experienced as a personal crisis. We learn over time to remain steady by patiently adapting to constantly changing feelings. These feelings can prove to be wonderfully stimulating and natural for us to express, or overwhelming to us and uncomfortable for others. Either way let them unfold, as this is how we reach for our emotional depth in order to access our own truth. Without Gate 35, feeling inadequate and unable to fulfill our own expectations makes us nervous.
 
-![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-36-Rave-Mandala.png)
+![Rave Mandala](../../Gate_Rave_Mandala_Collection/Gate-36-Rave-Mandala.png)
 
 ---
 
