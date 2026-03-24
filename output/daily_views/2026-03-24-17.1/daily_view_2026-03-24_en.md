@@ -2,7 +2,7 @@
 
 **March 24, 2026**
 
-![Gate](../Gate_Rave_Mandala_Collection/Gate-17.jpg)
+![Gate](../../Gate_Rave_Mandala_Collection/Gate-17.jpg)
 
 ## *Gate of Opinions - Grounded in Detail*
 
@@ -20,7 +20,7 @@ Gate 17 looks for one concept or opinion among many that we can all trust - one 
 
 Our right eye takes in the world at a glance, seeing it as a collection of recognizable, visual patterns. If a pattern or an opinion cannot stand up to logic's scrutiny, it will be or should be rejected. Unfortunately, we cannot always translate our visual image or what we understand about it, into language. Without Gate 62, we will find ourselves looking for a name to represent our concepts, for facts to support our opinions, and for an effective means to communicate our suggestions. Mental anxiety for us arises out of the fear that no one will understand and value our input.
 
-![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-17-Rave-Mandala.png)
+![Rave Mandala](../../Gate_Rave_Mandala_Collection/Gate-17-Rave-Mandala.png)
 
 ---
 
