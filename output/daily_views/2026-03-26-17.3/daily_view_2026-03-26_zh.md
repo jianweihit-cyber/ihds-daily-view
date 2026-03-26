@@ -2,7 +2,7 @@
 
 **2026年03月26日**
 
-![閘門](../Gate_Rave_Mandala_Collection/Gate-17.jpg)
+![閘門](../../Gate_Rave_Mandala_Collection/Gate-17.jpg)
 
 ## *觀點之門 - 立足於細節*
 
@@ -22,7 +22,7 @@
 
 我們的右眼能瞬間攝取世界景象，將其視為可識別的視覺模式集合。若某種模式或觀點無法通過邏輯審視，就應當被摒棄。然而，我們未必總能將視覺意象或對其的理解轉化為語言。若缺乏第62號閘門，我們會不斷尋求能代表概念的詞彙、支持觀點的證據，以及傳達建議的有效途徑。心智焦慮正源自於恐懼——害怕無人理解並重視我們的貢獻。
 
-![人類圖曼陀羅](../Gate_Rave_Mandala_Collection/Gate-17-Rave-Mandala.png)
+![人類圖曼陀羅](../../Gate_Rave_Mandala_Collection/Gate-17-Rave-Mandala.png)
 
 ---
 
