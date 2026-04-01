@@ -2,7 +2,7 @@
 
 **April 01, 2026**
 
-![Gate](../Gate_Rave_Mandala_Collection/Gate-21.jpg)
+![Gate](../../Gate_Rave_Mandala_Collection/Gate-21.jpg)
 
 ## *Gate of the Hunter/Huntress - Strength of Will*
 
@@ -20,7 +20,7 @@ The 21st gate needs to be in control of its domain. In order to apply the streng
 
 Those who carry this gate do not like to be told what to do or to have people looking over their shoulder. On the other hand, we are destined to serve others because in a Tribal bargain all must benefit if we are to benefit ourselves. If we attempt to assume power, or to control others without following our Strategy and Authority, we will encounter forceful resistance. Regardless of the benefits of our intentions, we must wait until we are offered control. Projectors need to be with people who recognize and invite their ability to control; Generators have to be asked for access to their Sacral energy so they can respond; Manifestors have to inform before they attempt to exert control and thus measure the resistance field. Without Gate 45 we will find ourselves searching for a position from which we can oversee the future and wealth of the community.
 
-![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-21-Rave-Mandala.png)
+![Rave Mandala](../../Gate_Rave_Mandala_Collection/Gate-21-Rave-Mandala.png)
 
 ---
 
