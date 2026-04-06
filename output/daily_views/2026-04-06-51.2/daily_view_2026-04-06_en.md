@@ -2,7 +2,7 @@
 
 **April 06, 2026**
 
-![Gate](../Gate_Rave_Mandala_Collection/Gate-51.jpg)
+![Gate](../../Gate_Rave_Mandala_Collection/Gate-51.jpg)
 
 ## *Gate of Shock - Arousing Empowers the Direction of Love*
 
@@ -20,7 +20,7 @@ Gate 51, the Gate of Shock, is the energy for Individual initiative. Backed by t
 
 The secret to maintaining our heart's health is to center ourselves by attuning to our Strategy and Authority, and sense within when we have the will to engage in battle, and when we don't. This guidance will allow us to adapt to the nature of any shock or disorder confronting us, and give our heart the rest it needs in order to recuperate from our engagement with the world. Without Gate 25 we may find ourselves seeking or looking to the realm of spirit for guidance or direction.
 
-![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-51-Rave-Mandala.png)
+![Rave Mandala](../../Gate_Rave_Mandala_Collection/Gate-51-Rave-Mandala.png)
 
 ---
 

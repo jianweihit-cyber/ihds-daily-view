@@ -2,7 +2,7 @@
 
 **2026年04月06日**
 
-![閘門](../Gate_Rave_Mandala_Collection/Gate-51.jpg)
+![閘門](../../Gate_Rave_Mandala_Collection/Gate-51.jpg)
 
 ## *閘門 51 - 震盪（喚醒）賦予愛的方向力量*
 
@@ -22,7 +22,7 @@
 
 維持內心健康的秘訣在於：透過遵循自身的人生策略（Strategy）與內在權威（Authority）來回歸中心，並感知內在何時擁有投入戰鬥的意志、何時沒有。這份指引將使我們能適應面臨的任何衝擊或混亂的本質，並給予內心所需的休息，以從與世界的互動中恢復。若缺乏閘門25的能量，我們可能會發現自己傾向於向靈性領域尋求指引或方向。
 
-![人類圖曼陀羅](../Gate_Rave_Mandala_Collection/Gate-51-Rave-Mandala.png)
+![人類圖曼陀羅](../../Gate_Rave_Mandala_Collection/Gate-51-Rave-Mandala.png)
 
 ---
 
