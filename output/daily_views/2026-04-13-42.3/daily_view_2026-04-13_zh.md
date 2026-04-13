@@ -2,7 +2,7 @@
 
 **2026年04月13日**
 
-![閘門](../Gate_Rave_Mandala_Collection/Gate-42.jpg)
+![閘門](../../Gate_Rave_Mandala_Collection/Gate-42.jpg)
 
 ## *成長之門 - 「聖杯」即為體驗*
 
@@ -22,7 +22,7 @@ Gate 42 的特質是堅持完成循環，以最大化內在潛能。抽象的循
 
 對我們而言，確認所投入之事是否正確至關重要，因為一旦承諾（例如一段不幸的婚姻），便很難從中抽身。透過遵循自身策略與內在權威，等待到能量投入感到自在的時刻，我們才能最大化自身的「滿足潛能」。若缺乏 Gate 53 提供啟動的火花，我們可能會發現自己缺少完成過程的持久力，或在嘗試啟動卻始終無法真正開展時感到挫折。
 
-![人類圖曼陀羅](../Gate_Rave_Mandala_Collection/Gate-42-Rave-Mandala.png)
+![人類圖曼陀羅](../../Gate_Rave_Mandala_Collection/Gate-42-Rave-Mandala.png)
 
 ---
 
