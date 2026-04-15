@@ -2,7 +2,7 @@
 
 **April 15, 2026**
 
-![Gate](../Gate_Rave_Mandala_Collection/Gate-42.jpg)
+![Gate](../../Gate_Rave_Mandala_Collection/Gate-42.jpg)
 
 ## *Gate of Growth - The 'Grail' is the Experience*
 
@@ -20,7 +20,7 @@ Gate 42 is the tenacity to stay with a cycle in order to maximize its inherent p
 
 It is important that what we commit to is correct for us, as it is very difficult for us to extract ourselves from something once we have committed to it, such as an unfortunate marriage, for example. By waiting until we are comfortable committing our energy, through our Strategy and Authority, we maximize our own 'satisfaction potential.' Without Gate 53 to provide the initiating spark, we may find that we lack the staying power to complete the process, or feel frustrated trying to start things that never really get going.
 
-![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-42-Rave-Mandala.png)
+![Rave Mandala](../../Gate_Rave_Mandala_Collection/Gate-42-Rave-Mandala.png)
 
 ---
 
