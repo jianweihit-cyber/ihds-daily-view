@@ -2,7 +2,7 @@
 
 **April 20, 2026**
 
-![Gate](../Gate_Rave_Mandala_Collection/Gate-3.jpg)
+![Gate](../../Gate_Rave_Mandala_Collection/Gate-3.jpg)
 
 ## *Gate of Ordering - Mutation is Generated & Empowered*
 
@@ -20,7 +20,7 @@ The function of Gate 3 is to transcend confusion and establish order so that som
 
 We may experience melancholy and even depression when we feel that there is no energy fueling our potential to bring change. This is a time, however, for us to go deep into our own process, to spend time with our own creative muse. We cannot predict, control or rush the mutative moment. It has its own timing. And anyone who steps into our aura, at the right time, can be changed without us even lifting a finger.
 
-![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-3-Rave-Mandala.png)
+![Rave Mandala](../../Gate_Rave_Mandala_Collection/Gate-3-Rave-Mandala.png)
 
 ---
 
