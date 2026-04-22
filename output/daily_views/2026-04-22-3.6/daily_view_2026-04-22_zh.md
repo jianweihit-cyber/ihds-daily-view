@@ -2,7 +2,7 @@
 
 **2026年04月22日**
 
-![閘門](../Gate_Rave_Mandala_Collection/Gate-3.jpg)
+![閘門](../../Gate_Rave_Mandala_Collection/Gate-3.jpg)
 
 ## *閘門之秩序 - 突變的生成與賦能*
 
@@ -22,7 +22,7 @@
 
 當感到缺乏能量驅動我們帶來改變的潛力時，我們可能會經歷憂鬱甚至沮喪。然而，這正是我們深入自身歷程、與內在創造靈感共處的時刻。我們無法預測、控制或催促突變的發生——它自有其時機。在對的時刻，任何人進入我們的光環中，即使我們不費吹灰之力，也可能被改變。
 
-![人類圖曼陀羅](../Gate_Rave_Mandala_Collection/Gate-3-Rave-Mandala.png)
+![人類圖曼陀羅](../../Gate_Rave_Mandala_Collection/Gate-3-Rave-Mandala.png)
 
 ---
 
