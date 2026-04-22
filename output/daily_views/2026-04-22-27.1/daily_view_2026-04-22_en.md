@@ -2,7 +2,7 @@
 
 **April 22, 2026**
 
-![Gate](../Gate_Rave_Mandala_Collection/Gate-27.jpg)
+![Gate](../../Gate_Rave_Mandala_Collection/Gate-27.jpg)
 
 ## *Gate of Caring - Care for Oneself First*
 
@@ -20,7 +20,7 @@ The energy of the 27th gate is focused on maintaining and enhancing the quality 
 
 Each line of this gate represents a way to connect to and care for the Tribe according to different levels of need. Without Gate 50, we may lack the instinct and values to set healthy boundaries around our natural impulse to care for others, and easily end up sacrificing ourselves or our own well-being.
 
-![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-27-Rave-Mandala.png)
+![Rave Mandala](../../Gate_Rave_Mandala_Collection/Gate-27-Rave-Mandala.png)
 
 ---
 
