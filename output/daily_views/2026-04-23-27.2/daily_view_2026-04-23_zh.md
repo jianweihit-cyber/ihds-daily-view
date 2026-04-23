@@ -2,7 +2,7 @@
 
 **2026年04月23日**
 
-![閘門](../Gate_Rave_Mandala_Collection/Gate-27.jpg)
+![閘門](../../Gate_Rave_Mandala_Collection/Gate-27.jpg)
 
 ## *關懷之門 - 先照顧好自己*
 
@@ -22,7 +22,7 @@
 
 此閘門的每一爻線，皆代表依據不同需求層次與部落連結及照顧的方式。若缺乏 Gate 50，我們可能缺乏本能與價值觀，難以在照顧他人的自然衝動周圍設立健康界線，因而容易陷入自我犧牲或損害自身福祉的困境。
 
-![人類圖曼陀羅](../Gate_Rave_Mandala_Collection/Gate-27-Rave-Mandala.png)
+![人類圖曼陀羅](../../Gate_Rave_Mandala_Collection/Gate-27-Rave-Mandala.png)
 
 ---
 
