@@ -2,7 +2,7 @@
 
 **2026年04月27日**
 
-![閘門](../Gate_Rave_Mandala_Collection/Gate-27.jpg)
+![閘門](../../Gate_Rave_Mandala_Collection/Gate-27.jpg)
 
 ## *關懷之閘門（Gate of Caring）——先照顧好自己*
 
@@ -22,7 +22,7 @@
 
 此閘門的每一條爻線，都代表著根據不同層次的需求，與部落連結並照顧部落的方式。若缺少閘門50，我們可能缺乏直覺與價值觀，來為自己照顧他人的自然衝動設立健康的界線，最終容易犧牲自己或自身的福祉。
 
-![人類圖曼陀羅](../Gate_Rave_Mandala_Collection/Gate-27-Rave-Mandala.png)
+![人類圖曼陀羅](../../Gate_Rave_Mandala_Collection/Gate-27-Rave-Mandala.png)
 
 ---
 
