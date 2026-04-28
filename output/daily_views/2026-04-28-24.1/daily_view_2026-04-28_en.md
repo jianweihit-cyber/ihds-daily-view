@@ -2,7 +2,7 @@
 
 **April 28, 2026**
 
-![Gate](../Gate_Rave_Mandala_Collection/Gate-24.jpg)
+![Gate](../../Gate_Rave_Mandala_Collection/Gate-24.jpg)
 
 ## *Gate of Rationalization - Inspiration Must be Given a Rational Form*
 
@@ -20,7 +20,7 @@ Gate 24's function is to take the unique inspiration of Gate 61 and turn it into
 
 Gate 24 is the fear of ignorance, which is the mental anxiety that we will never know for certain, or that we won't be able to explain our knowing. If we try and make decisions with our mind, we will trigger this anxiety. Without Gate 61 we are under pressure to make not-self mental decisions to look for the next inspiring mystery to solve.
 
-![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-24-Rave-Mandala.png)
+![Rave Mandala](../../Gate_Rave_Mandala_Collection/Gate-24-Rave-Mandala.png)
 
 ---
 
