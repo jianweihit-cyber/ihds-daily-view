@@ -2,7 +2,7 @@
 
 **2026年05月03日**
 
-![閘門](../Gate_Rave_Mandala_Collection/Gate-24.jpg)
+![閘門](../../Gate_Rave_Mandala_Collection/Gate-24.jpg)
 
 ## *理性化之閘門（Gate of Rationalization）－靈感必須賦予理性形式*
 
@@ -22,7 +22,7 @@ Gate 24的功能是將Gate 61的獨特靈感轉化為理性概念，最終能與
 
 Gate 24是對無知的恐懼，這是一種心智上的焦慮，擔心自己永遠無法確切知曉，或無法解釋自己所知。如果我們試圖用心智做決定，就會觸發這種焦慮。若缺少Gate 61，我們會承受壓力，被迫做出非自我（not-self）的心智決定，不斷尋找下一個值得解決的啟發性謎題。
 
-![人類圖曼陀羅](../Gate_Rave_Mandala_Collection/Gate-24-Rave-Mandala.png)
+![人類圖曼陀羅](../../Gate_Rave_Mandala_Collection/Gate-24-Rave-Mandala.png)
 
 ---
 
