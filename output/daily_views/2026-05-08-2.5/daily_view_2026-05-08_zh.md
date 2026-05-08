@@ -2,7 +2,7 @@
 
 **2026年05月08日**
 
-![閘門](../Gate_Rave_Mandala_Collection/Gate-2.jpg)
+![閘門](../../Gate_Rave_Mandala_Collection/Gate-2.jpg)
 
 ## *Gate of the Direction of Self - The Driver（自我方向的閘門——驅動者）*
 
@@ -22,7 +22,7 @@
 
 持續朝我們方向前進的動力與燃料，來自薦骨中心透過閘門14提供。我們甚至可能發現自己引導他人獲取支持其創造性努力所需的資源，或者發現只要單純順應自己的方向，就能自動賦權或確認他人自身的方向感。我們是願景家，為新的前進道路提供藍圖或總覽，但未必需要親自執行或促成其實現。我們仰賴閘門14作為盟友，獲取實現願景所需的力量與資源。
 
-![人類圖曼陀羅](../Gate_Rave_Mandala_Collection/Gate-2-Rave-Mandala.png)
+![人類圖曼陀羅](../../Gate_Rave_Mandala_Collection/Gate-2-Rave-Mandala.png)
 
 ---
 
