@@ -2,7 +2,7 @@
 
 **May 08, 2026**
 
-![Gate](../Gate_Rave_Mandala_Collection/Gate-2.jpg)
+![Gate](../../Gate_Rave_Mandala_Collection/Gate-2.jpg)
 
 ## *Gate of the Direction of Self - The Driver*
 
@@ -20,7 +20,7 @@ The 'higher' knowing of Gate 2 is rooted in the direction of the self toward lov
 
 The motor and the fuel to keep moving in our direction comes from the Sacral Center through Gate 14. We may even find ourselves directing other people toward the resources they need to support their creative endeavors, or discover that by simply aligning to our own direction we automatically empower or confirm in others their own sense of direction. We are visionaries providing the plan or overview for a new way forward, but we are not necessarily to do the work or make it happen. We look to Gate 14 for allies, for the power and resources to bring our vision to fruition.
 
-![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-2-Rave-Mandala.png)
+![Rave Mandala](../../Gate_Rave_Mandala_Collection/Gate-2-Rave-Mandala.png)
 
 ---
 
