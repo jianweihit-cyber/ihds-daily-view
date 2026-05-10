@@ -2,7 +2,7 @@
 
 **May 10, 2026**
 
-![Gate](../Gate_Rave_Mandala_Collection/Gate-23.jpg)
+![Gate](../../Gate_Rave_Mandala_Collection/Gate-23.jpg)
 
 ## *Gate of Assimilation - The Elimination of Intolerance*
 
@@ -20,7 +20,7 @@ Gate 23 is where inspiration as inner knowing is finally translated into languag
 
 It is also important that we speak only what we truly know. Over time, our genius will be recognized and we will earn the respect of others. Without Gate 43's conceptualizing, we may experience mental anxiety as we realize that we don't know exactly what it is we know, leaving ourselves open to misunderstanding and dismissal.
 
-![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-23-Rave-Mandala.png)
+![Rave Mandala](../../Gate_Rave_Mandala_Collection/Gate-23-Rave-Mandala.png)
 
 ---
 
