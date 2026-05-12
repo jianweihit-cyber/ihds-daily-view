@@ -2,7 +2,7 @@
 
 **2026年05月12日**
 
-![閘門](../Gate_Rave_Mandala_Collection/Gate-23.jpg)
+![閘門](../../Gate_Rave_Mandala_Collection/Gate-23.jpg)
 
 ## *同化之閘門（Gate of Assimilation）—— 消除不容忍*
 
@@ -22,7 +22,7 @@ Gate 23 是內在知曉的靈感最終轉化為語言之處。其非道德性、
 
 同樣重要的是，我們只能說出自己真正知道的事。隨著時間推移，我們的天才會被認可，並贏得他人尊重。若缺乏Gate 43的概念化能力，我們可能會因意識到自己並不完全清楚所知為何，而陷入心智焦慮，使自己暴露於誤解與排斥的風險中。
 
-![人類圖曼陀羅](../Gate_Rave_Mandala_Collection/Gate-23-Rave-Mandala.png)
+![人類圖曼陀羅](../../Gate_Rave_Mandala_Collection/Gate-23-Rave-Mandala.png)
 
 ---
 
