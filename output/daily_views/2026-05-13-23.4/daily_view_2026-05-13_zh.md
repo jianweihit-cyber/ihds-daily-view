@@ -2,7 +2,7 @@
 
 **2026年05月13日**
 
-![閘門](../Gate_Rave_Mandala_Collection/Gate-23.jpg)
+![閘門](../../Gate_Rave_Mandala_Collection/Gate-23.jpg)
 
 ## *同化之閘門 - 消除不容忍*
 
@@ -22,7 +22,7 @@
 
 同樣重要的是，我們只能說出自己真正知道的事。隨著時間推移，我們的天賦終將被認可，並贏得他人尊重。若缺少第43閘門的概念化能力，我們可能會因意識到自己並不清楚究竟知道什麼而陷入心智焦慮，使自己暴露於被誤解與忽視的風險中。
 
-![人類圖曼陀羅](../Gate_Rave_Mandala_Collection/Gate-23-Rave-Mandala.png)
+![人類圖曼陀羅](../../Gate_Rave_Mandala_Collection/Gate-23-Rave-Mandala.png)
 
 ---
 
