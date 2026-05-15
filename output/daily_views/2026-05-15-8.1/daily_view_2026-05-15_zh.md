@@ -2,7 +2,7 @@
 
 **2026年05月15日**
 
-![閘門](../Gate_Rave_Mandala_Collection/Gate-8.jpg)
+![閘門](../../Gate_Rave_Mandala_Collection/Gate-8.jpg)
 
 ## *[翻译失败] Gate of Contribution - Leading by Example*
 
@@ -20,7 +20,7 @@ Gate 8 says, "I know I can contribute, or not." Our contribution will come eithe
 
 The leadership path of recognizing and displaying what is mutative and unique can be a lonely one as we must first be recognized, and then invited to publicly display and endorse what we know to be of future value. Without the invitation, society's attention may be negative. If Gate 1's creative means of self-expression is not defined in our chart, we will seek its inspirational qualities; however, our key role is not as the artist but as the agent who promotes other artists' vision of the new.
 
-![人類圖曼陀羅](../Gate_Rave_Mandala_Collection/Gate-8-Rave-Mandala.png)
+![人類圖曼陀羅](../../Gate_Rave_Mandala_Collection/Gate-8-Rave-Mandala.png)
 
 ---
 
