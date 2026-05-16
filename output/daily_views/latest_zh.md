@@ -24,8 +24,8 @@ The leadership path of recognizing and displaying what is mutative and unique ca
 
 ---
 
-### [翻译失败] Line 1 - Honesty
+### [翻译失败] Line 2 - Service
 
-**☀️ 高階表達:** [翻译失败] The awareness that the whole is always greater than the sum of its parts. Knowing that creative expression must be honestly communicated and shared.
+**☀️ 高階表達:** [翻译失败] The highest good, to serve selflessly. The potential to be an example through unselfish expression.
 
-**🌑 低階表達:** [翻译失败] Withdrawal. The fear of losing individuality in a group environment. The design to share creativity at the expense of individuality.
+**🌑 低階表達:** [翻译失败] The earth in detriment, where reward is a prerequisite of service. The willingness to be an example for a price.
