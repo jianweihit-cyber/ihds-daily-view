@@ -24,8 +24,8 @@ The leadership path of recognizing and displaying what is mutative and unique ca
 
 ---
 
-### [翻译失败] Line 5 - Dharma
+### [翻译失败] Line 6 - Communion
 
-**☀️ 高階表達:** [翻译失败] The teacher. Contribution as part of a process of sharing that accepts and expects limitation, exemplified in teaching.
+**☀️ 高階表達:** [翻译失败] The awareness of patterns that ensures correct timing. The gift of knowing when to contribute creatively.
 
-**🌑 低階表達:** [翻译失败] The parent that cannot let go of the child, understanding only, that its authority is being challenged. Contribution as an end in itself that neither accepts nor expects limitation, exemplified by the parent that cannot let go of the child.
+**🌑 低階表達:** [翻译失败] Doubt, which may engender regret even in the most ideal circumstances. Uncertainty in timing and regret despite circumstances.
