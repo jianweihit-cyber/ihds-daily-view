@@ -1,6 +1,6 @@
 # [翻译失败] Gate 8 - Holding Together
 
-**2026年05月20日**
+**2026年05月21日**
 
 ![閘門](../Gate_Rave_Mandala_Collection/Gate-8.jpg)
 
