@@ -2,7 +2,7 @@
 
 **May 25, 2026**
 
-![Gate](../Gate_Rave_Mandala_Collection/Gate-20.jpg)
+![Gate](../../Gate_Rave_Mandala_Collection/Gate-20.jpg)
 
 ## *Gate of The Now - I Am Now*
 
@@ -20,7 +20,7 @@ Gate 20 is a purely existential gate that keeps us focused in the present, and s
 
 To be awake and aware, and to survive, we must be fully present to the moment and authentically ourselves. There is rarely time to mentally consider or control what comes bubbling up from inside of us, so what we say or what we do is suddenly there for everybody, including us, to witness. In fact, we often see when we are not looking, or hear when we are not listening. This is how the potential for evolutionary change hidden in each moment of existence is empowered within us. As we live by our Strategy and Authority, we become a living example. Our intuitive knowing, personal survival and mutative, self-loving behaviors influence or empower others.
 
-![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-20-Rave-Mandala.png)
+![Rave Mandala](../../Gate_Rave_Mandala_Collection/Gate-20-Rave-Mandala.png)
 
 ---
 
