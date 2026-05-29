@@ -2,7 +2,7 @@
 
 **2026年05月29日**
 
-![閘門](../Gate_Rave_Mandala_Collection/Gate-16.jpg)
+![閘門](../../Gate_Rave_Mandala_Collection/Gate-16.jpg)
 
 ## *[翻译失败] Gate of Skills - The Skills for Living - Life as Art*
 

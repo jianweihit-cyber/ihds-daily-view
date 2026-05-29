@@ -2,7 +2,7 @@
 
 **May 29, 2026**
 
-![Gate](../Gate_Rave_Mandala_Collection/Gate-16.jpg)
+![Gate](../../Gate_Rave_Mandala_Collection/Gate-16.jpg)
 
 ## *Gate of Skills - The Skills for Living - Life as Art*
 
