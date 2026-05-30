@@ -2,7 +2,7 @@
 
 **May 30, 2026**
 
-![Gate](../Gate_Rave_Mandala_Collection/Gate-16.jpg)
+![Gate](../../Gate_Rave_Mandala_Collection/Gate-16.jpg)
 
 ## *Gate of Skills - The Skills for Living - Life as Art*
 
@@ -20,7 +20,7 @@ With Gate 16 we eventually make our mark in the world as a keen critic, skilled 
 
 We are also searching for a source of material support that will allow us to concentrate on perfecting our talent, our theory, our solution, so we can then make it available to the world. We look to people with Gate 48 to bring their depth and dimension to our skill, as well as to properly direct, correct and encourage our own disciplined practice.
 
-![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-16-Rave-Mandala.png)
+![Rave Mandala](../../Gate_Rave_Mandala_Collection/Gate-16-Rave-Mandala.png)
 
 ---
 
