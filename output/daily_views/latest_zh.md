@@ -1,31 +1,31 @@
-# [翻译失败] Gate 16 - Enthusiasm
+# [翻译失败] Gate 35 - Progress
 
-**2026年06月01日**
+**2026年06月02日**
 
-![閘門](../Gate_Rave_Mandala_Collection/Gate-16.jpg)
+![閘門](../Gate_Rave_Mandala_Collection/Gate-35.jpg)
 
-## *[翻译失败] Gate of Skills - The Skills for Living - Life as Art*
+## *[翻译失败] Gate of Change - The Secret is 'No-Expectation'*
 
-> [翻译失败] The great art of enriching life by the harmonic channeling of energy. Experimentation to find the 'Perfect' skillful expression.
+> [翻译失败] By design, progress can not exist in a vacuum and is dependent on interaction. Life is a continuous cycle of experiences with beginnings, middles, and ends.
 
-### [翻译失败] Left Angle Cross of Identification | Godhead - Lakshmi
+### [翻译失败] Right Angle Cross of Consciousness 2 | Godhead - Lakshmi
 
 *[翻译失败] Quarter of Civilization,  the Realm of DubheTheme: Purpose fulfilled through FormMystical Theme: Womb to Room*
 
 ---
 
-[翻译失败] This Gate is part of the Channel of The Wave Length, A Design of Talent, linking the Throat Center (Gate 16) to the Splenic Center (Gate 48). Gate 16 is part of the Collective Understanding (Logic) Circuit with the keynote of sharing.
+[翻译失败] This Gate is part of the Channel of Transitoriness, A Design of a 'Jack of All Trades', linking the Throat Center (Gate 35) to the Solar Plexus Center (Gate 36). Gate 35 is part of the Collective Sensing (Abstract) Circuit with the keynote of sharing.
 
-With Gate 16 we eventually make our mark in the world as a keen critic, skilled performer, or through our talent and enthusiasm for living. We don't, however, begin life that way. We need to identify with a skill or skills, dedicate ourselves to repetition of the pattern, and focus on practice until we reach a point of mastery that transcends the skill itself and becomes an art. The world waits for that moment when the dancer becomes the dance, or when living one's life becomes its own masterpiece. We are looking for the perfect way to express our expertise. Without Gate 48 however, we may become self-critical and feel that we don't have the adequate depth.
+Gate 35 is driven by a restless curiosity and high expectations to explore new horizons for the sheer exhilaration of doing it, but not alone. Gate 35's voice says, "I feel," and what it usually feels is a desire for change. This is the voice of impersonal, relational experience. We are prodded along not by awareness, but by a hunger for depth of feeling that is conditioned by the emotional wave. Like hunger, desire and curiosity can only be temporarily ameliorated. We are focused on collecting experiences to learn from them, rather than on repeating experiences to master them. Mastery is expressed as wisdom and manifests as advice.
 
-We are also searching for a source of material support that will allow us to concentrate on perfecting our talent, our theory, our solution, so we can then make it available to the world. We look to people with Gate 48 to bring their depth and dimension to our skill, as well as to properly direct, correct and encourage our own disciplined practice.
+Our memories may provide more satisfaction than the experience itself. Our taste for new experience, and the need to see what or who is on the other side of the mountain, can keep us healthy and alert. When correctly entering into experience for its own sake, and remaining an objective observer, our clear sharing carries the potential to transform humanity. Experience seekers don't often take time to consider the repercussions of their actions, and without Gate 36, we are prone to seeking an emotional rush in the hope of escaping the pain of boredom when there is no new experience to dive into.
 
-![人類圖曼陀羅](../Gate_Rave_Mandala_Collection/Gate-16-Rave-Mandala.png)
+![人類圖曼陀羅](../Gate_Rave_Mandala_Collection/Gate-35-Rave-Mandala.png)
 
 ---
 
-### [翻译失败] Line 6 - Gullibility
+### [翻译失败] Line 1 - Humility
 
-**☀️ 高階表達:** [翻译失败] The ability to experience, examine and then reject misleading enthusiasm. The talent to assess the expression of others.
+**☀️ 高階表達:** [翻译失败] The artist that accepts rejection as part of the process. Acceptance of change and rejection as part of the process.
 
-**🌑 低階表達:** [翻译失败] The same principle but where Neptune will destroy and then seek new forms, Jupiter will painfully withdraw. Its enthusiasm for social structures permanently prejudiced. The failure to assess the expression of others.
+**🌑 低階表達:** [翻译失败] A self-destructive reaction to rejection. Loss of worth. Change and rejection as humiliation.
