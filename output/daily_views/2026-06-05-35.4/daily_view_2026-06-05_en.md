@@ -2,7 +2,7 @@
 
 **June 05, 2026**
 
-![Gate](../Gate_Rave_Mandala_Collection/Gate-35.jpg)
+![Gate](../../Gate_Rave_Mandala_Collection/Gate-35.jpg)
 
 ## *Gate of Change - The Secret is 'No-Expectation'*
 
@@ -20,7 +20,7 @@ Gate 35 is driven by a restless curiosity and high expectations to explore new h
 
 Our memories may provide more satisfaction than the experience itself. Our taste for new experience, and the need to see what or who is on the other side of the mountain, can keep us healthy and alert. When correctly entering into experience for its own sake, and remaining an objective observer, our clear sharing carries the potential to transform humanity. Experience seekers don't often take time to consider the repercussions of their actions, and without Gate 36, we are prone to seeking an emotional rush in the hope of escaping the pain of boredom when there is no new experience to dive into.
 
-![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-35-Rave-Mandala.png)
+![Rave Mandala](../../Gate_Rave_Mandala_Collection/Gate-35-Rave-Mandala.png)
 
 ---
 
