@@ -1,6 +1,6 @@
 # Gate 45 - Gathering Together
 
-**June 08, 2026**
+**June 09, 2026**
 
 ![Gate](../Gate_Rave_Mandala_Collection/Gate-45.jpg)
 
@@ -24,8 +24,8 @@ Each gate has its specific role and purpose within the Tribe, and operates optim
 
 ---
 
-### Line 1 - Canvassing
+### Line 2 - Consensus
 
-**☀️ Exaltation:** The ability to promote and develop gathering together through the education of the uncommitted. The material direction lies in education.
+**☀️ Exaltation:** The inventiveness to establish techniques by which common ground can be assessed. A material direction through the expression of techniques for the benefit of others.
 
-**🌑 Detriment:** An overzealousness that turns canvassing into proselytization and tends to alienate rather than gather support. The drive for material that leads to aggressive education.
+**🌑 Detriment:** An innate rebellion against conformity. The refusal to accept the material techniques of others.
