@@ -2,7 +2,7 @@
 
 **June 10, 2026**
 
-![Gate](../Gate_Rave_Mandala_Collection/Gate-45.jpg)
+![Gate](../../Gate_Rave_Mandala_Collection/Gate-45.jpg)
 
 ## *Gate of the Gatherer - The Ruler*
 
@@ -20,7 +20,7 @@ Gate 45 is the gate of dominance. It is the gate of the Master/Mistress or King/
 
 Each gate has its specific role and purpose within the Tribe, and operates optimally when kept in its place. Even with Gate 21 in our own design, it works best for us to have the help of another Gate 21 to manage and run our kingdom or business.
 
-![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-45-Rave-Mandala.png)
+![Rave Mandala](../../Gate_Rave_Mandala_Collection/Gate-45-Rave-Mandala.png)
 
 ---
 
