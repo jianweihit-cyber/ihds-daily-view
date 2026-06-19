@@ -1,31 +1,32 @@
-# [翻译失败] Gate 12 - Standstill
+# [翻译失败] Gate 15 - Modesty
 
 **2026年06月19日**
 
-![閘門](../Gate_Rave_Mandala_Collection/Gate-12.jpg)
+![閘門](../Gate_Rave_Mandala_Collection/Gate-15.jpg)
 
-## *[翻译失败] Gate of Caution - Releasing Awareness in the Proper Spirit*
+## *[翻译失败] Gate of Extremes - The Love of Humanity*
 
-> [翻译失败] The quality of restraint and the importance of meditation and inaction in confronting temptation. The power of cultural mutation is the mystery of Standstill.
+> [翻译失败] The quality of behavior which expresses the proper balance between extremes. The possible extremes 
+are lived out in life's rhythms. This is the gate of the 'Aura'.
 
-### [翻译失败] Left Angle Cross of Education | Godhead - Lakshmi
+### [翻译失败] Right Angle Cross of the Vessel of Love 2 | Godhead - Parvati
 
 *[翻译失败] Quarter of Civilization,  the Realm of DubheTheme: Purpose fulfilled through FormMystical Theme: Womb to Room*
 
 ---
 
-[翻译失败] This Gate is part of the Channel of Openness, The Design of the Social Being, linking the Throat Center (Gate 12) to the Solar Plexus Center (Gate 22). Gate 12 is part of the Individual (Knowing) Circuit with the keynote of empowerment.
+[翻译失败] This Gate is part of the Channel of Rhythm, The Design of Being in the Flow, linking the G Center (Gate 15) to the Sacral Center (Gate 5). Gate 15 is part of the Collective Understanding (Logic) Circuit with the keynote of sharing.
 
-The articulate, mutative and moody voice of the Individual is restrained in Gate 12 by a natural caution. This caution keeps us silent until our mood tells us that we really do have something to say, as well as a unique, transformative way of saying it. The vocal vibration or tone of our voice speaks louder than our choice of words.
+Gate 15 is the love of humanity. It has the capacity to accept and to find a place in society for the full spectrum of human behavior. Its lack of a fixed pattern ensures that each of us is able to make a contribution to the diverse ways love exists in the world. Love in Gate 15 is not about how we connect with others, but rather how we project a transpersonal love for humanity's diversity out into the world. This begins with loving the extremes of our own rhythms; for example, sleeping ten hours one night, and two hours the next. Those who carry this gate are capable of accepting other people's extremes without judgment, thereby bringing diversity into the flow of life. Their aura's magnetism is amplified, which attracts people to them and our acknowledgement of diversity.
 
-Standing still, or contemplating a unique perception or feeling until in the mood to express it in a creative way, through poetry or music for instance, gives our message time to mature. Those who carry this gate have their greatest impact on others as a "stranger of consequence;" like a performer, they translate and creatively express the joys and sorrows of loving and living, and then withdraw. When we are not in the mood, chances are our audience won't hear what we want them to, or will not experience the transformation or inspiration that interacting with us can bring. Impeccable timing maximizes the potential impact we can have on social/cultural norms, and on our way of being with each other in the world. We know how to express ourselves, but without the 22nd gate we can't always clarify what it is we are feeling.
+When guided by our Authority, Gate 15 increases our potential to influence how extreme rhythms or patterns are made 'modest,' and are balanced and integrated within the Collective. By understanding and accepting the diverse and opposite tempos that are a part of humanity, we fully embrace and promote for all of us what it means to be human. Without Gate 5's disciplined and fixed rhythm, we may find that our own constantly changing rhythms cause us to lose the focus we need to achieve mastery in some area of our lives.
 
-![人類圖曼陀羅](../Gate_Rave_Mandala_Collection/Gate-12-Rave-Mandala.png)
+![人類圖曼陀羅](../Gate_Rave_Mandala_Collection/Gate-15-Rave-Mandala.png)
 
 ---
 
-### [翻译失败] Line 6 - Metamorphosis
+### [翻译失败] Line 1 - Duty
 
-**☀️ 高階表達:** [翻译失败] Creative transcendence that when connected to the Harmonic Gate 22, through the channel of Openness, leads to successful mutation and the emergence of a new social form. The capacity to mutate and express new social forms.
+**☀️ 高階表達:** [翻译失败] Harmonic relationships which give support for the fulfillment of any task. The capacity of the Self to confront any challenge through extreme and harmonic relationships.
 
-**🌑 低階表達:** [翻译失败] A retrograde metamorphosis that has evolved a perfected adaption to standstill. The perfected adaption to caution that can accept social limitations.
+**🌑 低階表達:** [翻译失败] Alienation engendered through exaggerated claims. The capacity of the Self to alienate others through extremes.
