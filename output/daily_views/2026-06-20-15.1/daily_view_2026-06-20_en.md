@@ -2,7 +2,7 @@
 
 **June 20, 2026**
 
-![Gate](../Gate_Rave_Mandala_Collection/Gate-15.jpg)
+![Gate](../../Gate_Rave_Mandala_Collection/Gate-15.jpg)
 
 ## *Gate of Extremes - The Love of Humanity*
 
@@ -21,7 +21,7 @@ Gate 15 is the love of humanity. It has the capacity to accept and to find a pla
 
 When guided by our Authority, Gate 15 increases our potential to influence how extreme rhythms or patterns are made 'modest,' and are balanced and integrated within the Collective. By understanding and accepting the diverse and opposite tempos that are a part of humanity, we fully embrace and promote for all of us what it means to be human. Without Gate 5's disciplined and fixed rhythm, we may find that our own constantly changing rhythms cause us to lose the focus we need to achieve mastery in some area of our lives.
 
-![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-15-Rave-Mandala.png)
+![Rave Mandala](../../Gate_Rave_Mandala_Collection/Gate-15-Rave-Mandala.png)
 
 ---
 
