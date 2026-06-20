@@ -25,8 +25,8 @@ When guided by our Authority, Gate 15 increases our potential to influence how e
 
 ---
 
-### Line 1 - Duty
+### Line 2 - Influence
 
-**☀️ Exaltation:** Harmonic relationships which give support for the fulfillment of any task. The capacity of the Self to confront any challenge through extreme and harmonic relationships.
+**☀️ Exaltation:** Modesty and right action result in enduring standards. The capacity of the Self to accept its extreme nature as correct.
 
-**🌑 Detriment:** Alienation engendered through exaggerated claims. The capacity of the Self to alienate others through extremes.
+**🌑 Detriment:** Where the Sun's actions are natural, the Earth's are contrived, though given the power of this position, the same effect can be expected. The capacity to use the extreme nature of the Self to influence others.
