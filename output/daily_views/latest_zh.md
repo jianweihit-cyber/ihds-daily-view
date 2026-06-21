@@ -25,8 +25,8 @@ When guided by our Authority, Gate 15 increases our potential to influence how e
 
 ---
 
-### [翻译失败] Line 2 - Influence
+### [翻译失败] Line 3 - Ego inflation
 
-**☀️ 高階表達:** [翻译失败] Modesty and right action result in enduring standards. The capacity of the Self to accept its extreme nature as correct.
+**☀️ 高階表達:** [翻译失败] Where the otherwise negative contrived modesty is here reinforced by recognition and maintained as an effective strategy. The extremism of the Self as strategy to control the flow.
 
-**🌑 低階表達:** [翻译失败] Where the Sun's actions are natural, the Earth's are contrived, though given the power of this position, the same effect can be expected. The capacity to use the extreme nature of the Self to influence others.
+**🌑 低階表達:** [翻译失败] The 'I told you so' mentality. The capacity of the Self to point out the extremes of others.
