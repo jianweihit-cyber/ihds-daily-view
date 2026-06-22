@@ -25,8 +25,8 @@ When guided by our Authority, Gate 15 increases our potential to influence how e
 
 ---
 
-### Line 3 - Ego inflation
+### Line 4 - The wallflower
 
-**☀️ Exaltation:** Where the otherwise negative contrived modesty is here reinforced by recognition and maintained as an effective strategy. The extremism of the Self as strategy to control the flow.
+**☀️ Exaltation:** A genuine form that may/or may not mask inadequacies. The uncomfortableness of the Self when it is out of the flow.
 
-**🌑 Detriment:** The 'I told you so' mentality. The capacity of the Self to point out the extremes of others.
+**🌑 Detriment:** An ultimately weak defense leading to exposure and humiliation. Extremism that keeps the Self out of the flow.
