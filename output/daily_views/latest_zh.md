@@ -9,7 +9,7 @@
 > [翻译失败] The quality of behavior which expresses the proper balance between extremes. The possible extremes 
 are lived out in life's rhythms. This is the gate of the 'Aura'.
 
-### [翻译失败] Right Angle Cross of the Vessel of Love 2 | Godhead - Parvati
+### [翻译失败] Left Angle Cross of Prevention | Godhead - Parvati
 
 *[翻译失败] Quarter of Civilization,  the Realm of DubheTheme: Purpose fulfilled through FormMystical Theme: Womb to Room*
 
@@ -25,8 +25,8 @@ When guided by our Authority, Gate 15 increases our potential to influence how e
 
 ---
 
-### [翻译失败] Line 4 - The wallflower
+### [翻译失败] Line 5 - Sensitivity
 
-**☀️ 高階表達:** [翻译失败] A genuine form that may/or may not mask inadequacies. The uncomfortableness of the Self when it is out of the flow.
+**☀️ 高階表達:** [翻译失败] The power to grow. The capacity of the Self to grow through experiencing the extremes.
 
-**🌑 低階表達:** [翻译失败] An ultimately weak defense leading to exposure and humiliation. Extremism that keeps the Self out of the flow.
+**🌑 低階表達:** [翻译失败] The tendency to overcompensate. The drive of the Self to overcompensate and disturb the flow.
