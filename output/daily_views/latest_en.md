@@ -25,8 +25,8 @@ When guided by our Authority, Gate 15 increases our potential to influence how e
 
 ---
 
-### Line 5 - Sensitivity
+### Line 6 - Self-defense
 
-**☀️ Exaltation:** The power to grow. The capacity of the Self to grow through experiencing the extremes.
+**☀️ Exaltation:** Constant reexamination to weed out the weakest aspect. The power of the Self in exploring the extremes to find the weakest point.
 
-**🌑 Detriment:** The tendency to overcompensate. The drive of the Self to overcompensate and disturb the flow.
+**🌑 Detriment:** A tendency to use harmony as a weapon in problem situations rather than focusing on the root causes. The power of the Self to ignore the weakest point in favour of harmony.
