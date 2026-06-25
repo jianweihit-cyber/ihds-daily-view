@@ -1,6 +1,6 @@
 # Gate 15 - Modesty
 
-**June 24, 2026**
+**June 25, 2026**
 
 ![Gate](../Gate_Rave_Mandala_Collection/Gate-15.jpg)
 
