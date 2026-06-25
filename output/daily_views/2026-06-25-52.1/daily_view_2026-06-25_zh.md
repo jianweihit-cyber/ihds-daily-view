@@ -2,7 +2,7 @@
 
 **2026年06月25日**
 
-![閘門](../Gate_Rave_Mandala_Collection/Gate-52.jpg)
+![閘門](../../Gate_Rave_Mandala_Collection/Gate-52.jpg)
 
 ## *[翻译失败] Gate of Stillness - Focused and Channeled Energy*
 
@@ -20,7 +20,7 @@ Gate 52 is energy under pressure that is focused on assessment, the raw power to
 
 There is no physical outlet within Gate 52 that can direct or relieve this passive tension within us except to focus it. Without Gate 9, it is difficult to know what activity or details to concentrate it on.
 
-![人類圖曼陀羅](../Gate_Rave_Mandala_Collection/Gate-52-Rave-Mandala.png)
+![人類圖曼陀羅](../../Gate_Rave_Mandala_Collection/Gate-52-Rave-Mandala.png)
 
 ---
 
