@@ -2,7 +2,7 @@
 
 **2026年07月01日**
 
-![閘門](../Gate_Rave_Mandala_Collection/Gate-39.jpg)
+![閘門](../../Gate_Rave_Mandala_Collection/Gate-39.jpg)
 
 ## *[翻译失败] Gate of Provocation - The Journey is Toward Spirit*
 
@@ -20,7 +20,7 @@ Gate 39, fueled by the Root Center, is the pressure to provoke the evolving emot
 
 Provoking is also the way we get in touch with and work out our own feelings; if we are in bad mood, we may elicit misery from others. It takes time to learn who can be successfully provoked or not, and we can only impact the Collective or the Tribe and release true mutation, when in the right spirit or mood ourselves. This is what makes mutation contagious and moves the potential for awareness through the totality. The 39th gate is one of three gates of deafness, meaning we are not designed to be easily influenced. Without the 55th gate's ability to release emotions, Root Center pressure may provoke us into excesses, like substance abuse or an eating disorder. Patience with ourselves and our emotions is required for our journey toward spirit.
 
-![人類圖曼陀羅](../Gate_Rave_Mandala_Collection/Gate-39-Rave-Mandala.png)
+![人類圖曼陀羅](../../Gate_Rave_Mandala_Collection/Gate-39-Rave-Mandala.png)
 
 ---
 

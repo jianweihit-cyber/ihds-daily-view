@@ -1,31 +1,31 @@
-# Gate 52 - Keeping Still (Mountain)
+# Gate 39 - Obstruction
 
 **July 01, 2026**
 
-![Gate](../Gate_Rave_Mandala_Collection/Gate-52.jpg)
+![Gate](../Gate_Rave_Mandala_Collection/Gate-39.jpg)
 
-## *Gate of Stillness - Focused and Channeled Energy*
+## *Gate of Provocation - The Journey is Toward Spirit*
 
-> Temporary and self-imposed inaction for the benefit of assessment. Concentration benefits from stillness and withdrawal. A passive rather than active energy.
+> The value of obstruction in provoking analysis, assessment and reevaluation. Provoking brings the spirit of emotional awareness into expression.
 
-### Left Angle Cross of Demands | Godhead - Parvati
+### Right Angle Cross of Tension 2 | Godhead - Parvati
 
 *Quarter of Civilization,  the Realm of DubheTheme: Purpose fulfilled through FormMystical Theme: Womb to Room*
 
 ---
 
-This Gate is part of the Channel of Concentration, A Design of Determination, linking the Root (Gate 52) to the Sacral Center (Gate 9). Gate 52 is part of the Collective Understanding Circuit (Logic) with the keynote of sharing.
+This Gate is part of the Channel of Emoting, A Design of Moodiness, linking the Root Center (Gate 39) to the Solar Plexus Center (Gate 55). Gate 39 is part of the Individual (Knowing) Circuit with the keynote of empowerment.
 
-Gate 52 is energy under pressure that is focused on assessment, the raw power to concentrate. There is a passive tension in this connection from the Root Center that is looking toward Gate 9 for an outlet. Once the 52nd gate finds something it deeply identifies with, something worthwhile to channel this energy toward, the tension is balanced between the Root Center's pressure to keep us moving forward, and Gate 52's power to help us sit still and concentrate. Before this balance is reached, however, we can find ourselves vacillating between restlessness and depression, bouncing from one thing to the next, unable to find the self discipline to withdraw once again into our stillness and concentrate.
+Gate 39, fueled by the Root Center, is the pressure to provoke the evolving emotional awareness of spirit into revealing itself. Emotional awareness is humanity's destiny, but it is the Individual through the 39th gate that provokes the mutative potential within the 55th gate to release the spirit consciousness of the Solar Plexus Center. We have the energy to persevere through our moods and tap into spirit awareness. Our provoking reveals whose spirit is correct for us. If we are merely a source of irritation to them, they are not right for us. People may react negatively to our provocation, but this is our unique gift, even though we may have to develop a thick skin to live with it.
 
-There is no physical outlet within Gate 52 that can direct or relieve this passive tension within us except to focus it. Without Gate 9, it is difficult to know what activity or details to concentrate it on.
+Provoking is also the way we get in touch with and work out our own feelings; if we are in bad mood, we may elicit misery from others. It takes time to learn who can be successfully provoked or not, and we can only impact the Collective or the Tribe and release true mutation, when in the right spirit or mood ourselves. This is what makes mutation contagious and moves the potential for awareness through the totality. The 39th gate is one of three gates of deafness, meaning we are not designed to be easily influenced. Without the 55th gate's ability to release emotions, Root Center pressure may provoke us into excesses, like substance abuse or an eating disorder. Patience with ourselves and our emotions is required for our journey toward spirit.
 
-![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-52-Rave-Mandala.png)
+![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-39-Rave-Mandala.png)
 
 ---
 
-### Line 6 - Peacefulness
+### Line 1 - Disengagement
 
-**☀️ Exaltation:** A harmonic and balanced attunement that is at ease regardless of the situation. The lack of pressure in times of stillness.
+**☀️ Exaltation:** The determination when confronted by obstacles to withdraw but only temporarily. The energy to provoke by refusing to confront obstacles.
 
-**🌑 Detriment:** Delusion as a substitute for genuine tranquillity. Given the positive nature of this position, the delusion may be just as effective as the 'real thing'. Where the pacification of the energy is extreme, pressure real or imagined does not disturb the stillness.
+**🌑 Detriment:** Disengagement, with an accompanying indecision as to when to reengage. The refusal to confront obstacles without the capacity to know when to engage. The indecision is also a provocation.
