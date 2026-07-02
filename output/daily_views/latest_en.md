@@ -1,6 +1,6 @@
 # Gate 39 - Obstruction
 
-**July 01, 2026**
+**July 02, 2026**
 
 ![Gate](../Gate_Rave_Mandala_Collection/Gate-39.jpg)
 
