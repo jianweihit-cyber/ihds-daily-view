@@ -24,8 +24,8 @@ Provoking is also the way we get in touch with and work out our own feelings; if
 
 ---
 
-### [翻译失败] Line 1 - Disengagement
+### [翻译失败] Line 2 - Confrontation
 
-**☀️ 高階表達:** [翻译失败] The determination when confronted by obstacles to withdraw but only temporarily. The energy to provoke by refusing to confront obstacles.
+**☀️ 高階表達:** [翻译失败] The instinctual and direct assault of obstacles. The energy to provoke through direct assault.
 
-**🌑 低階表達:** [翻译失败] Disengagement, with an accompanying indecision as to when to reengage. The refusal to confront obstacles without the capacity to know when to engage. The indecision is also a provocation.
+**🌑 低階表達:** [翻译失败] The principle of preservation that tempts one to go around an obstacle that should be tackled head-on. An emotional discomfort when direct assault is essential.
