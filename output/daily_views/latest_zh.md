@@ -1,6 +1,6 @@
 # [翻译失败] Gate 39 - Obstruction
 
-**2026年07月02日**
+**2026年07月03日**
 
 ![閘門](../Gate_Rave_Mandala_Collection/Gate-39.jpg)
 
