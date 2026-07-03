@@ -24,8 +24,8 @@ Provoking is also the way we get in touch with and work out our own feelings; if
 
 ---
 
-### [翻译失败] Line 2 - Confrontation
+### [翻译失败] Line 3 - Responsibility
 
-**☀️ 高階表達:** [翻译失败] The instinctual and direct assault of obstacles. The energy to provoke through direct assault.
+**☀️ 高階表達:** [翻译失败] The great benefic whose first consideration is for the larger framework. The energy to provoke through self-sacrifice.
 
-**🌑 低階表達:** [翻译失败] The principle of preservation that tempts one to go around an obstacle that should be tackled head-on. An emotional discomfort when direct assault is essential.
+**🌑 低階表達:** [翻译失败] The often disastrous assumption that others are more at risk if an obstacle is not confronted. The energy to provoke through the failure to make sacrifices.
