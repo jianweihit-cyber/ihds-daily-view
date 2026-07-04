@@ -24,8 +24,8 @@ Provoking is also the way we get in touch with and work out our own feelings; if
 
 ---
 
-### Line 3 - Responsibility
+### Line 4 - Temperance
 
-**☀️ Exaltation:** The great benefic whose first consideration is for the larger framework. The energy to provoke through self-sacrifice.
+**☀️ Exaltation:** The values of feelings and instincts in establishing the proper timing. The energy to provoke at exactly the right time.
 
-**🌑 Detriment:** The often disastrous assumption that others are more at risk if an obstacle is not confronted. The energy to provoke through the failure to make sacrifices.
+**🌑 Detriment:** The faulty belief that willpower alone can overcome any obstacle regardless of circumstances. The energy to provoke that ignores circumstances.
