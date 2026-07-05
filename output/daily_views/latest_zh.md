@@ -8,7 +8,7 @@
 
 > [翻译失败] The value of obstruction in provoking analysis, assessment and reevaluation. Provoking brings the spirit of emotional awareness into expression.
 
-### [翻译失败] Right Angle Cross of Tension 2 | Godhead - Parvati
+### [翻译失败] Left Angle Cross of Individualism | Godhead - Parvati
 
 *[翻译失败] Quarter of Civilization,  the Realm of DubheTheme: Purpose fulfilled through FormMystical Theme: Womb to Room*
 
@@ -24,8 +24,8 @@ Provoking is also the way we get in touch with and work out our own feelings; if
 
 ---
 
-### [翻译失败] Line 4 - Temperance
+### [翻译失败] Line 5 - Single-mindedness
 
-**☀️ 高階表達:** [翻译失败] The values of feelings and instincts in establishing the proper timing. The energy to provoke at exactly the right time.
+**☀️ 高階表達:** [翻译失败] The imagination to establish new patterns that make the obstacles irrelevant. The imaginative energy to provoke through bypassing obstacles.
 
-**🌑 低階表達:** [翻译失败] The faulty belief that willpower alone can overcome any obstacle regardless of circumstances. The energy to provoke that ignores circumstances.
+**🌑 低階表達:** [翻译失败] Simple hardheadedness. Though less exalted, it can often result in success and gather support by its very determination. The energy to provoke through hardheadedness.

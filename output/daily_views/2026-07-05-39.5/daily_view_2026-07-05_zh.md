@@ -1,31 +1,31 @@
-# Gate 39 - Obstruction
+# [翻译失败] Gate 39 - Obstruction
 
-**July 05, 2026**
+**2026年07月05日**
 
-![Gate](../Gate_Rave_Mandala_Collection/Gate-39.jpg)
+![閘門](../../Gate_Rave_Mandala_Collection/Gate-39.jpg)
 
-## *Gate of Provocation - The Journey is Toward Spirit*
+## *[翻译失败] Gate of Provocation - The Journey is Toward Spirit*
 
-> The value of obstruction in provoking analysis, assessment and reevaluation. Provoking brings the spirit of emotional awareness into expression.
+> [翻译失败] The value of obstruction in provoking analysis, assessment and reevaluation. Provoking brings the spirit of emotional awareness into expression.
 
-### Left Angle Cross of Individualism | Godhead - Parvati
+### [翻译失败] Left Angle Cross of Individualism | Godhead - Parvati
 
-*Quarter of Civilization,  the Realm of DubheTheme: Purpose fulfilled through FormMystical Theme: Womb to Room*
+*[翻译失败] Quarter of Civilization,  the Realm of DubheTheme: Purpose fulfilled through FormMystical Theme: Womb to Room*
 
 ---
 
-This Gate is part of the Channel of Emoting, A Design of Moodiness, linking the Root Center (Gate 39) to the Solar Plexus Center (Gate 55). Gate 39 is part of the Individual (Knowing) Circuit with the keynote of empowerment.
+[翻译失败] This Gate is part of the Channel of Emoting, A Design of Moodiness, linking the Root Center (Gate 39) to the Solar Plexus Center (Gate 55). Gate 39 is part of the Individual (Knowing) Circuit with the keynote of empowerment.
 
 Gate 39, fueled by the Root Center, is the pressure to provoke the evolving emotional awareness of spirit into revealing itself. Emotional awareness is humanity's destiny, but it is the Individual through the 39th gate that provokes the mutative potential within the 55th gate to release the spirit consciousness of the Solar Plexus Center. We have the energy to persevere through our moods and tap into spirit awareness. Our provoking reveals whose spirit is correct for us. If we are merely a source of irritation to them, they are not right for us. People may react negatively to our provocation, but this is our unique gift, even though we may have to develop a thick skin to live with it.
 
 Provoking is also the way we get in touch with and work out our own feelings; if we are in bad mood, we may elicit misery from others. It takes time to learn who can be successfully provoked or not, and we can only impact the Collective or the Tribe and release true mutation, when in the right spirit or mood ourselves. This is what makes mutation contagious and moves the potential for awareness through the totality. The 39th gate is one of three gates of deafness, meaning we are not designed to be easily influenced. Without the 55th gate's ability to release emotions, Root Center pressure may provoke us into excesses, like substance abuse or an eating disorder. Patience with ourselves and our emotions is required for our journey toward spirit.
 
-![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-39-Rave-Mandala.png)
+![人類圖曼陀羅](../../Gate_Rave_Mandala_Collection/Gate-39-Rave-Mandala.png)
 
 ---
 
-### Line 5 - Single-mindedness
+### [翻译失败] Line 5 - Single-mindedness
 
-**☀️ Exaltation:** The imagination to establish new patterns that make the obstacles irrelevant. The imaginative energy to provoke through bypassing obstacles.
+**☀️ 高階表達:** [翻译失败] The imagination to establish new patterns that make the obstacles irrelevant. The imaginative energy to provoke through bypassing obstacles.
 
-**🌑 Detriment:** Simple hardheadedness. Though less exalted, it can often result in success and gather support by its very determination. The energy to provoke through hardheadedness.
+**🌑 低階表達:** [翻译失败] Simple hardheadedness. Though less exalted, it can often result in success and gather support by its very determination. The energy to provoke through hardheadedness.
