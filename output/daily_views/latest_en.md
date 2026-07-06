@@ -24,8 +24,8 @@ Provoking is also the way we get in touch with and work out our own feelings; if
 
 ---
 
-### Line 5 - Single-mindedness
+### Line 6 - The troubleshooter
 
-**☀️ Exaltation:** The imagination to establish new patterns that make the obstacles irrelevant. The imaginative energy to provoke through bypassing obstacles.
+**☀️ Exaltation:** Practicality and the ability to guide and nurture others. The energy to provoke others by attempting to solve their problems.
 
-**🌑 Detriment:** Simple hardheadedness. Though less exalted, it can often result in success and gather support by its very determination. The energy to provoke through hardheadedness.
+**🌑 Detriment:** Ego dominance that generally abuses this gift for self-aggrandizement and personal ambition rather than for the benefit of others. The emotional drive to dominate that provokes others.
