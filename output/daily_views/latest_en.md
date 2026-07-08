@@ -24,8 +24,8 @@ If our beginnings continually meet resistance, or are stopped before they mature
 
 ---
 
-### Line 1 - Accumulation
+### Line 2 - Momentum
 
-**☀️ Exaltation:** The dissolution of old forms but not at the expense of valued components that will be retained and transformed. The pressure to begin something new, not from scratch but based on the foundation of the old.
+**☀️ Exaltation:** The protection of early success nurtures further achievement. The pressure to start something new based on past success.
 
-**🌑 Detriment:** Development hampered by criticism and the tendency to withdraw rather than make use of these experiences. The difficulty in starting something new because of the criticism that accompanied the old.
+**🌑 Detriment:** A tendency with early success to haste and imprudent action. The pressure based on success to be impatient for something new.
