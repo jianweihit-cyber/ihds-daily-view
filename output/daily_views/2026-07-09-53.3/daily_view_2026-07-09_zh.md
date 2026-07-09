@@ -2,7 +2,7 @@
 
 **2026年07月09日**
 
-![閘門](../Gate_Rave_Mandala_Collection/Gate-53.jpg)
+![閘門](../../Gate_Rave_Mandala_Collection/Gate-53.jpg)
 
 ## *[翻译失败] Gate of Beginnings - Transition and Change*
 
@@ -20,7 +20,7 @@ Gate 53 is the pressure to begin the cyclical process of maturation, a sequence 
 
 If our beginnings continually meet resistance, or are stopped before they mature, our disappointment can cycle into depression. If we commit to beginning something correctly, we are not compelled to complete it ourselves. We will find that we can appropriately discharge the pressure, take what we learned from the experience, and enjoy sharing that wisdom with others. Without Gate 42, we are not designed to finish everything we begin, but we can feel frustrated by thinking that we always have to.
 
-![人類圖曼陀羅](../Gate_Rave_Mandala_Collection/Gate-53-Rave-Mandala.png)
+![人類圖曼陀羅](../../Gate_Rave_Mandala_Collection/Gate-53-Rave-Mandala.png)
 
 ---
 

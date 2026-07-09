@@ -24,8 +24,8 @@ If our beginnings continually meet resistance, or are stopped before they mature
 
 ---
 
-### Line 2 - Momentum
+### Line 3 - Practicality
 
-**☀️ Exaltation:** The protection of early success nurtures further achievement. The pressure to start something new based on past success.
+**☀️ Exaltation:** In its most natural position, the concentration on avoiding conflict to ensure protection and continued development. The pressure to eliminate conflict in order to develop.
 
-**🌑 Detriment:** A tendency with early success to haste and imprudent action. The pressure based on success to be impatient for something new.
+**🌑 Detriment:** The unconscious provoking of conflict that logically threatens security and development. Energy which provokes conflict and threatens development.
