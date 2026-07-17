@@ -2,7 +2,7 @@
 
 **July 17, 2026**
 
-![Gate](../Gate_Rave_Mandala_Collection/Gate-62.jpg)
+![Gate](../../Gate_Rave_Mandala_Collection/Gate-62.jpg)
 
 ## *Gate of Details - Manifestation Through Detail*
 
@@ -20,7 +20,7 @@ Gate 62 says, "I think." It is designed to name, concretize, and communicate a v
 
 When we wait to be asked to speak, we increase the Collective's potential receptivity to what we are sharing, and we avoid the embarrassment of compulsively blurting out facts and details that are unwanted, unnecessary and may potentially obscure people's understanding. The quality of our opinion is always dependent on our grasp of the facts, but all facts are not equal. It is helpful to remember that we can have all the details in hand, but without Gate 17 may not necessarily be able to put them into their proper structural context for expression in the moment.
 
-![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-62-Rave-Mandala.png)
+![Rave Mandala](../../Gate_Rave_Mandala_Collection/Gate-62-Rave-Mandala.png)
 
 ---
 
