@@ -2,7 +2,7 @@
 
 **2026年07月22日**
 
-![閘門](../Gate_Rave_Mandala_Collection/Gate-56.jpg)
+![閘門](../../Gate_Rave_Mandala_Collection/Gate-56.jpg)
 
 ## *[翻译失败] Gate of Stimulation - The Storyteller*
 
@@ -20,7 +20,7 @@ Gate 56 is where ideas are gathered together, and where visual memory is recolle
 
 What we teach about life will include some facts, but the unique lessons will come from our interpretation of the experience tinged with emotional overtones. Our stories add colorful threads to the expanding tapestry of humanity's progress. Without Gate 11 we are often searching for new sources of stimulation and new ideas for stories to tell.
 
-![人類圖曼陀羅](../Gate_Rave_Mandala_Collection/Gate-56-Rave-Mandala.png)
+![人類圖曼陀羅](../../Gate_Rave_Mandala_Collection/Gate-56-Rave-Mandala.png)
 
 ---
 
