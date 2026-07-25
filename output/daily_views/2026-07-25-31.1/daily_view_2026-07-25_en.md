@@ -2,7 +2,7 @@
 
 **July 25, 2026**
 
-![Gate](../Gate_Rave_Mandala_Collection/Gate-31.jpg)
+![Gate](../../Gate_Rave_Mandala_Collection/Gate-31.jpg)
 
 ## *Gate of Influence - I Lead*
 
@@ -20,7 +20,7 @@ Gate 31 is designed to be influential. Collective leadership is collegial, not h
 
 The influence of our vision for society will not be transferred or felt without the Collective's energy moving it into the public realm. Our leadership must take into account the desires of our followers, and address the good of the whole. 'I lead' means influencing others, for good or for ill, by effectively transferring our vision for a new and test-worthy pattern to them to carry out. Without the presence of Gate 7, we may seem like just an empty voice.
 
-![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-31-Rave-Mandala.png)
+![Rave Mandala](../../Gate_Rave_Mandala_Collection/Gate-31-Rave-Mandala.png)
 
 ---
 
