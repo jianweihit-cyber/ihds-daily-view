@@ -2,7 +2,7 @@
 
 **July 31, 2026**
 
-![Gate](../Gate_Rave_Mandala_Collection/Gate-33.jpg)
+![Gate](../../Gate_Rave_Mandala_Collection/Gate-33.jpg)
 
 ## *Gate of Privacy - The Revelation of Secrets*
 
@@ -20,7 +20,7 @@ Gate 33 marks the end of a cycle, and built into all endings is a moment of sile
 
 In Gate 33 our need for privacy is joined by the Collective's voice of "I remember." It is also our nature to share the lessons of experience and reveal its truths. The experience can be one of our own, or another's, or even that of a group of people; the process is the same. When the time is ripe, we will be asked to share our wisdom, which then becomes part of the greater community and humanity's evolving consciousness. Like the Prodigal, we mature over our lifetime, and our realm of influence expands as we move through each cycle of experience. Without Gate 13 we may not have a sense of the right timing for sharing our lessons.
 
-![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-33-Rave-Mandala.png)
+![Rave Mandala](../../Gate_Rave_Mandala_Collection/Gate-33-Rave-Mandala.png)
 
 ---
 
