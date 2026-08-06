@@ -2,7 +2,7 @@
 
 **2026年08月06日**
 
-![閘門](../Gate_Rave_Mandala_Collection/Gate-7.jpg)
+![閘門](../../Gate_Rave_Mandala_Collection/Gate-7.jpg)
 
 ## *[翻译失败] Role of the Self in Interaction - The Elected Leader*
 
@@ -20,7 +20,7 @@ The 7th gate is oriented toward the future, with an ability to see when society'
 
 Those who carry this gate may evaluate or modify the existing pattern or questionable direction, or be the catalyst for creating a new direction. This position of influence is described as the power behind the throne. In other words, without Gate 31 we can be a public leader but not necessarily the public figurehead who directly influences the Collective.
 
-![人類圖曼陀羅](../Gate_Rave_Mandala_Collection/Gate-7-Rave-Mandala.png)
+![人類圖曼陀羅](../../Gate_Rave_Mandala_Collection/Gate-7-Rave-Mandala.png)
 
 ---
 
