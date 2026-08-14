@@ -24,8 +24,8 @@ If we do not have Gate 63, we may spend a lot of time looking for the next inspi
 
 ---
 
-### [翻译失败] Line 3 - Irresponsibility
+### [翻译失败] Line 4 - The liar
 
-**☀️ 高階表達:** [翻译失败] Where art is more valued than the artist. The potential to enjoy the formulas with no regard to their practical application.
+**☀️ 高階表達:** [翻译失败] Fantasy protects and nurtures a sense of purpose and reason no matter how misguided. The potential to find or illustrate the formulas through fantasy.
 
-**🌑 低階表達:** [翻译失败] The rationalization of irresponsibility as an act of refocalization. The potential to justify such a process in order to maintain it.
+**🌑 低階表達:** [翻译失败] Time always brings humiliation. The potential danger to see the fantasy as fact.
