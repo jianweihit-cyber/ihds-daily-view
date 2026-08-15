@@ -1,6 +1,6 @@
 # Gate 4 - Youthful Folly
 
-**August 14, 2026**
+**August 15, 2026**
 
 ![Gate](../Gate_Rave_Mandala_Collection/Gate-4.jpg)
 
