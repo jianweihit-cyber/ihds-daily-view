@@ -2,7 +2,7 @@
 
 **2026年08月16日**
 
-![閘門](../Gate_Rave_Mandala_Collection/Gate-4.jpg)
+![閘門](../../Gate_Rave_Mandala_Collection/Gate-4.jpg)
 
 ## *[翻译失败] Gate of Formulization - Logic Protects us From Misfortune*
 
@@ -20,7 +20,7 @@ Gate 4 applies mental awareness to questions fueled by doubt about the future; i
 
 If we do not have Gate 63, we may spend a lot of time looking for the next inspirational question we can answer in order to resolve the lack of logic and chaos of the mind.
 
-![人類圖曼陀羅](../Gate_Rave_Mandala_Collection/Gate-4-Rave-Mandala.png)
+![人類圖曼陀羅](../../Gate_Rave_Mandala_Collection/Gate-4-Rave-Mandala.png)
 
 ---
 
