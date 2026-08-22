@@ -2,7 +2,7 @@
 
 **August 22, 2026**
 
-![Gate](../Gate_Rave_Mandala_Collection/Gate-29.jpg)
+![Gate](../../Gate_Rave_Mandala_Collection/Gate-29.jpg)
 
 ## *Gate of Perseverance - Energy to Persevere Despite Circumstance*
 
@@ -20,7 +20,7 @@ Gate 29's potential is a constant affirmation of life. When it answers yes, it c
 
 Our Sacral response is mechanical, and we cannot know where the adventure will take us or what wonders we may find. Gate 29 has a single-minded energy designed to move us through even the most difficult and challenging circumstances, but only if it is fully aligned with our decision. Our only insurance is to let go of our expectations, and rely on our Strategy and Authority to guide us to the correct experiences. Without the 46th gate, we are ready to work but don't necessarily know what we are working towards.
 
-![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-29-Rave-Mandala.png)
+![Rave Mandala](../../Gate_Rave_Mandala_Collection/Gate-29-Rave-Mandala.png)
 
 ---
 
