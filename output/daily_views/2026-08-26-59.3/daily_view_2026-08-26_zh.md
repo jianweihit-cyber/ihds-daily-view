@@ -2,7 +2,7 @@
 
 **2026年08月26日**
 
-![閘門](../Gate_Rave_Mandala_Collection/Gate-59.jpg)
+![閘門](../../Gate_Rave_Mandala_Collection/Gate-59.jpg)
 
 ## *[翻译失败] Gate of Sexuality - Bonding and Intimacy Beyond Words*
 

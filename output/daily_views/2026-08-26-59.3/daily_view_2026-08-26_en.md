@@ -2,7 +2,7 @@
 
 **August 26, 2026**
 
-![Gate](../Gate_Rave_Mandala_Collection/Gate-59.jpg)
+![Gate](../../Gate_Rave_Mandala_Collection/Gate-59.jpg)
 
 ## *Gate of Sexuality - Bonding and Intimacy Beyond Words*
 
