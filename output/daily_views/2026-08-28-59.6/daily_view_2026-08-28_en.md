@@ -2,7 +2,7 @@
 
 **August 28, 2026**
 
-![Gate](../Gate_Rave_Mandala_Collection/Gate-59.jpg)
+![Gate](../../Gate_Rave_Mandala_Collection/Gate-59.jpg)
 
 ## *Gate of Sexuality - Bonding and Intimacy Beyond Words*
 
@@ -20,7 +20,7 @@ Gate 59 generates our genetic strategies for sexual bonding and creating new lif
 
 The only real choice we have in this matter is to enter into each intimate relationship through our Strategy and Authority so that we are bonded with the correct mate. Tribal intimacy is warm and deeply felt; it's an intimacy beyond words intensified by our sensitivity to the other through touch, taste and smell. Unless we pay attention to our Authority, intimacy can bring anything from confusion and conflict to unproductive unions. We may find ourselves automatically looking to someone with Gate 6 to guide the timing of our interactions.
 
-![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-59-Rave-Mandala.png)
+![Rave Mandala](../../Gate_Rave_Mandala_Collection/Gate-59-Rave-Mandala.png)
 
 ---
 
