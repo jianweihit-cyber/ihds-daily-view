@@ -1,31 +1,31 @@
-# Gate 59 - Dispersion
+# Gate 40 - Deliverance
 
-**August 28, 2026**
+**August 29, 2026**
 
-![Gate](../Gate_Rave_Mandala_Collection/Gate-59.jpg)
+![Gate](../Gate_Rave_Mandala_Collection/Gate-40.jpg)
 
-## *Gate of Sexuality - Bonding and Intimacy Beyond Words*
+## *Gate of Aloneness - The Power of the Will to Deliver*
 
-> The ability to break down barriers to achieve union. The potential energy for a deep and fertile connection with the other resulting in a life creating union.
+> The point of transition between struggle and liberation. The survival of the community is dependent upon a sustained and strong will.
 
-### Left Angle Cross of Spirit 2 | Godhead - Thoth
+### Right Angle Cross of Planning 3 | Godhead - Harmonia
 
 *Quarter of Duality,  the Realm of JupiterTheme: Purpose fulfilled through BondingMystical Theme: Measure for Measure*
 
 ---
 
-This Gate is part of the Channel of Mating, A Design Focused on Reproduction, linking the Sacral Center (Gate 59) with the Solar Plexus Center (Gate 6). Gate 59 is part of the Tribal (Defense) Circuit with the keynote of support.
+This Gate is part of the Channel of Community, A Design of a Part Seeking a Whole, linking the Ego Center (Gate 40) with the Solar Plexus Center (Gate 37). Gate 40 is part of the Tribal (Ego) Circuit with the keynote of support.
 
-Gate 59 generates our genetic strategies for sexual bonding and creating new life. Also known as the "aura breaker," it defines the ways we penetrate or break through barriers to intimacy in order to create offspring, or enter into a creative business venture with someone. Relationships and bonding is important to us and the 6 Lines of Gate 59 describe the ways humanity approaches bonding. They are genetic strategies, and each role is singularly focused on selecting the best partner for producing the most viable offspring.
+Gate 40 is one of three gates of aloneness (12 and 33 are the other two), and carries a sense of being alone even when in a group of people. This aloneness is the beginning of the individuation process; we need to separate ourselves from the Tribe. In essence, it is the desire within us for wholeness, expressed and experienced by others as strong independence, or as stepping away from their interdependence. This is an aspect of the ego's willpower that is essential to the survival of community.
 
-The only real choice we have in this matter is to enter into each intimate relationship through our Strategy and Authority so that we are bonded with the correct mate. Tribal intimacy is warm and deeply felt; it's an intimacy beyond words intensified by our sensitivity to the other through touch, taste and smell. Unless we pay attention to our Authority, intimacy can bring anything from confusion and conflict to unproductive unions. We may find ourselves automatically looking to someone with Gate 6 to guide the timing of our interactions.
+Gate 40 is the love of work, and when we are involved in work that is correct for us, we derive great satisfaction from delivering what we promised to an appreciative Tribe. The relationship bargain needs to be renegotiated often and kept crystal clear. Yes, we are willing to work and to exert our ego's will power to provide for our family or community, but they get access to our earned resources only if they keep their side of the bargain. They need to show appreciation and loyalty for our efforts and support us emotionally, feed us, give us time alone to rest, and take care of us with the resources we provide for them. Without Gate 37, we may find ourselves looking for friendship, and a community to offer our ego's willing provisions to.
 
-![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-59-Rave-Mandala.png)
+![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-40-Rave-Mandala.png)
 
 ---
 
-### Line 6 - The one night stand
+### Line 1 - Recuperation
 
-**☀️ Exaltation:** The perfected relationship whether for a moment or an eternity. The power for intimacy regardless of conditions.
+**☀️ Exaltation:** The ability to relax and enjoy the fruits of one's labours. The ego strength to enjoy being alone.
 
-**🌑 Detriment:** The basic drive to move on, that seeks impermanency as a matter of course and not in response to circumstances. The drive for sexual and intimate diversity.
+**🌑 Detriment:** The Moon cannot stand still. The ego uncomfortable with being alone too long.
