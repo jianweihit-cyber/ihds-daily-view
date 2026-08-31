@@ -1,6 +1,6 @@
 # [翻译失败] Gate 40 - Deliverance
 
-**2026年08月30日**
+**2026年08月31日**
 
 ![閘門](../Gate_Rave_Mandala_Collection/Gate-40.jpg)
 
@@ -24,8 +24,8 @@ Gate 40 is the love of work, and when we are involved in work that is correct fo
 
 ---
 
-### [翻译失败] Line 2 - Resoluteness
+### [翻译失败] Line 3 - Humility
 
-**☀️ 高階表達:** [翻译失败] The power and authority in deliverance to shed forever the qualities which hampered liberation. The power through aloneness to recognize the importance and the potential disruptive effect of others.
+**☀️ 高階表達:** [翻译失败] The subtlety to enjoy deliverance without having to flaunt it. The capacity of the ego to avoid negative forces even if it means being alone.
 
-**🌑 低階表達:** [翻译失败] A natural peacefulness that in deliverance may sympathize with and attempt to nurture the forces which hampered liberation. The power of loneliness to blind the ego to the possible disruptive effect of others.
+**🌑 低階表達:** [翻译失败] The ego arrogance that demands attention and gets it. The capacity of the ego to demand attention.
