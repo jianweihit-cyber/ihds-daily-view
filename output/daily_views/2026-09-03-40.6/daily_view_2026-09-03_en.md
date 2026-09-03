@@ -2,7 +2,7 @@
 
 **September 03, 2026**
 
-![Gate](../Gate_Rave_Mandala_Collection/Gate-40.jpg)
+![Gate](../../Gate_Rave_Mandala_Collection/Gate-40.jpg)
 
 ## *Gate of Aloneness - The Power of the Will to Deliver*
 
@@ -20,7 +20,7 @@ Gate 40 is one of three gates of aloneness (12 and 33 are the other two), and ca
 
 Gate 40 is the love of work, and when we are involved in work that is correct for us, we derive great satisfaction from delivering what we promised to an appreciative Tribe. The relationship bargain needs to be renegotiated often and kept crystal clear. Yes, we are willing to work and to exert our ego's will power to provide for our family or community, but they get access to our earned resources only if they keep their side of the bargain. They need to show appreciation and loyalty for our efforts and support us emotionally, feed us, give us time alone to rest, and take care of us with the resources we provide for them. Without Gate 37, we may find ourselves looking for friendship, and a community to offer our ego's willing provisions to.
 
-![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-40-Rave-Mandala.png)
+![Rave Mandala](../../Gate_Rave_Mandala_Collection/Gate-40-Rave-Mandala.png)
 
 ---
 
