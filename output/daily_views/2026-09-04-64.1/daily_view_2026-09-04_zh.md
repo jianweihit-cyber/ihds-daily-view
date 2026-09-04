@@ -2,7 +2,7 @@
 
 **2026年09月04日**
 
-![閘門](../Gate_Rave_Mandala_Collection/Gate-64.jpg)
+![閘門](../../Gate_Rave_Mandala_Collection/Gate-64.jpg)
 
 ## *[翻译失败] Gate of Confusion - Pressurized Mental Activity*
 
@@ -20,7 +20,7 @@ Accepting confusion, the state before order is established, is part of Gate 64's
 
 If we put pressure on our mind to figure the data out with a specific methodology, we may increase our level of confusion and trigger anxiety. It takes great inner strength to let the confusion process resolve in its own way and time, thus leaving our peace of mind intact. It may also be tempting to react in some way once the clarity arrives, but these "aha's" are for sharing, not acting upon. Without Gate 47 we may be tempted to resolve the confusion prematurely.
 
-![人類圖曼陀羅](../Gate_Rave_Mandala_Collection/Gate-64-Rave-Mandala.png)
+![人類圖曼陀羅](../../Gate_Rave_Mandala_Collection/Gate-64-Rave-Mandala.png)
 
 ---
 
