@@ -2,7 +2,7 @@
 
 **2026年09月11日**
 
-![閘門](../Gate_Rave_Mandala_Collection/Gate-47.jpg)
+![閘門](../../Gate_Rave_Mandala_Collection/Gate-47.jpg)
 
 ## *[翻译失败] Gate of Realization  - Wait for the Moment of Realization*
 
@@ -20,7 +20,7 @@ If Gate 64 is the one who remembers the disorganized collection of film clips th
 
 At first we may feel that rather than the process becoming easier, it is becoming more complicated for us to reassemble the mental sequences in a way that makes sense. If we can step back and trust, however, we will eventually cycle through to that "aha" moment. The secret is to avoid the pressure to act on every conclusion that comes to us, and simply enjoy the array of possibilities that move through our active mind, until one stands out. We are then ready, when asked and it is correct for us, to share our recognitions with others. Without Gate 64 we may put pressure on ourselves, and forget to wait for the revelation that will truly bring the mental activity to a temporary halt.
 
-![人類圖曼陀羅](../Gate_Rave_Mandala_Collection/Gate-47-Rave-Mandala.png)
+![人類圖曼陀羅](../../Gate_Rave_Mandala_Collection/Gate-47-Rave-Mandala.png)
 
 ---
 
