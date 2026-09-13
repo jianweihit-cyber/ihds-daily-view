@@ -8,7 +8,7 @@
 
 > [翻译失败] A restrictive and adverse state as a result of internal weakness or external strength or both. You can not go into the image pool hoping to find a resolution.
 
-### [翻译失败] Right Angle Cross of Rulership 3 | Godhead - Harmonia
+### [翻译失败] Left Angle Cross of Informing 2 | Godhead - Harmonia
 
 *[翻译失败] Quarter of Duality,  the Realm of JupiterTheme: Purpose fulfilled through BondingMystical Theme: Measure for Measure*
 
@@ -24,8 +24,7 @@ At first we may feel that rather than the process becoming easier, it is becomin
 
 ---
 
-### [翻译失败] Line 4 - Repression
+### [翻译失败] Line 5 - The saint
 
-**☀️ 高階表達:** [翻译失败] The strength of identity that even in times of the most powerful oppression can maintain its resources and to some extent ensure their survival for the benefit of others. A sense of identity that can be maintained despite external conditioning.
+**☀️ 高階表達:** [翻译失败] The gift in times of oppression to maintain without hypocrisy a harmonic relationship with one's oppressors, while providing aid and succour to the oppressed. Realization at its most exalted. Acceptance of the weight of the abstract process and the grace that naturally follows. No polarity.
 
-**🌑 低階表達:** [翻译失败] When robbed of its light, the Moon is lost in darkness; barely able to nourish itself, let alone others. The identity overwhelmed by external conditioning.
