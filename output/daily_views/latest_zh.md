@@ -24,7 +24,6 @@ At first we may feel that rather than the process becoming easier, it is becomin
 
 ---
 
-### [翻译失败] Line 5 - The saint
+### [翻译失败] Line 6 - Futility
 
-**☀️ 高階表達:** [翻译失败] The gift in times of oppression to maintain without hypocrisy a harmonic relationship with one's oppressors, while providing aid and succour to the oppressed. Realization at its most exalted. Acceptance of the weight of the abstract process and the grace that naturally follows. No polarity.
-
+**🌑 低階表達:** [翻译失败] The Sun in detriment, where the strength of will alone may find a way to adapt and survive, but without hope of ever overcoming the oppression. Life as an ordeal stripped of realization.
