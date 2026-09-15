@@ -1,29 +1,31 @@
-# Gate 47 - Oppression
+# Gate 6 - Conflict
 
 **September 15, 2026**
 
-![Gate](../Gate_Rave_Mandala_Collection/Gate-47.jpg)
+![Gate](../Gate_Rave_Mandala_Collection/Gate-6.jpg)
 
-## *Gate of Realization  - Wait for the Moment of Realization*
+## *Gate of Friction - Feeling, Emoting, and Sensitivity*
 
-> A restrictive and adverse state as a result of internal weakness or external strength or both. You can not go into the image pool hoping to find a resolution.
+> The fundamental design component of progress. The law that growth cannot exist without friction. The energy for producing life itself.
 
-### Left Angle Cross of Informing 2 | Godhead - Harmonia
+### Right Angle Cross of Eden 3 | Godhead - Harmonia
 
 *Quarter of Duality,  the Realm of JupiterTheme: Purpose fulfilled through BondingMystical Theme: Measure for Measure*
 
 ---
 
-This Gate is part of the Channel of Abstraction, A Design of Mental Activity and Clarity, linking the Ajna Center (Gate 47) with the Head Center (Gate 64). Gate 47 is part of the Collective Sensing (Abstract) Circuit with the keynote of sharing.
+This Gate is part of the Channel of Mating, A Design Focused on Reproduction, linking the Solar Plexus Center (Gate 6) to the Sacral Center (Gate 59). Gate 6 is part of the Tribal (Defense) Circuit with the keynote of support.
 
-If Gate 64 is the one who remembers the disorganized collection of film clips that passes through its life, then Gate 47 is the editor who attempts to assemble them all into a meaningful slice of human experience. We will not see the full picture immediately as we tentatively start to sort through the collection of images, and it may not be apparent at first which clip holds the key to our eventual mental realization. As new details emerge, we may vacillate between perceiving the event this way or that way through a mix of recognitions that direct us toward different interpretations.
+Gate 6 in the Solar Plexus Center generates all three modes of emotional awareness: feelings, moods and sensitivity. This is a powerful motorized combination on a wave that is designed to create friction. This friction produces the heat essential for growth and fertility, and is aimed at Gate 59. The friction created by those with this gate when they step into another person's aura is a mechanic. If (or when) the conflict is resolved, or resonance is reached, there is then an opening and intimacy can proceed. Until there is such an opening, we must wait, as readiness and fertility are both subject to the emotional wave.
 
-At first we may feel that rather than the process becoming easier, it is becoming more complicated for us to reassemble the mental sequences in a way that makes sense. If we can step back and trust, however, we will eventually cycle through to that "aha" moment. The secret is to avoid the pressure to act on every conclusion that comes to us, and simply enjoy the array of possibilities that move through our active mind, until one stands out. We are then ready, when asked and it is correct for us, to share our recognitions with others. Without Gate 64 we may put pressure on ourselves, and forget to wait for the revelation that will truly bring the mental activity to a temporary halt.
+Gate 6 is a kind of diaphragm that either opens up to intimacy or closes. It is the gate of our pH, and establishes and maintains the boundary between what is outside and what is inside our body. In this way it determines who to be intimate with, when, and the bonding role we will play. Each time we feel drawn toward intimacy, let Strategy and Authority be our guide. Each gate in the Solar Plexus carries a fear. The fear associated with the 6th gate is the fear of intimacy, which is why Gate 6 looks to Gate 59 with its ability to break down the barriers to intimacy.
 
-![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-47-Rave-Mandala.png)
+![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-6-Rave-Mandala.png)
 
 ---
 
-### Line 6 - Futility
+### Line 1 - Retreat
 
-**🌑 Detriment:** The Sun in detriment, where the strength of will alone may find a way to adapt and survive, but without hope of ever overcoming the oppression. Life as an ordeal stripped of realization.
+**☀️ Exaltation:** The power of regeneration that can embrace retreat as a phase and not a failure. The emotional stability to accept conflict.
+
+**🌑 Detriment:** The inferiority complex, where retreat is experienced as personal weakness. Emotional instability in times of conflict.
