@@ -1,6 +1,6 @@
 # [翻译失败] Gate 47 - Oppression
 
-**2026年09月14日**
+**2026年09月15日**
 
 ![閘門](../Gate_Rave_Mandala_Collection/Gate-47.jpg)
 
