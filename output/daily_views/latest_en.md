@@ -1,6 +1,6 @@
 # Gate 6 - Conflict
 
-**September 15, 2026**
+**September 16, 2026**
 
 ![Gate](../Gate_Rave_Mandala_Collection/Gate-6.jpg)
 
