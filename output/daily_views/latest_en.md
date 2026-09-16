@@ -24,8 +24,8 @@ Gate 6 is a kind of diaphragm that either opens up to intimacy or closes. It is 
 
 ---
 
-### Line 1 - Retreat
+### Line 2 - The guerilla
 
-**☀️ Exaltation:** The power of regeneration that can embrace retreat as a phase and not a failure. The emotional stability to accept conflict.
+**☀️ Exaltation:** Aesthetic sensitivity and mental detail can find the weakest point. The sensitivity to find the weakest point in a conflict and to exploit it emotionally.
 
-**🌑 Detriment:** The inferiority complex, where retreat is experienced as personal weakness. Emotional instability in times of conflict.
+**🌑 Detriment:** The kamikaze, striking but moot. A lack of sensitivity that blunders into conflicts.
