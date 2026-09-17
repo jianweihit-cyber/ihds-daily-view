@@ -1,6 +1,6 @@
 # [翻译失败] Gate 6 - Conflict
 
-**2026年09月16日**
+**2026年09月17日**
 
 ![閘門](../Gate_Rave_Mandala_Collection/Gate-6.jpg)
 
