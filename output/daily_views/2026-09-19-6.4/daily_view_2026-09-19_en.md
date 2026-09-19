@@ -2,7 +2,7 @@
 
 **September 19, 2026**
 
-![Gate](../Gate_Rave_Mandala_Collection/Gate-6.jpg)
+![Gate](../../Gate_Rave_Mandala_Collection/Gate-6.jpg)
 
 ## *Gate of Friction - Feeling, Emoting, and Sensitivity*
 
@@ -20,7 +20,7 @@ Gate 6 in the Solar Plexus Center generates all three modes of emotional awarene
 
 Gate 6 is a kind of diaphragm that either opens up to intimacy or closes. It is the gate of our pH, and establishes and maintains the boundary between what is outside and what is inside our body. In this way it determines who to be intimate with, when, and the bonding role we will play. Each time we feel drawn toward intimacy, let Strategy and Authority be our guide. Each gate in the Solar Plexus carries a fear. The fear associated with the 6th gate is the fear of intimacy, which is why Gate 6 looks to Gate 59 with its ability to break down the barriers to intimacy.
 
-![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-6-Rave-Mandala.png)
+![Rave Mandala](../../Gate_Rave_Mandala_Collection/Gate-6-Rave-Mandala.png)
 
 ---
 
