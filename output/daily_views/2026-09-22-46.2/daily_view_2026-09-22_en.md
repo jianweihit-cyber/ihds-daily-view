@@ -2,7 +2,7 @@
 
 **September 22, 2026**
 
-![Gate](../Gate_Rave_Mandala_Collection/Gate-46.jpg)
+![Gate](../../Gate_Rave_Mandala_Collection/Gate-46.jpg)
 
 ## *The Gate of the Determination of the Self - The Body is the Temple*
 
@@ -20,7 +20,7 @@ The 46th gate is focused on the quality of life we experience in a physical body
 
 The lessons we learn and the wisdom we share with others is derived from our determination, dedication and absorption in the experience as we are living it. The experience of the nature of ourselves in interaction with others is a deeply spiritual process, and can only be evaluated when the cycle is complete. If we cannot commit ourselves to the cyclical nature of life, our body will begin to fail under the stress of constant crisis. Without the 29th gate, we may recognize the right timing, but not have the energy to begin the process or the perseverance to complete it.
 
-![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-46-Rave-Mandala.png)
+![Rave Mandala](../../Gate_Rave_Mandala_Collection/Gate-46-Rave-Mandala.png)
 
 ---
 
