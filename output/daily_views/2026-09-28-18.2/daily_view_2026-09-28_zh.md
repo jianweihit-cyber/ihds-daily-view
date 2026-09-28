@@ -2,7 +2,7 @@
 
 **2026年09月28日**
 
-![閘門](../Gate_Rave_Mandala_Collection/Gate-18.jpg)
+![閘門](../../Gate_Rave_Mandala_Collection/Gate-18.jpg)
 
 ## *[翻译失败] Gate of Correction - Essential Learning*
 
@@ -20,7 +20,7 @@ Gate 18 enjoys discovering, naming and challenging what needs correcting. When w
 
 Ushering in a new understanding through identifying what needs correcting is the by-product of the process. Gate 18 also represents the fear of authority and the challenge to that authority. As a Collective gate, it is designed to point out what needs to be corrected at the Collective level, but when used at the personal level it tends to backfire. Without Gate 58's joyful fuel for correction, our dissatisfaction can become merely a constant source of fault finding. This is especially true if our valuable and crucial awareness is no longer productively focused on situations, patterns or institutions, but rather on people's idiosyncrasies and foibles.
 
-![人類圖曼陀羅](../Gate_Rave_Mandala_Collection/Gate-18-Rave-Mandala.png)
+![人類圖曼陀羅](../../Gate_Rave_Mandala_Collection/Gate-18-Rave-Mandala.png)
 
 ---
 

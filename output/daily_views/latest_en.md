@@ -1,6 +1,6 @@
 # Gate 18 - Work on what has been spoilt
 
-**September 27, 2026**
+**September 28, 2026**
 
 ![Gate](../Gate_Rave_Mandala_Collection/Gate-18.jpg)
 
@@ -24,8 +24,8 @@ Ushering in a new understanding through identifying what needs correcting is the
 
 ---
 
-### Line 1 - Conservatism
+### Line 2 - Terminal disease
 
-**☀️ Exaltation:** Gradual modification to avoid eventual upheaval. The potential to correct through gradual modification of judgments.
+**☀️ Exaltation:** Acceptance and strength derived from a faith in spiritual regeneration. The acceptance that there is no potential for correction.
 
-**🌑 Detriment:** The Patriarch whose rigidity guarantees deterioration. The potential to refuse to correct.
+**🌑 Detriment:** The futile raging against the wind. The refusal to accept that there is no potential for correction.
