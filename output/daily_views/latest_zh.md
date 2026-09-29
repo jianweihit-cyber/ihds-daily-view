@@ -1,6 +1,6 @@
 # [翻译失败] Gate 18 - Work on what has been spoilt
 
-**2026年09月28日**
+**2026年09月29日**
 
 ![閘門](../Gate_Rave_Mandala_Collection/Gate-18.jpg)
 
@@ -24,8 +24,8 @@ Ushering in a new understanding through identifying what needs correcting is the
 
 ---
 
-### [翻译失败] Line 2 - Terminal disease
+### [翻译失败] Line 3 - The zealot
 
-**☀️ 高階表達:** [翻译失败] Acceptance and strength derived from a faith in spiritual regeneration. The acceptance that there is no potential for correction.
+**☀️ 高階表達:** [翻译失败] The dissolution of old forms at an acceptable price. An obsession with correction and its critical potential.
 
-**🌑 低階表達:** [翻译失败] The futile raging against the wind. The refusal to accept that there is no potential for correction.
+**🌑 低階表達:** [翻译失败] Rigid judgmentation that creates as many problems as it solves. An obsession with correction that does not bring satisfaction.
