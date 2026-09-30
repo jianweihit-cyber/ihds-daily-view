@@ -1,6 +1,6 @@
 # Gate 18 - Work on what has been spoilt
 
-**September 29, 2026**
+**September 30, 2026**
 
 ![Gate](../Gate_Rave_Mandala_Collection/Gate-18.jpg)
 
@@ -8,7 +8,7 @@
 
 > The vigilance and determination to uphold and defend basic and fundamental human rights. Dissatisfaction fuels the life-long process of correcting and improving.
 
-### Right Angle Cross of Service 3 | Godhead - Christ
+### Right Angle Cross of Service 3, Juxtaposition Cross of Correction | Godhead - Christ
 
 *Quarter of Duality,  the Realm of JupiterTheme: Purpose fulfilled through BondingMystical Theme: Measure for Measure*
 
@@ -24,8 +24,8 @@ Ushering in a new understanding through identifying what needs correcting is the
 
 ---
 
-### Line 3 - The zealot
+### Line 4 - The incompetent
 
-**☀️ Exaltation:** The dissolution of old forms at an acceptable price. An obsession with correction and its critical potential.
+**☀️ Exaltation:** Given this negative position, survival through suffering. The inability to correct and its potential for suffering.
 
-**🌑 Detriment:** Rigid judgmentation that creates as many problems as it solves. An obsession with correction that does not bring satisfaction.
+**🌑 Detriment:** Indecision and anxiety and no escape from misfortune. The demands of correction and its potential to generate anxiety.
