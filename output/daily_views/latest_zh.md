@@ -1,6 +1,6 @@
 # [翻译失败] Gate 18 - Work on what has been spoilt
 
-**2026年09月30日**
+**2026年10月01日**
 
 ![閘門](../Gate_Rave_Mandala_Collection/Gate-18.jpg)
 
@@ -8,7 +8,7 @@
 
 > [翻译失败] The vigilance and determination to uphold and defend basic and fundamental human rights. Dissatisfaction fuels the life-long process of correcting and improving.
 
-### [翻译失败] Right Angle Cross of Service 3, Juxtaposition Cross of Correction | Godhead - Christ
+### [翻译失败] Left Angle Cross of Upheaval 2 | Godhead - Christ
 
 *[翻译失败] Quarter of Duality,  the Realm of JupiterTheme: Purpose fulfilled through BondingMystical Theme: Measure for Measure*
 
@@ -24,8 +24,8 @@ Ushering in a new understanding through identifying what needs correcting is the
 
 ---
 
-### [翻译失败] Line 4 - The incompetent
+### [翻译失败] Line 5 - Therapy
 
-**☀️ 高階表達:** [翻译失败] Given this negative position, survival through suffering. The inability to correct and its potential for suffering.
+**☀️ 高階表達:** [翻译失败] The wisdom to both seek and provide guidance. The potential for correction and judgment through relationships.
 
-**🌑 低階表達:** [翻译失败] Indecision and anxiety and no escape from misfortune. The demands of correction and its potential to generate anxiety.
+**🌑 低階表達:** [翻译失败] The mental patient. Chronic instability and potential madness. Where relationships cannot assist in correction the potential of mental instability.
