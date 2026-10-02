@@ -1,6 +1,6 @@
 # [翻译失败] Gate 18 - Work on what has been spoilt
 
-**2026年10月01日**
+**2026年10月02日**
 
 ![閘門](../Gate_Rave_Mandala_Collection/Gate-18.jpg)
 
@@ -24,8 +24,8 @@ Ushering in a new understanding through identifying what needs correcting is the
 
 ---
 
-### [翻译失败] Line 5 - Therapy
+### [翻译失败] Line 6 - Buddhahood
 
-**☀️ 高階表達:** [翻译失败] The wisdom to both seek and provide guidance. The potential for correction and judgment through relationships.
+**☀️ 高階表達:** [翻译失败] The Buddha state of the eternal child and the energy to find new horizons to avoid stasis. The potential of the perfected form through correction.
 
-**🌑 低階表達:** [翻译失败] The mental patient. Chronic instability and potential madness. Where relationships cannot assist in correction the potential of mental instability.
+**🌑 低階表達:** [翻译失败] The mundane application of the above. The ability to tap public opinion and share methodology. The potential to share the values of the correction with others.
