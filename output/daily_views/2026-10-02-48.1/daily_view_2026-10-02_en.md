@@ -2,7 +2,7 @@
 
 **October 02, 2026**
 
-![Gate](../Gate_Rave_Mandala_Collection/Gate-48.jpg)
+![Gate](../../Gate_Rave_Mandala_Collection/Gate-48.jpg)
 
 ## *Gate of Depth - A Resource Available in the Now*
 
@@ -20,7 +20,7 @@ Gate 48 provides a potent awareness rooted in deep instinctual memory that gives
 
 We may become overly concerned about developing skills we feel we lack. Relaxing into an active (expectant) waiting will usually draw people to us who will initiate our depth. In this way our potential solutions can emerge naturally and clearly as a foundation for evaluating, perfecting and mentoring the skills of others.
 
-![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-48-Rave-Mandala.png)
+![Rave Mandala](../../Gate_Rave_Mandala_Collection/Gate-48-Rave-Mandala.png)
 
 ---
 
