@@ -8,7 +8,7 @@
 
 > The extraordinary power of clarity. Like a chill breeze that can touch you to the bone. The maximization of intuitive clarity demands existential attention.
 
-### Right Angle Cross of Penetration 3 | Godhead - Christ
+### Right Angle Cross of Penetration 3, Juxtaposition Cross of Intuition | Godhead - Christ
 
 *Quarter of Duality,  the Realm of JupiterTheme: Purpose fulfilled through BondingMystical Theme: Measure for Measure*
 
@@ -22,7 +22,8 @@ With its clarity of intuitive insight, Gate 57 has the capacity to penetrate to 
 
 ---
 
-### Line 3 - Acuteness
+### Line 4 - The director
 
-**☀️ Exaltation:** The perfected intelligence, where clarity eliminates doubt and ensures manifestation. The possibility of perfected intuition. No polarity.
+**☀️ Exaltation:** The mastery of relationships that through clarity can maximize productivity while the sensitivity to interrelationships will ensure harmony. The possible intuitive clarity to master relationships.
 
+**🌑 Detriment:** A tendency given this position to be dictatorial rather than directorial. With the gift of clarity to master relationships, the possibility of being intuitively dictatorial.
