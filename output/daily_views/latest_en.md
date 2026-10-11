@@ -1,6 +1,6 @@
 # Gate 57 - The Gentle
 
-**October 10, 2026**
+**October 11, 2026**
 
 ![Gate](../Gate_Rave_Mandala_Collection/Gate-57.jpg)
 
