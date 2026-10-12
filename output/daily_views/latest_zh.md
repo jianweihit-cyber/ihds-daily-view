@@ -1,6 +1,6 @@
 # [翻译失败] Gate 57 - The Gentle
 
-**2026年10月11日**
+**2026年10月12日**
 
 ![閘門](../Gate_Rave_Mandala_Collection/Gate-57.jpg)
 
