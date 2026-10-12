@@ -1,6 +1,6 @@
 # AI 绘图提示词 - Gate 57 - The Gentle
 # 日期: 2026-10-12
-# Gate: 57 | Line: Line 4 - The director
+# Gate: 57 | Line: Line 5 - Progression
 
 ================================================================================
 🎨 LEONARDO.AI / MIDJOURNEY 提示词
@@ -12,7 +12,7 @@ Mystical spiritual artwork for Human Design Gate 57 - The Gentle.
 
 Theme: Gate of Intuitive Insight - Penetrate to the Core in the Now
 Energy essence: The extraordinary power of clarity. Like a chill breeze that can touch you to the bone. The maximization of intuitive clarity demands existential attention.
-Line expression: Line 4 - The director
+Line expression: Line 5 - Progression
 
 Art style requirements:
 - Sacred geometry patterns and cosmic mandala elements
