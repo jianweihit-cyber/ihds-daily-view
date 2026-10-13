@@ -1,6 +1,6 @@
 # Gate 57 - The Gentle
 
-**October 12, 2026**
+**October 13, 2026**
 
 ![Gate](../Gate_Rave_Mandala_Collection/Gate-57.jpg)
 
@@ -22,8 +22,8 @@ With its clarity of intuitive insight, Gate 57 has the capacity to penetrate to 
 
 ---
 
-### Line 5 - Progression
+### Line 6 - Utilization
 
-**☀️ Exaltation:** The natural ability to establish new forms while maintaining the powers of reevaluation and reexamination. This provides the clarity to examine the data and assess the process. The possible intuitive gift for evaluation.
+**☀️ Exaltation:** The acceptance that clarity is a double-edged sword. There are situations where understanding cannot lead to rectification. Here, Uranus' innovative quality can generally make the best out of an otherwise difficult but rarely permanent situation. Where there is no answer, only the possibilities of the intuition can make the best out of a difficult situation.
 
-**🌑 Detriment:** The tendency to keep on keeping on, that can end up as a misguided missile. When in action, the intuition may become overwhelmed and unable to assess and evaluate its progress.
+**🌑 Detriment:** When clarity points to a problem one is unable because of circumstances to solve, a tendency to anger and frustration that provokes inevitably futile action. The possibility that when the intuition cannot solve a problem, a tendency to frustration and anger.
