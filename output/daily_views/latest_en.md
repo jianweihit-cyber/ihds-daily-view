@@ -1,29 +1,31 @@
-# Gate 57 - The Gentle
+# Gate 32 - Duration
 
-**October 13, 2026**
+**October 14, 2026**
 
-![Gate](../Gate_Rave_Mandala_Collection/Gate-57.jpg)
+![Gate](../Gate_Rave_Mandala_Collection/Gate-32.jpg)
 
-## *Gate of Intuitive Insight - Penetrate to the Core in the Now*
+## *Gate of Continuity - Conservatism*
 
-> The extraordinary power of clarity. Like a chill breeze that can touch you to the bone. The maximization of intuitive clarity demands existential attention.
+> The only thing which endures is change. The instinct to adapt in the now, without losing continuity, while maintaining our basic nature.
 
-### Left Angle Cross of the Clarion 2 | Godhead - Christ
+### Right Angle Cross of the Maya 3 | Godhead - Minerva
 
 *Quarter of Duality,  the Realm of JupiterTheme: Purpose fulfilled through BondingMystical Theme: Measure for Measure*
 
 ---
 
-This Gate is part of the Channel of The Brain Wave, A Design of Awareness, linking the Splenic Center (Gate 57) with the Throat Center (Gate 20). Gate 57 is part of the Individual (Knowing) Circuit with the keynote of empowerment. This Gate is part of the Channel of Power, A Design of an Archetype, linking the Splenic Center (Gate 57) with the Sacral Center (Gate 34). Gate 57 is part of the Integration Channel with the keynote of self-empowerment. This Gate is part of the Channel of Perfected Form, A Design of Survival, linking the Splenic Center (Gate 57) with the G Center (Gate 10). Gate 57 is part of the Integration Channel with the keynote of self-empowerment.
+This Gate is part of the Channel of Transformation, A Design of Being Driven, linking the Splenic Center (Gate 32) to the Root center (Gate 54). Gate 32 is part of the Tribal (Ego) Circuit with the keynote of support.
 
-With its clarity of intuitive insight, Gate 57 has the capacity to penetrate to one's core in the now. We have a deep inner attunement to sound that is constantly alert to the vibrations coming from our physical, emotional and psychic environments. Moment by moment our intuition registers a sense of what is safe, healthy and good for us, and what is not. Gate 57 is the gate of the right ear. If we want to hear what someone is really saying to us, listen with our intuitively attuned right ear. We must be alert and focused in the now to hear the messages from our intuition, or the information we are getting for survival may be ignored. We may sometimes appear deaf to others, or be accused of selectively hearing what they have to say, but our intuition is our only guide in determining what the perfect behavior is that will ensure our well-being. The only way we will alleviate our fears for the future is to pay close attention to our instinctual hunches, to that little voice that only speaks once and softly, and act on these hunches immediately.
+Awareness through Gate 32 is focused on constant evaluation as an instinctive recognition of what can and cannot be transformed. An underlying fear of failure can put the brakes on runaway ambition. Gate 32's ability to adapt, yet maintain its true nature, is the Spleen's contribution to the material continuity of the Tribe. This is part of our contribution as well. A great deal rests on what is recognized and valued, and thereby encouraged and retained by the Tribe. One of our gifts is recognizing who has the skills or education to move up in the world; and then, using our influence, to bring them to the attention of those in positions of authority.
 
-![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-57-Rave-Mandala.png)
+This is the gate of prolonged indecision. We are apt to find ourselves agonizing over how to maintain a balance between what is working successfully (conservatism), and opening ourselves or an organization up to the unknown risks (fear of failure) that accompany transformation and change. Change is inevitable, however, and when it becomes part of the equation for life, growth is optimized. By relying on our Authority for timing, and staying closely attuned to our own instincts, our wisdom will emerge over time as ways to keep society from repeating what does not work, while also embracing what has lasting value. Without Gate 54 the 32nd gate senses its lack of a consistent source of fuel or drive or ambition to succeed.
+
+![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-32-Rave-Mandala.png)
 
 ---
 
-### Line 6 - Utilization
+### Line 1 - Conservation
 
-**☀️ Exaltation:** The acceptance that clarity is a double-edged sword. There are situations where understanding cannot lead to rectification. Here, Uranus' innovative quality can generally make the best out of an otherwise difficult but rarely permanent situation. Where there is no answer, only the possibilities of the intuition can make the best out of a difficult situation.
+**☀️ Exaltation:** A life sustaining respect and attention to all aspects of a process. The potential to develop the instinct through detailed attention to a process.
 
-**🌑 Detriment:** When clarity points to a problem one is unable because of circumstances to solve, a tendency to anger and frustration that provokes inevitably futile action. The possibility that when the intuition cannot solve a problem, a tendency to frustration and anger.
+**🌑 Detriment:** The uncontrollable urge to bypass essentials which inevitably leads to the disruption of continuity. The fear of lack of potential, and the corresponding lack of attention.
