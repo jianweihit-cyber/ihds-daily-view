@@ -1,6 +1,6 @@
 # Gate 32 - Duration
 
-**October 14, 2026**
+**October 15, 2026**
 
 ![Gate](../Gate_Rave_Mandala_Collection/Gate-32.jpg)
 
@@ -24,8 +24,8 @@ This is the gate of prolonged indecision. We are apt to find ourselves agonizing
 
 ---
 
-### Line 1 - Conservation
+### Line 2 - Restraint
 
-**☀️ Exaltation:** A life sustaining respect and attention to all aspects of a process. The potential to develop the instinct through detailed attention to a process.
+**☀️ Exaltation:** The control of power for the benefit and enhancement of harmony. The potential for transformation that may be beneficial to others.
 
-**🌑 Detriment:** The uncontrollable urge to bypass essentials which inevitably leads to the disruption of continuity. The fear of lack of potential, and the corresponding lack of attention.
+**🌑 Detriment:** A tendency in frustration, particularly from a position of strength, to social withdrawal rather than persistent control. The frustration with controls or being controlled.

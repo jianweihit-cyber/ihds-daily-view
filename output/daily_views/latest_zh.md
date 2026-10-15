@@ -1,6 +1,6 @@
 # [翻译失败] Gate 32 - Duration
 
-**2026年10月14日**
+**2026年10月15日**
 
 ![閘門](../Gate_Rave_Mandala_Collection/Gate-32.jpg)
 
@@ -24,8 +24,8 @@ This is the gate of prolonged indecision. We are apt to find ourselves agonizing
 
 ---
 
-### [翻译失败] Line 1 - Conservation
+### [翻译失败] Line 2 - Restraint
 
-**☀️ 高階表達:** [翻译失败] A life sustaining respect and attention to all aspects of a process. The potential to develop the instinct through detailed attention to a process.
+**☀️ 高階表達:** [翻译失败] The control of power for the benefit and enhancement of harmony. The potential for transformation that may be beneficial to others.
 
-**🌑 低階表達:** [翻译失败] The uncontrollable urge to bypass essentials which inevitably leads to the disruption of continuity. The fear of lack of potential, and the corresponding lack of attention.
+**🌑 低階表達:** [翻译失败] A tendency in frustration, particularly from a position of strength, to social withdrawal rather than persistent control. The frustration with controls or being controlled.
