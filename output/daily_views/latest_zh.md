@@ -1,6 +1,6 @@
 # [翻译失败] Gate 32 - Duration
 
-**2026年10月15日**
+**2026年10月16日**
 
 ![閘門](../Gate_Rave_Mandala_Collection/Gate-32.jpg)
 
@@ -24,8 +24,8 @@ This is the gate of prolonged indecision. We are apt to find ourselves agonizing
 
 ---
 
-### [翻译失败] Line 2 - Restraint
+### [翻译失败] Line 3 - Lack on continuity
 
-**☀️ 高階表達:** [翻译失败] The control of power for the benefit and enhancement of harmony. The potential for transformation that may be beneficial to others.
+**☀️ 高階表達:** [翻译失败] Indecision and persistent reevaluation, that only because of its basic intelligence manages to endure. Indecision in times of transformation.
 
-**🌑 低階表達:** [翻译失败] A tendency in frustration, particularly from a position of strength, to social withdrawal rather than persistent control. The frustration with controls or being controlled.
+**🌑 低階表達:** [翻译失败] An overreliance on traditionally legitimized standards that in times of change can be totally out of step and suffer unexpected humiliation. A lack of instinct in times of transformation.

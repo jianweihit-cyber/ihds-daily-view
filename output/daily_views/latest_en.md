@@ -1,6 +1,6 @@
 # Gate 32 - Duration
 
-**October 15, 2026**
+**October 16, 2026**
 
 ![Gate](../Gate_Rave_Mandala_Collection/Gate-32.jpg)
 
@@ -24,8 +24,8 @@ This is the gate of prolonged indecision. We are apt to find ourselves agonizing
 
 ---
 
-### Line 2 - Restraint
+### Line 3 - Lack on continuity
 
-**☀️ Exaltation:** The control of power for the benefit and enhancement of harmony. The potential for transformation that may be beneficial to others.
+**☀️ Exaltation:** Indecision and persistent reevaluation, that only because of its basic intelligence manages to endure. Indecision in times of transformation.
 
-**🌑 Detriment:** A tendency in frustration, particularly from a position of strength, to social withdrawal rather than persistent control. The frustration with controls or being controlled.
+**🌑 Detriment:** An overreliance on traditionally legitimized standards that in times of change can be totally out of step and suffer unexpected humiliation. A lack of instinct in times of transformation.
