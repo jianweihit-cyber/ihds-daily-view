@@ -1,6 +1,6 @@
 # [翻译失败] Gate 32 - Duration
 
-**2026年10月17日**
+**2026年10月18日**
 
 ![閘門](../Gate_Rave_Mandala_Collection/Gate-32.jpg)
 
@@ -8,7 +8,7 @@
 
 > [翻译失败] The only thing which endures is change. The instinct to adapt in the now, without losing continuity, while maintaining our basic nature.
 
-### [翻译失败] Right Angle Cross of the Maya 3, Juxtaposition Cross of Conservation | Godhead - Minerva
+### [翻译失败] Left Angle Cross of Limitation 2 | Godhead - Minerva
 
 *[翻译失败] Quarter of Duality,  the Realm of JupiterTheme: Purpose fulfilled through BondingMystical Theme: Measure for Measure*
 
@@ -24,8 +24,8 @@ This is the gate of prolonged indecision. We are apt to find ourselves agonizing
 
 ---
 
-### [翻译失败] Line 4 - Right is might
+### [翻译失败] Line 5 - Flexibility
 
-**☀️ 高階表達:** [翻译失败] Even in times of change certain underlying principles endure. The instinct to maintain one's principles in times of change.
+**☀️ 高階表達:** [翻译失败] The Moon exalted, where superficiality is a valuable tool that while masking the inner light permits adaption to prevailing conditions. An instinct for adaption in times of change.
 
-**🌑 低階表達:** [翻译失败] Where Jupiter will establish right action in the larger social realm, Saturn's will lead to inner strength and endurance as long as it is not threatened from the outside. The instinct to maintain one's principles as long as one's security is not threatened.
+**🌑 低階表達:** [翻译失败] The urge to express oneself in direct and often violent rejection of conformity. The potential of the instinct to reject adaption and conformity in times of change.
