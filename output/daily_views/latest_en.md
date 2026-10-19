@@ -1,6 +1,6 @@
 # Gate 32 - Duration
 
-**October 18, 2026**
+**October 19, 2026**
 
 ![Gate](../Gate_Rave_Mandala_Collection/Gate-32.jpg)
 
@@ -24,8 +24,8 @@ This is the gate of prolonged indecision. We are apt to find ourselves agonizing
 
 ---
 
-### Line 5 - Flexibility
+### Line 6 - Tranquillity
 
-**☀️ Exaltation:** The Moon exalted, where superficiality is a valuable tool that while masking the inner light permits adaption to prevailing conditions. An instinct for adaption in times of change.
+**☀️ Exaltation:** An underlying acceptance of change that may or may not lead to tranquillity. The instinctive awareness to accept change and transformation.
 
-**🌑 Detriment:** The urge to express oneself in direct and often violent rejection of conformity. The potential of the instinct to reject adaption and conformity in times of change.
+**🌑 Detriment:** Impermanence as proof of meaninglessness with its attendant manifestations, depression, delusion, and in the extreme, self-destruction. The fear engendered when change is experienced as impermanence, and the potential for depression.

@@ -1,6 +1,6 @@
 # [翻译失败] Gate 32 - Duration
 
-**2026年10月18日**
+**2026年10月19日**
 
 ![閘門](../Gate_Rave_Mandala_Collection/Gate-32.jpg)
 
@@ -24,8 +24,8 @@ This is the gate of prolonged indecision. We are apt to find ourselves agonizing
 
 ---
 
-### [翻译失败] Line 5 - Flexibility
+### [翻译失败] Line 6 - Tranquillity
 
-**☀️ 高階表達:** [翻译失败] The Moon exalted, where superficiality is a valuable tool that while masking the inner light permits adaption to prevailing conditions. An instinct for adaption in times of change.
+**☀️ 高階表達:** [翻译失败] An underlying acceptance of change that may or may not lead to tranquillity. The instinctive awareness to accept change and transformation.
 
-**🌑 低階表達:** [翻译失败] The urge to express oneself in direct and often violent rejection of conformity. The potential of the instinct to reject adaption and conformity in times of change.
+**🌑 低階表達:** [翻译失败] Impermanence as proof of meaninglessness with its attendant manifestations, depression, delusion, and in the extreme, self-destruction. The fear engendered when change is experienced as impermanence, and the potential for depression.
