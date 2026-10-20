@@ -1,0 +1,70 @@
+# AI 绘图提示词 - Gate 50 - The Cauldron
+# 日期: 2026-10-20
+# Gate: 50 | Line: Line 1 - The immigrant
+
+================================================================================
+🎨 LEONARDO.AI / MIDJOURNEY 提示词
+================================================================================
+
+【英文提示词 - 直接复制使用】
+
+Mystical spiritual artwork for Human Design Gate 50 - The Cauldron.
+
+Theme: Gate of Values - Guarding and Maintaining the Tribe
+Energy essence: The value of historical continuity whose traditional values serve and enrich the present and future. Establishing the rules and laws of caring.
+Line expression: Line 1 - The immigrant
+
+Art style requirements:
+- Sacred geometry patterns and cosmic mandala elements
+- Deep purple, golden light, celestial blue color palette
+- I Ching hexagram subtle integration
+- Ethereal flowing energy lines and luminous particles
+- Mystical transformation and enlightenment mood
+- Professional poster composition with elegant mystical border
+- High detail, cinematic lighting, 4K ultra quality
+
+Additional elements: starfield background, nebula wisps, sacred symbols, golden ratio spirals, soft glowing aura
+
+--------------------------------------------------------------------------------
+
+【负面提示词 Negative Prompt】
+
+text, watermark, signature, words, letters, blurry, low quality, distorted, ugly, amateur, cartoon, anime, childish, oversaturated
+
+================================================================================
+📷 参考图片（可选上传）
+================================================================================
+
+请从以下路径上传参考图片以获得更好的效果：
+
+1. Gate 图片（I Ching 卦象图）:
+   📁 output/Gate_Rave_Mandala_Collection/Gate-50.jpg
+
+2. Rave Mandala（人类图曼陀罗）:
+   📁 output/Gate_Rave_Mandala_Collection/Gate-50-Rave-Mandala.png
+
+================================================================================
+⚙️ 推荐设置 (Leonardo.AI)
+================================================================================
+
+- Model: Leonardo Vision XL 或 Leonardo Creative
+- 图片尺寸: 1024 x 1024 (1:1 正方形)
+- Guidance Scale: 7-9
+- 如使用参考图片:
+  - Init Strength: 0.2-0.3 (保留创意空间)
+  - 勾选 "Use as reference" 而非 "Image to Image"
+
+================================================================================
+📋 使用步骤
+================================================================================
+
+1. 打开 Leonardo.AI (https://leonardo.ai/)
+2. 点击 "AI Image Generation"
+3. 复制上方【英文提示词】粘贴到 Prompt 框
+4. 复制【负面提示词】粘贴到 Negative Prompt 框
+5. (可选) 点击 "Image Input" 上传参考图片
+6. 选择模型和尺寸
+7. 点击 "Generate" 生成
+8. 下载喜欢的图片
+
+================================================================================
