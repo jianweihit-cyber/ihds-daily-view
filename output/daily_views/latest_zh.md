@@ -1,6 +1,6 @@
 # [翻译失败] Gate 50 - The Cauldron
 
-**2026年10月20日**
+**2026年10月21日**
 
 ![閘門](../Gate_Rave_Mandala_Collection/Gate-50.jpg)
 
@@ -24,8 +24,8 @@ Without Gate 27 we may try to physically take care of others when it is not corr
 
 ---
 
-### [翻译失败] Line 1 - The immigrant
+### [翻译失败] Line 2 - Determination
 
-**☀️ 高階表達:** [翻译失败] The desire to be effective and successful that builds on the most fundamental strengths while it refines its nature. The awareness that the growth and refinement of values will benefit destiny.
+**☀️ 高階表達:** [翻译失败] The strength of purpose that can enjoy overcoming adversity to achieve its goals. The strength derived from maintaining one's values in the face of opposition or conditioning.
 
-**🌑 低階表達:** [翻译失败] A dissatisfaction with/or embarrassment with origins, that makes an obsession of refinement. A dissatisfaction with original values that demands refinement.
+**🌑 低階表達:** [翻译失败] A discomfort with adversity that may lead to determined withdrawal. A lack of strength, where values are threatened by opposition or conditioning.

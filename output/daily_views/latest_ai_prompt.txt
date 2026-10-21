@@ -1,6 +1,6 @@
 # AI 绘图提示词 - Gate 50 - The Cauldron
-# 日期: 2026-10-20
-# Gate: 50 | Line: Line 1 - The immigrant
+# 日期: 2026-10-21
+# Gate: 50 | Line: Line 2 - Determination
 
 ================================================================================
 🎨 LEONARDO.AI / MIDJOURNEY 提示词
@@ -12,7 +12,7 @@ Mystical spiritual artwork for Human Design Gate 50 - The Cauldron.
 
 Theme: Gate of Values - Guarding and Maintaining the Tribe
 Energy essence: The value of historical continuity whose traditional values serve and enrich the present and future. Establishing the rules and laws of caring.
-Line expression: Line 1 - The immigrant
+Line expression: Line 2 - Determination
 
 Art style requirements:
 - Sacred geometry patterns and cosmic mandala elements
