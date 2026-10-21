@@ -24,8 +24,8 @@ Without Gate 27 we may try to physically take care of others when it is not corr
 
 ---
 
-### Line 2 - Determination
+### Line 3 - Adaptability
 
-**☀️ Exaltation:** The strength of purpose that can enjoy overcoming adversity to achieve its goals. The strength derived from maintaining one's values in the face of opposition or conditioning.
+**☀️ Exaltation:** The Moon exalted, that when unable to make it alone will naturally align itself with nurturing and protective forces. The awareness that to maintain one's principles and values the support of others is necessary.
 
-**🌑 Detriment:** A discomfort with adversity that may lead to determined withdrawal. A lack of strength, where values are threatened by opposition or conditioning.
+**🌑 Detriment:** A resentment when its natural mental gifts are ignored and is forced to curry favour in order to survive. Discomfort with the awareness that one cannot stand alone by one's principles.

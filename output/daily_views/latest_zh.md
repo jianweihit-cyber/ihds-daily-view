@@ -24,8 +24,8 @@ Without Gate 27 we may try to physically take care of others when it is not corr
 
 ---
 
-### [翻译失败] Line 2 - Determination
+### [翻译失败] Line 3 - Adaptability
 
-**☀️ 高階表達:** [翻译失败] The strength of purpose that can enjoy overcoming adversity to achieve its goals. The strength derived from maintaining one's values in the face of opposition or conditioning.
+**☀️ 高階表達:** [翻译失败] The Moon exalted, that when unable to make it alone will naturally align itself with nurturing and protective forces. The awareness that to maintain one's principles and values the support of others is necessary.
 
-**🌑 低階表達:** [翻译失败] A discomfort with adversity that may lead to determined withdrawal. A lack of strength, where values are threatened by opposition or conditioning.
+**🌑 低階表達:** [翻译失败] A resentment when its natural mental gifts are ignored and is forced to curry favour in order to survive. Discomfort with the awareness that one cannot stand alone by one's principles.
