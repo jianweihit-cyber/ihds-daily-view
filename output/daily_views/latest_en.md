@@ -8,7 +8,7 @@
 
 > The value of historical continuity whose traditional values serve and enrich the present and future. Establishing the rules and laws of caring.
 
-### Right Angle Cross of Laws 3 | Godhead - Minerva
+### Right Angle Cross of Laws 3, Juxtaposition Cross of Values | Godhead - Minerva
 
 *Quarter of Duality,  the Realm of JupiterTheme: Purpose fulfilled through BondingMystical Theme: Measure for Measure*
 
@@ -24,8 +24,8 @@ Without Gate 27 we may try to physically take care of others when it is not corr
 
 ---
 
-### Line 3 - Adaptability
+### Line 4 - Corruption
 
-**☀️ Exaltation:** The Moon exalted, that when unable to make it alone will naturally align itself with nurturing and protective forces. The awareness that to maintain one's principles and values the support of others is necessary.
+**☀️ Exaltation:** The malefic gift of turning inferior values into material success. Given this difficult position, Saturn's exaltation is, that its actions are limited to selfishness and unsavouriness rather than criminality. The capacity to maintain one's strength despite inferior values.
 
-**🌑 Detriment:** A resentment when its natural mental gifts are ignored and is forced to curry favour in order to survive. Discomfort with the awareness that one cannot stand alone by one's principles.
+**🌑 Detriment:** With such energy and no traditional values, the worst can be expected. The potential disregard of values that may lead to corruption or the breakdown of the defense system.
