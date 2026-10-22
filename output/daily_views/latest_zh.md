@@ -1,6 +1,6 @@
 # [翻译失败] Gate 50 - The Cauldron
 
-**2026年10月21日**
+**2026年10月22日**
 
 ![閘門](../Gate_Rave_Mandala_Collection/Gate-50.jpg)
 
