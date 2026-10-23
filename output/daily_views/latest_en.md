@@ -1,6 +1,6 @@
 # Gate 50 - The Cauldron
 
-**October 22, 2026**
+**October 23, 2026**
 
 ![Gate](../Gate_Rave_Mandala_Collection/Gate-50.jpg)
 
