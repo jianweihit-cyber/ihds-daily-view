@@ -8,7 +8,7 @@
 
 > [翻译失败] The value of historical continuity whose traditional values serve and enrich the present and future. Establishing the rules and laws of caring.
 
-### [翻译失败] Right Angle Cross of Laws 3, Juxtaposition Cross of Values | Godhead - Minerva
+### [翻译失败] Left Angle Cross of Wishes 2 | Godhead - Minerva
 
 *[翻译失败] Quarter of Duality,  the Realm of JupiterTheme: Purpose fulfilled through BondingMystical Theme: Measure for Measure*
 
@@ -24,8 +24,8 @@ Without Gate 27 we may try to physically take care of others when it is not corr
 
 ---
 
-### [翻译失败] Line 4 - Corruption
+### [翻译失败] Line 5 - Consistency
 
-**☀️ 高階表達:** [翻译失败] The malefic gift of turning inferior values into material success. Given this difficult position, Saturn's exaltation is, that its actions are limited to selfishness and unsavouriness rather than criminality. The capacity to maintain one's strength despite inferior values.
+**☀️ 高階表達:** [翻译失败] The disciplined and natural conservatism to avoid unnecessary change. The conservative awareness that basic principles should not be abandoned casually.
 
-**🌑 低階表達:** [翻译失败] With such energy and no traditional values, the worst can be expected. The potential disregard of values that may lead to corruption or the breakdown of the defense system.
+**🌑 低階表達:** [翻译失败] A perverse reaction to rebel against the methodology of one's very success. When effectively stimulated, the drive to rebel against basic principles.
