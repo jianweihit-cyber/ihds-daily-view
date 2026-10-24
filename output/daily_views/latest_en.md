@@ -24,8 +24,8 @@ Without Gate 27 we may try to physically take care of others when it is not corr
 
 ---
 
-### Line 5 - Consistency
+### Line 6 - Leadership
 
-**☀️ Exaltation:** The disciplined and natural conservatism to avoid unnecessary change. The conservative awareness that basic principles should not be abandoned casually.
+**☀️ Exaltation:** The gift in a position of power to maintain harmony even in severity. The strength to maintain one's values with vigour and continue to have harmonic relationships with others.
 
-**🌑 Detriment:** A perverse reaction to rebel against the methodology of one's very success. When effectively stimulated, the drive to rebel against basic principles.
+**🌑 Detriment:** An inherent moodiness, that in a position of power may at times alienate or offend and effect overall efficiency. The strength to maintain one's values but at the expense of harmonic relationships.
