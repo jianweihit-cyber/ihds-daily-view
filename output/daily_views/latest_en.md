@@ -1,31 +1,31 @@
-# Gate 50 - The Cauldron
+# Gate 28 - Preponderance of the Great
 
 **October 25, 2026**
 
-![Gate](../Gate_Rave_Mandala_Collection/Gate-50.jpg)
+![Gate](../Gate_Rave_Mandala_Collection/Gate-28.jpg)
 
-## *Gate of Values - Guarding and Maintaining the Tribe*
+## *Gate of the Game Player - The Challenge is Life Itself*
 
-> The value of historical continuity whose traditional values serve and enrich the present and future. Establishing the rules and laws of caring.
+> The transitoriness of power and influence. The potential of intuition is to know in the now whether it is of value to struggle or not.
 
-### Left Angle Cross of Wishes 2 | Godhead - Minerva
+### Right Angle Cross of the Unexpected 3 | Godhead - Minerva
 
 *Quarter of Duality,  the Realm of JupiterTheme: Purpose fulfilled through BondingMystical Theme: Measure for Measure*
 
 ---
 
-This Gate is part of the Channel of Preservation, A Design of Custodianship, linking the Splenic Center (Gate 50) with the Sacral Center (Gate 27). Gate 50 is part of the Tribal (Defense) Circuit with the keynote of support.
+This Gate is part of the Channel of Struggle, A Design of Stubbornness, linking the Splenic Center (Gate 28) to the Root Center (Gate 38). Gate 28 is part of the Individual (Knowing) Circuit with the keynote of empowerment.
 
-Each act of intimacy that results in a birth demands that the offspring of the union be nurtured into adulthood. Gate 50's mystical name is the Guardian. As the Tribal lawmaker, it establishes what is right or wrong. This is how and where the rules for caring become the source of moral conditioning for our children. At the core of the Tribe's defenses lies the Spleen's fear-driven mandate to maintain its own viability by protecting and guiding its young. We are here to guard the values and integrity of Tribal law, and the structures that uphold the well-being of the community. Our task is to be cognizant of which values or laws or rules safeguard how the Tribe cares for its own. Our instinctual awareness scrutinizes which are corrupt or unjust, unnecessary or self-serving, or need to be challenged and changed. This is our way of caring for and nurturing every aspect of life within the Tribe.
+Gate 28's deepest fear is that life might end before one knows what makes it worth living, or what gives it meaning. It's an energy that is stubbornly focused on listening with awareness in order to best intuit which risks will make us feel more alive, and lead to struggles which bring purpose to existence. With our Splenic awareness constantly alerting us to danger, we are willing to take risks others wouldn't, to play games with life and death. Ultimately, we will spontaneously meet and confront our own fears of death one at a time. Those who carry this gate have the energy needed to redirect the self-absorbed nature of people with Channel 57-20 by prodding them to make their intuitive knowing available to themselves and to others.
 
-Without Gate 27 we may try to physically take care of others when it is not correct for us to do so, thus fulfilling our fear of taking on responsibility that we aren't equipped to handle.
+Our own awareness helps people with Gate 38 determine who or what they should invest their energy in, enabling them to better assess the health and safety factors for whatever they consider worth fighting for. Without Gate 38, we may fall victim to unnecessary pressure to fight or struggle, experiencing needless resistance and exhaustion. We look to people with Gate 38 for clues about what they have discovered makes their life's struggles worthwhile.
 
-![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-50-Rave-Mandala.png)
+![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-28-Rave-Mandala.png)
 
 ---
 
-### Line 6 - Leadership
+### Line 1 - Preparation
 
-**☀️ Exaltation:** The gift in a position of power to maintain harmony even in severity. The strength to maintain one's values with vigour and continue to have harmonic relationships with others.
+**☀️ Exaltation:** The desire to be effective manifested in the application of energy to detail. The intuition to potentially apply energy to detail.
 
-**🌑 Detriment:** An inherent moodiness, that in a position of power may at times alienate or offend and effect overall efficiency. The strength to maintain one's values but at the expense of harmonic relationships.
+**🌑 Detriment:** The aesthetic appreciation of planning that may have no real application. An intuition for detail without the potential for application.

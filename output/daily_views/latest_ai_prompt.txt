@@ -1,6 +1,6 @@
-# AI 绘图提示词 - Gate 50 - The Cauldron
+# AI 绘图提示词 - Gate 28 - Preponderance of the Great
 # 日期: 2026-10-25
-# Gate: 50 | Line: Line 6 - Leadership
+# Gate: 28 | Line: Line 1 - Preparation
 
 ================================================================================
 🎨 LEONARDO.AI / MIDJOURNEY 提示词
@@ -8,11 +8,11 @@
 
 【英文提示词 - 直接复制使用】
 
-Mystical spiritual artwork for Human Design Gate 50 - The Cauldron.
+Mystical spiritual artwork for Human Design Gate 28 - Preponderance of the Great.
 
-Theme: Gate of Values - Guarding and Maintaining the Tribe
-Energy essence: The value of historical continuity whose traditional values serve and enrich the present and future. Establishing the rules and laws of caring.
-Line expression: Line 6 - Leadership
+Theme: Gate of the Game Player - The Challenge is Life Itself
+Energy essence: The transitoriness of power and influence. The potential of intuition is to know in the now whether it is of value to struggle or not.
+Line expression: Line 1 - Preparation
 
 Art style requirements:
 - Sacred geometry patterns and cosmic mandala elements
@@ -38,10 +38,10 @@ text, watermark, signature, words, letters, blurry, low quality, distorted, ugly
 请从以下路径上传参考图片以获得更好的效果：
 
 1. Gate 图片（I Ching 卦象图）:
-   📁 output/Gate_Rave_Mandala_Collection/Gate-50.jpg
+   📁 output/Gate_Rave_Mandala_Collection/Gate-28.jpg
 
 2. Rave Mandala（人类图曼陀罗）:
-   📁 output/Gate_Rave_Mandala_Collection/Gate-50-Rave-Mandala.png
+   📁 output/Gate_Rave_Mandala_Collection/Gate-28-Rave-Mandala.png
 
 ================================================================================
 ⚙️ 推荐设置 (Leonardo.AI)
