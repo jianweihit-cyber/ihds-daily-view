@@ -1,6 +1,6 @@
 # [翻译失败] Gate 28 - Preponderance of the Great
 
-**2026年10月25日**
+**2026年10月26日**
 
 ![閘門](../Gate_Rave_Mandala_Collection/Gate-28.jpg)
 
