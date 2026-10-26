@@ -24,8 +24,8 @@ Our own awareness helps people with Gate 38 determine who or what they should in
 
 ---
 
-### Line 1 - Preparation
+### Line 2 - Shaking hands with the devil
 
-**☀️ Exaltation:** The desire to be effective manifested in the application of energy to detail. The intuition to potentially apply energy to detail.
+**☀️ Exaltation:** A means, however unsavoury, that is justified by its end. When the game turns to a struggle, the intuitive acceptance of any alliance in order to win.
 
-**🌑 Detriment:** The aesthetic appreciation of planning that may have no real application. An intuition for detail without the potential for application.
+**🌑 Detriment:** The anxiety engendered by sacrificing higher principles when there is no guarantee of success. The risk in sacrificing principles when there is no guarantee of victory.

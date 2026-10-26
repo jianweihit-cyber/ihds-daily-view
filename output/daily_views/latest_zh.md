@@ -24,8 +24,8 @@ Our own awareness helps people with Gate 38 determine who or what they should in
 
 ---
 
-### [翻译失败] Line 1 - Preparation
+### [翻译失败] Line 2 - Shaking hands with the devil
 
-**☀️ 高階表達:** [翻译失败] The desire to be effective manifested in the application of energy to detail. The intuition to potentially apply energy to detail.
+**☀️ 高階表達:** [翻译失败] A means, however unsavoury, that is justified by its end. When the game turns to a struggle, the intuitive acceptance of any alliance in order to win.
 
-**🌑 低階表達:** [翻译失败] The aesthetic appreciation of planning that may have no real application. An intuition for detail without the potential for application.
+**🌑 低階表達:** [翻译失败] The anxiety engendered by sacrificing higher principles when there is no guarantee of success. The risk in sacrificing principles when there is no guarantee of victory.
