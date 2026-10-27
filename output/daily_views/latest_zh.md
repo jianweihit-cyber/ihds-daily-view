@@ -24,8 +24,8 @@ Our own awareness helps people with Gate 38 determine who or what they should in
 
 ---
 
-### [翻译失败] Line 2 - Shaking hands with the devil
+### [翻译失败] Line 3 - Adventurism
 
-**☀️ 高階表達:** [翻译失败] A means, however unsavoury, that is justified by its end. When the game turns to a struggle, the intuitive acceptance of any alliance in order to win.
+**☀️ 高階表達:** [翻译失败] A basic conservatism that even in adventurous acts is necessarily prudent. An intuitive caution in risk taking in times of struggle.
 
-**🌑 低階表達:** [翻译失败] The anxiety engendered by sacrificing higher principles when there is no guarantee of success. The risk in sacrificing principles when there is no guarantee of victory.
+**🌑 低階表達:** [翻译失败] Here a perverse manifestation of Jupiter's expansiveness where risk taking is rationalized and failure ensured. Intuitive rationalizing of risk taking in times of struggle.
