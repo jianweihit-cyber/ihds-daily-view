@@ -1,6 +1,6 @@
 # Gate 28 - Preponderance of the Great
 
-**October 27, 2026**
+**October 28, 2026**
 
 ![Gate](../Gate_Rave_Mandala_Collection/Gate-28.jpg)
 
