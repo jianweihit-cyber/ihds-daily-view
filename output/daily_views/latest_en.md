@@ -8,7 +8,7 @@
 
 > The transitoriness of power and influence. The potential of intuition is to know in the now whether it is of value to struggle or not.
 
-### Right Angle Cross of the Unexpected 3 | Godhead - Minerva
+### Right Angle Cross of the Unexpected 3, Juxtaposition Cross of Risks | Godhead - Minerva
 
 *Quarter of Duality,  the Realm of JupiterTheme: Purpose fulfilled through BondingMystical Theme: Measure for Measure*
 
@@ -24,8 +24,8 @@ Our own awareness helps people with Gate 38 determine who or what they should in
 
 ---
 
-### Line 3 - Adventurism
+### Line 4 - Holding on
 
-**☀️ Exaltation:** A basic conservatism that even in adventurous acts is necessarily prudent. An intuitive caution in risk taking in times of struggle.
+**☀️ Exaltation:** The application of knowledge to exploit opportunities and usually for the greater good. A depth of intuition at its best in struggle and often of value to others.
 
-**🌑 Detriment:** Here a perverse manifestation of Jupiter's expansiveness where risk taking is rationalized and failure ensured. Intuitive rationalizing of risk taking in times of struggle.
+**🌑 Detriment:** The application of intelligence to hold on, exclusively out of self-interest. A depth of intuition that is stubbornly selfish in its capacity to hold on.

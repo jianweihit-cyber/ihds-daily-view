@@ -1,6 +1,6 @@
 # AI 绘图提示词 - Gate 28 - Preponderance of the Great
 # 日期: 2026-10-28
-# Gate: 28 | Line: Line 3 - Adventurism
+# Gate: 28 | Line: Line 4 - Holding on
 
 ================================================================================
 🎨 LEONARDO.AI / MIDJOURNEY 提示词
@@ -12,7 +12,7 @@ Mystical spiritual artwork for Human Design Gate 28 - Preponderance of the Great
 
 Theme: Gate of the Game Player - The Challenge is Life Itself
 Energy essence: The transitoriness of power and influence. The potential of intuition is to know in the now whether it is of value to struggle or not.
-Line expression: Line 3 - Adventurism
+Line expression: Line 4 - Holding on
 
 Art style requirements:
 - Sacred geometry patterns and cosmic mandala elements
