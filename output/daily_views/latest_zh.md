@@ -1,6 +1,6 @@
 # [翻译失败] Gate 28 - Preponderance of the Great
 
-**2026年10月28日**
+**2026年10月29日**
 
 ![閘門](../Gate_Rave_Mandala_Collection/Gate-28.jpg)
 
@@ -8,7 +8,7 @@
 
 > [翻译失败] The transitoriness of power and influence. The potential of intuition is to know in the now whether it is of value to struggle or not.
 
-### [翻译失败] Right Angle Cross of the Unexpected 3, Juxtaposition Cross of Risks | Godhead - Minerva
+### [翻译失败] Left Angle Cross of Alignment 2 | Godhead - Minerva
 
 *[翻译失败] Quarter of Duality,  the Realm of JupiterTheme: Purpose fulfilled through BondingMystical Theme: Measure for Measure*
 
@@ -24,8 +24,8 @@ Our own awareness helps people with Gate 38 determine who or what they should in
 
 ---
 
-### [翻译失败] Line 4 - Holding on
+### [翻译失败] Line 5 - Treachery
 
-**☀️ 高階表達:** [翻译失败] The application of knowledge to exploit opportunities and usually for the greater good. A depth of intuition at its best in struggle and often of value to others.
+**☀️ 高階表達:** [翻译失败] The manipulation of the collective, that while pitting one faction against the other, does not directly support or reject either. The intuitive capacity of the game player to provoke struggle amongst others.
 
-**🌑 低階表達:** [翻译失败] The application of intelligence to hold on, exclusively out of self-interest. A depth of intuition that is stubbornly selfish in its capacity to hold on.
+**🌑 低階表達:** [翻译失败] The breaking of alliances with trusted forces to align with more powerful forces and its attendant destabilization of the whole. The intuitive recognition in times of struggle to know when alliances must be broken and its destabilizing effect on others.
