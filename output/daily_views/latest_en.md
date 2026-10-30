@@ -1,6 +1,6 @@
 # Gate 28 - Preponderance of the Great
 
-**October 29, 2026**
+**October 30, 2026**
 
 ![Gate](../Gate_Rave_Mandala_Collection/Gate-28.jpg)
 
@@ -24,8 +24,8 @@ Our own awareness helps people with Gate 38 determine who or what they should in
 
 ---
 
-### Line 5 - Treachery
+### Line 6 - Blaze of glory
 
-**☀️ Exaltation:** The manipulation of the collective, that while pitting one faction against the other, does not directly support or reject either. The intuitive capacity of the game player to provoke struggle amongst others.
+**☀️ Exaltation:** Regeneration and renewal no matter what the price. The deep intuitive drive to win no matter what the cost.
 
-**🌑 Detriment:** The breaking of alliances with trusted forces to align with more powerful forces and its attendant destabilization of the whole. The intuitive recognition in times of struggle to know when alliances must be broken and its destabilizing effect on others.
+**🌑 Detriment:** Self-destruction. The deep intuitive fear of defeat and a potentially profound hopelessness in times of struggle.
