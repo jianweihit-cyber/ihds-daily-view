@@ -1,6 +1,6 @@
-# AI 绘图提示词 - Gate 28 - Preponderance of the Great
-# 日期: 2026-10-30
-# Gate: 28 | Line: Line 6 - Blaze of glory
+# AI 绘图提示词 - Gate 44 - Coming to Meet
+# 日期: 2026-10-31
+# Gate: 44 | Line: Line 1 - Conditions
 
 ================================================================================
 🎨 LEONARDO.AI / MIDJOURNEY 提示词
@@ -8,11 +8,11 @@
 
 【英文提示词 - 直接复制使用】
 
-Mystical spiritual artwork for Human Design Gate 28 - Preponderance of the Great.
+Mystical spiritual artwork for Human Design Gate 44 - Coming to Meet.
 
-Theme: Gate of the Game Player - The Challenge is Life Itself
-Energy essence: The transitoriness of power and influence. The potential of intuition is to know in the now whether it is of value to struggle or not.
-Line expression: Line 6 - Blaze of glory
+Theme: Gate of Alertness - The Personnel Manager
+Energy essence: The success of any interaction is based on the absence of any preconditions. Instinctive memory and alertness that can manage and mold the collective.
+Line expression: Line 1 - Conditions
 
 Art style requirements:
 - Sacred geometry patterns and cosmic mandala elements
@@ -38,10 +38,10 @@ text, watermark, signature, words, letters, blurry, low quality, distorted, ugly
 请从以下路径上传参考图片以获得更好的效果：
 
 1. Gate 图片（I Ching 卦象图）:
-   📁 output/Gate_Rave_Mandala_Collection/Gate-28.jpg
+   📁 output/Gate_Rave_Mandala_Collection/Gate-44.jpg
 
 2. Rave Mandala（人类图曼陀罗）:
-   📁 output/Gate_Rave_Mandala_Collection/Gate-28-Rave-Mandala.png
+   📁 output/Gate_Rave_Mandala_Collection/Gate-44-Rave-Mandala.png
 
 ================================================================================
 ⚙️ 推荐设置 (Leonardo.AI)
