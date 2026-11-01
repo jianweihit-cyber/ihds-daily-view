@@ -1,6 +1,6 @@
 # [翻译失败] Gate 44 - Coming to Meet
 
-**2026年10月31日**
+**2026年11月01日**
 
 ![閘門](../Gate_Rave_Mandala_Collection/Gate-44.jpg)
 
@@ -24,8 +24,8 @@ Without Gate 26 we are prone to unnecessarily exaggerate by over-committing and 
 
 ---
 
-### [翻译失败] Line 1 - Conditions
+### [翻译失败] Line 2 - Management
 
-**☀️ 高階表達:** [翻译失败] A mastery of the collective that can establish restrictive conditions for inferior components and with the ability to enforce them. An alertness to patterns than can lead to mastery of the collective.
+**☀️ 高階表達:** [翻译失败] The development and management of a proper collective structure which restricts inferior elements by creating cooperative modes that integrates these forces with progressive and superior forces. The possibility that alertness to patterns will result in management capability.
 
-**🌑 低階表達:** [翻译失败] An attractive nature that will interact with inferior forces and will fail to apply restrictions resulting in a risk to continued harmony. The failure of the instinct out of the need for harmony.
+**🌑 低階表達:** [翻译失败] A tendency in management to concentrate exclusively on goals, ignoring inferior elements which leads inevitably to quantitative success and qualitative failure. The instinctive memory for the patterns that bypasses the development of managerial capability.

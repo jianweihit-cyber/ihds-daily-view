@@ -1,6 +1,6 @@
 # Gate 44 - Coming to Meet
 
-**October 31, 2026**
+**November 01, 2026**
 
 ![Gate](../Gate_Rave_Mandala_Collection/Gate-44.jpg)
 
@@ -24,8 +24,8 @@ Without Gate 26 we are prone to unnecessarily exaggerate by over-committing and 
 
 ---
 
-### Line 1 - Conditions
+### Line 2 - Management
 
-**☀️ Exaltation:** A mastery of the collective that can establish restrictive conditions for inferior components and with the ability to enforce them. An alertness to patterns than can lead to mastery of the collective.
+**☀️ Exaltation:** The development and management of a proper collective structure which restricts inferior elements by creating cooperative modes that integrates these forces with progressive and superior forces. The possibility that alertness to patterns will result in management capability.
 
-**🌑 Detriment:** An attractive nature that will interact with inferior forces and will fail to apply restrictions resulting in a risk to continued harmony. The failure of the instinct out of the need for harmony.
+**🌑 Detriment:** A tendency in management to concentrate exclusively on goals, ignoring inferior elements which leads inevitably to quantitative success and qualitative failure. The instinctive memory for the patterns that bypasses the development of managerial capability.
