@@ -8,7 +8,7 @@
 
 > The success of any interaction is based on the absence of any preconditions. Instinctive memory and alertness that can manage and mold the collective.
 
-### Right Angle Cross of the Four Ways 3 | Godhead - Minerva
+### Right Angle Cross of the Four Ways 3, Juxtaposition Cross of Alertness | Godhead - Minerva
 
 *Quarter of Duality,  the Realm of JupiterTheme: Purpose fulfilled through BondingMystical Theme: Measure for Measure*
 
@@ -24,8 +24,8 @@ Without Gate 26 we are prone to unnecessarily exaggerate by over-committing and 
 
 ---
 
-### Line 3 - Interference
+### Line 4 - Honesty
 
-**☀️ Exaltation:** The ability to recognize the threat of interference and to prepare for its effects. The alertness and instinct to handle the ego of others.
+**☀️ Exaltation:** Indifference at its most logical and cutting. The indifference possible when guided by the instinctive memory.
 
-**🌑 Detriment:** A deluded response to interference that gets stuck in projection and as a result is unrealistic in appraisal and error prone. The possibility that the instinct cannot handle the ego of others.
+**🌑 Detriment:** The Sun in detriment, that in extreme situations, in cases of self-sustainment, will expect assistance from forces it has totally rejected. Here the honesty is the genuine need. The sacrifice of indifference for survival.

@@ -8,7 +8,7 @@
 
 > [翻译失败] The success of any interaction is based on the absence of any preconditions. Instinctive memory and alertness that can manage and mold the collective.
 
-### [翻译失败] Right Angle Cross of the Four Ways 3 | Godhead - Minerva
+### [翻译失败] Right Angle Cross of the Four Ways 3, Juxtaposition Cross of Alertness | Godhead - Minerva
 
 *[翻译失败] Quarter of Duality,  the Realm of JupiterTheme: Purpose fulfilled through BondingMystical Theme: Measure for Measure*
 
@@ -24,8 +24,8 @@ Without Gate 26 we are prone to unnecessarily exaggerate by over-committing and 
 
 ---
 
-### [翻译失败] Line 3 - Interference
+### [翻译失败] Line 4 - Honesty
 
-**☀️ 高階表達:** [翻译失败] The ability to recognize the threat of interference and to prepare for its effects. The alertness and instinct to handle the ego of others.
+**☀️ 高階表達:** [翻译失败] Indifference at its most logical and cutting. The indifference possible when guided by the instinctive memory.
 
-**🌑 低階表達:** [翻译失败] A deluded response to interference that gets stuck in projection and as a result is unrealistic in appraisal and error prone. The possibility that the instinct cannot handle the ego of others.
+**🌑 低階表達:** [翻译失败] The Sun in detriment, that in extreme situations, in cases of self-sustainment, will expect assistance from forces it has totally rejected. Here the honesty is the genuine need. The sacrifice of indifference for survival.
