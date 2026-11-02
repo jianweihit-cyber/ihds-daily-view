@@ -1,6 +1,6 @@
 # AI 绘图提示词 - Gate 44 - Coming to Meet
-# 日期: 2026-11-01
-# Gate: 44 | Line: Line 2 - Management
+# 日期: 2026-11-02
+# Gate: 44 | Line: Line 3 - Interference
 
 ================================================================================
 🎨 LEONARDO.AI / MIDJOURNEY 提示词
@@ -12,7 +12,7 @@ Mystical spiritual artwork for Human Design Gate 44 - Coming to Meet.
 
 Theme: Gate of Alertness - The Personnel Manager
 Energy essence: The success of any interaction is based on the absence of any preconditions. Instinctive memory and alertness that can manage and mold the collective.
-Line expression: Line 2 - Management
+Line expression: Line 3 - Interference
 
 Art style requirements:
 - Sacred geometry patterns and cosmic mandala elements

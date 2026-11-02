@@ -1,6 +1,6 @@
 # Gate 44 - Coming to Meet
 
-**November 01, 2026**
+**November 02, 2026**
 
 ![Gate](../Gate_Rave_Mandala_Collection/Gate-44.jpg)
 
@@ -24,8 +24,8 @@ Without Gate 26 we are prone to unnecessarily exaggerate by over-committing and 
 
 ---
 
-### Line 2 - Management
+### Line 3 - Interference
 
-**☀️ Exaltation:** The development and management of a proper collective structure which restricts inferior elements by creating cooperative modes that integrates these forces with progressive and superior forces. The possibility that alertness to patterns will result in management capability.
+**☀️ Exaltation:** The ability to recognize the threat of interference and to prepare for its effects. The alertness and instinct to handle the ego of others.
 
-**🌑 Detriment:** A tendency in management to concentrate exclusively on goals, ignoring inferior elements which leads inevitably to quantitative success and qualitative failure. The instinctive memory for the patterns that bypasses the development of managerial capability.
+**🌑 Detriment:** A deluded response to interference that gets stuck in projection and as a result is unrealistic in appraisal and error prone. The possibility that the instinct cannot handle the ego of others.
