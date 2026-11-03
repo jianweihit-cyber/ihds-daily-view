@@ -1,6 +1,6 @@
 # Gate 44 - Coming to Meet
 
-**November 02, 2026**
+**November 03, 2026**
 
 ![Gate](../Gate_Rave_Mandala_Collection/Gate-44.jpg)
 
