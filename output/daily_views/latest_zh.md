@@ -24,8 +24,8 @@ Without Gate 26 we are prone to unnecessarily exaggerate by over-committing and 
 
 ---
 
-### [翻译失败] Line 5 - Manipulation
+### [翻译失败] Line 6 - Aloofness
 
-**☀️ 高階表達:** [翻译失败] The ability to transform interaction with inferior elements into the energizing of progressive process with the additional benefit, that in tapping the inferior elements they remain weak. Where the instinctive recognition of the patterns leads to the possible manipulation of others.
+**☀️ 高階表達:** [翻译失败] A perfected renewal in which the establishment of a new form inures one to the condemnation of the rejected. The awareness of patterns which ensures one's instinctive well-being.
 
-**🌑 低階表達:** [翻译失败] The tendency in this form of manipulation to become abusive and degenerate to their level. The possibility that the instinctive recognition of the patterns could lead to the abuse of others.
+**🌑 低階表達:** [翻译失败] Intolerance and arrogance for lesser mortals. The awareness of patterns which can bolster the ego at the expense of the well-being of others.
