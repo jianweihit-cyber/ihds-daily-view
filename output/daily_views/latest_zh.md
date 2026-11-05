@@ -1,6 +1,6 @@
 # [翻译失败] Gate 44 - Coming to Meet
 
-**2026年11月04日**
+**2026年11月05日**
 
 ![閘門](../Gate_Rave_Mandala_Collection/Gate-44.jpg)
 
