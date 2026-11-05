@@ -1,6 +1,6 @@
-# AI 绘图提示词 - Gate 44 - Coming to Meet
+# AI 绘图提示词 - Gate 1 - The Creative
 # 日期: 2026-11-05
-# Gate: 44 | Line: Line 6 - Aloofness
+# Gate: 1 | Line: Line 1 - Creation is independent of will
 
 ================================================================================
 🎨 LEONARDO.AI / MIDJOURNEY 提示词
@@ -8,11 +8,11 @@
 
 【英文提示词 - 直接复制使用】
 
-Mystical spiritual artwork for Human Design Gate 44 - Coming to Meet.
+Mystical spiritual artwork for Human Design Gate 1 - The Creative.
 
-Theme: Gate of Alertness - The Personnel Manager
-Energy essence: The success of any interaction is based on the absence of any preconditions. Instinctive memory and alertness that can manage and mold the collective.
-Line expression: Line 6 - Aloofness
+Theme: Gate of Self-Expression - Creativity Rooted in Unique Direction
+Energy essence: Creativity as a primal force. The energy potential to manifest inspiration with out limitation. Individual expression fulfilled through interaction.
+Line expression: Line 1 - Creation is independent of will
 
 Art style requirements:
 - Sacred geometry patterns and cosmic mandala elements
@@ -38,10 +38,10 @@ text, watermark, signature, words, letters, blurry, low quality, distorted, ugly
 请从以下路径上传参考图片以获得更好的效果：
 
 1. Gate 图片（I Ching 卦象图）:
-   📁 output/Gate_Rave_Mandala_Collection/Gate-44.jpg
+   📁 output/Gate_Rave_Mandala_Collection/Gate-1.jpg
 
 2. Rave Mandala（人类图曼陀罗）:
-   📁 output/Gate_Rave_Mandala_Collection/Gate-44-Rave-Mandala.png
+   📁 output/Gate_Rave_Mandala_Collection/Gate-1-Rave-Mandala.png
 
 ================================================================================
 ⚙️ 推荐设置 (Leonardo.AI)

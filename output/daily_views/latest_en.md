@@ -1,31 +1,31 @@
-# Gate 44 - Coming to Meet
+# Gate 1 - The Creative
 
 **November 05, 2026**
 
-![Gate](../Gate_Rave_Mandala_Collection/Gate-44.jpg)
+![Gate](../Gate_Rave_Mandala_Collection/Gate-1.jpg)
 
-## *Gate of Alertness - The Personnel Manager*
+## *Gate of Self-Expression - Creativity Rooted in Unique Direction*
 
-> The success of any interaction is based on the absence of any preconditions. Instinctive memory and alertness that can manage and mold the collective.
+> Creativity as a primal force. The energy potential to manifest inspiration with out limitation. Individual expression fulfilled through interaction.
 
-### Left Angle Cross of Incarnation 2 | Godhead - Minerva
+### Right Angle Cross of the Sphinx 4 | Godhead - Hades
 
-*Quarter of Duality,  the Realm of JupiterTheme: Purpose fulfilled through BondingMystical Theme: Measure for Measure*
-
----
-
-This Gate is part of the Channel of Surrender, A Design of a Transmitter, linking the Splenic Center (Gate 44) with the Ego Center (Gate 26). Gate 44 is part of the Tribal (Ego) Circuit with the keynote of support.
-
-Gate 44 is the gate of memory; it remembers the patterns for living that have successfully provided for our material needs. This memory is an integral and consistently trustworthy part of our survival intelligence as a species. We are instinctually alert in every moment for the correct spontaneous relationship or interaction that can move a potential to the level of a possibility. What we remember or transmit shapes the Tribes' material orientation, and eventually strengthens its ego presence and power in the world. We control the way Gate 26 is going to act in terms of selling, defending or fighting for the tribe. This is where tribal propaganda can be found. We help the Tribe to allay its fears of the past by remembering that a starving child is not a healthy child, and that material security and health go hand in hand. The Spleen is not a motor, so once our awareness is recognized and valued by the Tribe, we will look to the willpower of Gate 26 to act on it. In this way, whatever transformation we instinctively know the Tribe needs to ensure its survival becomes a reality.
-
-Without Gate 26 we are prone to unnecessarily exaggerate by over-committing and making promises we cannot keep. What we fear most is that baggage from the past might catch up with us.
-
-![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-44-Rave-Mandala.png)
+*Quarter of Mutation,  the Realm of SiriusTheme: Purpose fulfilled through TransformationMystical Theme: Accepting Death*
 
 ---
 
-### Line 6 - Aloofness
+This Gate is part of the Channel of Inspiration, A Design of being a Creative Role Model, linking the G Center (Gate 1) to the Throat Center (Gate 8). Gate 1 is part of the Individual (Knowing) Circuit with the keynote of empowerment.
 
-**☀️ Exaltation:** A perfected renewal in which the establishment of a new form inures one to the condemnation of the rejected. The awareness of patterns which ensures one's instinctive well-being.
+Gate 1 is the drive and deep need to focus on expressing oneself in unique and creative ways. Those that carry this gate are not concerned with being the best, which is a comparative trait of the Collective. We simply want to live out our true creative nature, our authentic individuality. When happily absorbed in doing "our own thing," we are not aware that we are attracting the attention of others. It is while we are being true to our creative process that what we are doing, and how we are doing it, has its greatest impact. As we exemplify new ways of expressing our authentic self, we empower others to consider new perspectives or new ways of being in the world. We may even change our creative direction. Creativity inspires others by example, and for impact to be properly felt and appreciated, it must be seen or heard. This requires interaction with the world.
 
-**🌑 Detriment:** Intolerance and arrogance for lesser mortals. The awareness of patterns which can bolster the ego at the expense of the well-being of others.
+Without Gate 8 in our design, what we probably find least attractive is marketing our own work. We will often find ourselves drawn to people with Gate 8 because they are better equipped, or in a better position, to promote our work for us.
+
+![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-1-Rave-Mandala.png)
+
+---
+
+### Line 1 - Creation is independent of will
+
+**☀️ Exaltation:** The Moon exalted as a symbol of adaption. Time is everything. Self-expression which has its special timing.
+
+**🌑 Detriment:** Instability leads to distortion. Here, patience is a virtue and revolution a vice. Creative instability unless there is patience.
