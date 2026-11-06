@@ -24,8 +24,8 @@ Without Gate 8 in our design, what we probably find least attractive is marketin
 
 ---
 
-### [翻译失败] Line 1 - Creation is independent of will
+### [翻译失败] Line 2 - Love is light
 
-**☀️ 高階表達:** [翻译失败] The Moon exalted as a symbol of adaption. Time is everything. Self-expression which has its special timing.
+**☀️ 高階表達:** [翻译失败] Venus exalted as a symbol of beauty. The required harmony between established values and ideals that enriches inspiration. Self-expression conditioned by ideals and values.
 
-**🌑 低階表達:** [翻译失败] Instability leads to distortion. Here, patience is a virtue and revolution a vice. Creative instability unless there is patience.
+**🌑 低階表達:** [翻译失败] Desires and passions have their place but not at the expense of Creation. Self-expression limited by desires and passions.

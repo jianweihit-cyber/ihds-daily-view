@@ -24,8 +24,8 @@ Without Gate 8 in our design, what we probably find least attractive is marketin
 
 ---
 
-### Line 1 - Creation is independent of will
+### Line 2 - Love is light
 
-**☀️ Exaltation:** The Moon exalted as a symbol of adaption. Time is everything. Self-expression which has its special timing.
+**☀️ Exaltation:** Venus exalted as a symbol of beauty. The required harmony between established values and ideals that enriches inspiration. Self-expression conditioned by ideals and values.
 
-**🌑 Detriment:** Instability leads to distortion. Here, patience is a virtue and revolution a vice. Creative instability unless there is patience.
+**🌑 Detriment:** Desires and passions have their place but not at the expense of Creation. Self-expression limited by desires and passions.
