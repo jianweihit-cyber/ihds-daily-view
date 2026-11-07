@@ -24,8 +24,8 @@ Without Gate 8 in our design, what we probably find least attractive is marketin
 
 ---
 
-### [翻译失败] Line 2 - Love is light
+### [翻译失败] Line 3 - The energy to sustain creative work
 
-**☀️ 高階表達:** [翻译失败] Venus exalted as a symbol of beauty. The required harmony between established values and ideals that enriches inspiration. Self-expression conditioned by ideals and values.
+**☀️ 高階表達:** [翻译失败] Mars exalted as the symbol of the profound need for self-expression. The deep need for self-expression.
 
-**🌑 低階表達:** [翻译失败] Desires and passions have their place but not at the expense of Creation. Self-expression limited by desires and passions.
+**🌑 低階表達:** [翻译失败] Material forces can disrupt creativity and lead to overambition. Materialism disrupts creativity.
