@@ -8,7 +8,7 @@
 
 > [翻译失败] Creativity as a primal force. The energy potential to manifest inspiration with out limitation. Individual expression fulfilled through interaction.
 
-### [翻译失败] Right Angle Cross of the Sphinx 4 | Godhead - Hades
+### [翻译失败] Right Angle Cross of the Sphinx 4, Juxtaposition Cross of Self Expression | Godhead - Hades
 
 *[翻译失败] Quarter of Mutation,  the Realm of SiriusTheme: Purpose fulfilled through TransformationMystical Theme: Accepting Death*
 
@@ -24,8 +24,8 @@ Without Gate 8 in our design, what we probably find least attractive is marketin
 
 ---
 
-### [翻译失败] Line 3 - The energy to sustain creative work
+### [翻译失败] Line 4 - Aloneness as the medium of creativity
 
-**☀️ 高階表達:** [翻译失败] Mars exalted as the symbol of the profound need for self-expression. The deep need for self-expression.
+**☀️ 高階表達:** [翻译失败] The Earth exalted as the symbol of personal perspective manifested outside of influence, where the potential magic of inspiration is diluted. Creativity that must develop outside of influence.
 
-**🌑 低階表達:** [翻译失败] Material forces can disrupt creativity and lead to overambition. Materialism disrupts creativity.
+**🌑 低階表達:** [翻译失败] Where the potential magic of inspiration is diluted. The need to influence that abandons aloneness and limits creativity.

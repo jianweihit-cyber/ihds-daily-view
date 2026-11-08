@@ -8,7 +8,7 @@
 
 > Creativity as a primal force. The energy potential to manifest inspiration with out limitation. Individual expression fulfilled through interaction.
 
-### Right Angle Cross of the Sphinx 4 | Godhead - Hades
+### Right Angle Cross of the Sphinx 4, Juxtaposition Cross of Self Expression | Godhead - Hades
 
 *Quarter of Mutation,  the Realm of SiriusTheme: Purpose fulfilled through TransformationMystical Theme: Accepting Death*
 
@@ -24,8 +24,8 @@ Without Gate 8 in our design, what we probably find least attractive is marketin
 
 ---
 
-### Line 3 - The energy to sustain creative work
+### Line 4 - Aloneness as the medium of creativity
 
-**☀️ Exaltation:** Mars exalted as the symbol of the profound need for self-expression. The deep need for self-expression.
+**☀️ Exaltation:** The Earth exalted as the symbol of personal perspective manifested outside of influence, where the potential magic of inspiration is diluted. Creativity that must develop outside of influence.
 
-**🌑 Detriment:** Material forces can disrupt creativity and lead to overambition. Materialism disrupts creativity.
+**🌑 Detriment:** Where the potential magic of inspiration is diluted. The need to influence that abandons aloneness and limits creativity.
