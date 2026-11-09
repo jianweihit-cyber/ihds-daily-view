@@ -8,7 +8,7 @@
 
 > Creativity as a primal force. The energy potential to manifest inspiration with out limitation. Individual expression fulfilled through interaction.
 
-### Right Angle Cross of the Sphinx 4, Juxtaposition Cross of Self Expression | Godhead - Hades
+### Left Angle Cross of Defiance 2 | Godhead - Hades
 
 *Quarter of Mutation,  the Realm of SiriusTheme: Purpose fulfilled through TransformationMystical Theme: Accepting Death*
 
@@ -24,8 +24,8 @@ Without Gate 8 in our design, what we probably find least attractive is marketin
 
 ---
 
-### Line 4 - Aloneness as the medium of creativity
+### Line 5 - The energy to attract society
 
-**☀️ Exaltation:** The Earth exalted as the symbol of personal perspective manifested outside of influence, where the potential magic of inspiration is diluted. Creativity that must develop outside of influence.
+**☀️ Exaltation:** Mars exalted for its powerful ego endurance. The power and drive to stay with the creative process.
 
-**🌑 Detriment:** Where the potential magic of inspiration is diluted. The need to influence that abandons aloneness and limits creativity.
+**🌑 Detriment:** Uranus in detriment, where eccentricity can handicap endurance. Eccentricity that though attractive will limit the drive.
