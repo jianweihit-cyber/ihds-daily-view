@@ -1,6 +1,6 @@
 # Gate 1 - The Creative
 
-**November 08, 2026**
+**November 09, 2026**
 
 ![Gate](../Gate_Rave_Mandala_Collection/Gate-1.jpg)
 
