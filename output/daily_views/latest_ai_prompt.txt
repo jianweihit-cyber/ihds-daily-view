@@ -1,6 +1,6 @@
 # AI 绘图提示词 - Gate 1 - The Creative
 # 日期: 2026-11-10
-# Gate: 1 | Line: Line 5 - The energy to attract society
+# Gate: 1 | Line: Line 6 - Objectivity
 
 ================================================================================
 🎨 LEONARDO.AI / MIDJOURNEY 提示词
@@ -12,7 +12,7 @@ Mystical spiritual artwork for Human Design Gate 1 - The Creative.
 
 Theme: Gate of Self-Expression - Creativity Rooted in Unique Direction
 Energy essence: Creativity as a primal force. The energy potential to manifest inspiration with out limitation. Individual expression fulfilled through interaction.
-Line expression: Line 5 - The energy to attract society
+Line expression: Line 6 - Objectivity
 
 Art style requirements:
 - Sacred geometry patterns and cosmic mandala elements

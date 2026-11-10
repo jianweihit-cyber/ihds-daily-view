@@ -24,8 +24,8 @@ Without Gate 8 in our design, what we probably find least attractive is marketin
 
 ---
 
-### Line 5 - The energy to attract society
+### Line 6 - Objectivity
 
-**☀️ Exaltation:** Mars exalted for its powerful ego endurance. The power and drive to stay with the creative process.
+**☀️ Exaltation:** Clear assessment of creative value. Clarity in creative expression.
 
-**🌑 Detriment:** Uranus in detriment, where eccentricity can handicap endurance. Eccentricity that though attractive will limit the drive.
+**🌑 Detriment:** The risk that subjective appraisal will result in disappointment and creative frustration. Subjectivity in self-expression that may lead to creative frustration.

@@ -24,8 +24,8 @@ Without Gate 8 in our design, what we probably find least attractive is marketin
 
 ---
 
-### [翻译失败] Line 5 - The energy to attract society
+### [翻译失败] Line 6 - Objectivity
 
-**☀️ 高階表達:** [翻译失败] Mars exalted for its powerful ego endurance. The power and drive to stay with the creative process.
+**☀️ 高階表達:** [翻译失败] Clear assessment of creative value. Clarity in creative expression.
 
-**🌑 低階表達:** [翻译失败] Uranus in detriment, where eccentricity can handicap endurance. Eccentricity that though attractive will limit the drive.
+**🌑 低階表達:** [翻译失败] The risk that subjective appraisal will result in disappointment and creative frustration. Subjectivity in self-expression that may lead to creative frustration.
