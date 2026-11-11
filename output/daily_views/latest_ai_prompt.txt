@@ -1,6 +1,6 @@
-# AI 绘图提示词 - Gate 1 - The Creative
+# AI 绘图提示词 - Gate 43 - Breakthrough
 # 日期: 2026-11-11
-# Gate: 1 | Line: Line 6 - Objectivity
+# Gate: 43 | Line: Line 1 - Patience
 
 ================================================================================
 🎨 LEONARDO.AI / MIDJOURNEY 提示词
@@ -8,11 +8,11 @@
 
 【英文提示词 - 直接复制使用】
 
-Mystical spiritual artwork for Human Design Gate 1 - The Creative.
+Mystical spiritual artwork for Human Design Gate 43 - Breakthrough.
 
-Theme: Gate of Self-Expression - Creativity Rooted in Unique Direction
-Energy essence: Creativity as a primal force. The energy potential to manifest inspiration with out limitation. Individual expression fulfilled through interaction.
-Line expression: Line 6 - Objectivity
+Theme: Gate of Insight - Listen to Your Own Inner Voice
+Energy essence: In order for achievement to be maintained a new order must be fairly established. Expressing and transforming inner truth into a unique perspective.
+Line expression: Line 1 - Patience
 
 Art style requirements:
 - Sacred geometry patterns and cosmic mandala elements
@@ -38,10 +38,10 @@ text, watermark, signature, words, letters, blurry, low quality, distorted, ugly
 请从以下路径上传参考图片以获得更好的效果：
 
 1. Gate 图片（I Ching 卦象图）:
-   📁 output/Gate_Rave_Mandala_Collection/Gate-1.jpg
+   📁 output/Gate_Rave_Mandala_Collection/Gate-43.jpg
 
 2. Rave Mandala（人类图曼陀罗）:
-   📁 output/Gate_Rave_Mandala_Collection/Gate-1-Rave-Mandala.png
+   📁 output/Gate_Rave_Mandala_Collection/Gate-43-Rave-Mandala.png
 
 ================================================================================
 ⚙️ 推荐设置 (Leonardo.AI)

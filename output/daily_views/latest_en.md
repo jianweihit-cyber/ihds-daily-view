@@ -1,31 +1,31 @@
-# Gate 1 - The Creative
+# Gate 43 - Breakthrough
 
 **November 11, 2026**
 
-![Gate](../Gate_Rave_Mandala_Collection/Gate-1.jpg)
+![Gate](../Gate_Rave_Mandala_Collection/Gate-43.jpg)
 
-## *Gate of Self-Expression - Creativity Rooted in Unique Direction*
+## *Gate of Insight - Listen to Your Own Inner Voice*
 
-> Creativity as a primal force. The energy potential to manifest inspiration with out limitation. Individual expression fulfilled through interaction.
+> In order for achievement to be maintained a new order must be fairly established. Expressing and transforming inner truth into a unique perspective.
 
-### Left Angle Cross of Defiance 2 | Godhead - Hades
+### Right Angle Cross of Explanation 4 | Godhead - Hades
 
 *Quarter of Mutation,  the Realm of SiriusTheme: Purpose fulfilled through TransformationMystical Theme: Accepting Death*
 
 ---
 
-This Gate is part of the Channel of Inspiration, A Design of being a Creative Role Model, linking the G Center (Gate 1) to the Throat Center (Gate 8). Gate 1 is part of the Individual (Knowing) Circuit with the keynote of empowerment.
+This Gate is part of the Channel of Structuring, A Design of Individuality (Genius to Freak), linking the Ajna Center (Gate 43) with the Throat Center (Gate 23). Gate 43 is part of the Individual (Knowing) Circuit with the keynote of empowerment.
 
-Gate 1 is the drive and deep need to focus on expressing oneself in unique and creative ways. Those that carry this gate are not concerned with being the best, which is a comparative trait of the Collective. We simply want to live out our true creative nature, our authentic individuality. When happily absorbed in doing "our own thing," we are not aware that we are attracting the attention of others. It is while we are being true to our creative process that what we are doing, and how we are doing it, has its greatest impact. As we exemplify new ways of expressing our authentic self, we empower others to consider new perspectives or new ways of being in the world. We may even change our creative direction. Creativity inspires others by example, and for impact to be properly felt and appreciated, it must be seen or heard. This requires interaction with the world.
+Gate 43 is the gate of the inner ear and only listens to its own unique inner voice. It can spontaneously transform rational inner knowing into Individual insight and new perspectives. Our knowing is not backed up by facts, however, and it can take fortitude to stand behind and explain insights that seem freakish and completely outside of the Collective or Tribal norms. We have the capacity, when the timing is right, to mentally mold a unique and mutative awareness into its final shape. When fully conceptualized, our insights need to be invited in order to bring the potential mutation, the possibility of a new perspective, out into the world. Nothing is more difficult for us than to listen to and really hear others. It's not our fault, nor a problem to be fixed, but simply our genetic protection from undue influence. Gate 43 carries a fear of rejection.
 
-Without Gate 8 in our design, what we probably find least attractive is marketing our own work. We will often find ourselves drawn to people with Gate 8 because they are better equipped, or in a better position, to promote our work for us.
+Without Gate 23, we may wonder how to clearly communicate our breakthrough insights. Mental anxiety arises when we fear that our ideas are too weird, and if we can't explain them we are vulnerable to the possibility of their being rejected.
 
-![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-1-Rave-Mandala.png)
+![Rave Mandala](../Gate_Rave_Mandala_Collection/Gate-43-Rave-Mandala.png)
 
 ---
 
-### Line 6 - Objectivity
+### Line 1 - Patience
 
-**☀️ Exaltation:** Clear assessment of creative value. Clarity in creative expression.
+**☀️ Exaltation:** The recognition that new forms cannot be established until resistance has been eliminated. The depth necessary to bring into form an individual insight.
 
-**🌑 Detriment:** The risk that subjective appraisal will result in disappointment and creative frustration. Subjectivity in self-expression that may lead to creative frustration.
+**🌑 Detriment:** An impatience to enjoy the sweets of accomplishment that inevitably leaves a sour taste in the mouth. A delight in the insight but a lack of depth to establish it.
