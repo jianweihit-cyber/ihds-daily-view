@@ -1,6 +1,6 @@
 # [翻译失败] Gate 1 - The Creative
 
-**2026年11月10日**
+**2026年11月11日**
 
 ![閘門](../Gate_Rave_Mandala_Collection/Gate-1.jpg)
 
