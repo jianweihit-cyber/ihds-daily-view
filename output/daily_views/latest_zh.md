@@ -1,6 +1,6 @@
 # [翻译失败] Gate 43 - Breakthrough
 
-**2026年11月11日**
+**2026年11月12日**
 
 ![閘門](../Gate_Rave_Mandala_Collection/Gate-43.jpg)
 
@@ -24,8 +24,8 @@ Without Gate 23, we may wonder how to clearly communicate our breakthrough insig
 
 ---
 
-### [翻译失败] Line 1 - Patience
+### [翻译失败] Line 2 - Dedication
 
-**☀️ 高階表達:** [翻译失败] The recognition that new forms cannot be established until resistance has been eliminated. The depth necessary to bring into form an individual insight.
+**☀️ 高階表達:** [翻译失败] The maintenance of specialized attitudes which promote breakthrough. Unique mental habits and thought processes which promote insight.
 
-**🌑 低階表達:** [翻译失败] An impatience to enjoy the sweets of accomplishment that inevitably leaves a sour taste in the mouth. A delight in the insight but a lack of depth to establish it.
+**🌑 低階表達:** [翻译失败] A dedication to action, that when actualization is in sight may become incautious. The urge for expression that will abandon its normal processes when an opportunity arises.

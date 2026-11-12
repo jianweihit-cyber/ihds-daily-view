@@ -1,6 +1,6 @@
 # Gate 43 - Breakthrough
 
-**November 11, 2026**
+**November 12, 2026**
 
 ![Gate](../Gate_Rave_Mandala_Collection/Gate-43.jpg)
 
@@ -24,8 +24,8 @@ Without Gate 23, we may wonder how to clearly communicate our breakthrough insig
 
 ---
 
-### Line 1 - Patience
+### Line 2 - Dedication
 
-**☀️ Exaltation:** The recognition that new forms cannot be established until resistance has been eliminated. The depth necessary to bring into form an individual insight.
+**☀️ Exaltation:** The maintenance of specialized attitudes which promote breakthrough. Unique mental habits and thought processes which promote insight.
 
-**🌑 Detriment:** An impatience to enjoy the sweets of accomplishment that inevitably leaves a sour taste in the mouth. A delight in the insight but a lack of depth to establish it.
+**🌑 Detriment:** A dedication to action, that when actualization is in sight may become incautious. The urge for expression that will abandon its normal processes when an opportunity arises.
