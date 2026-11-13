@@ -1,6 +1,6 @@
 # Gate 43 - Breakthrough
 
-**November 12, 2026**
+**November 13, 2026**
 
 ![Gate](../Gate_Rave_Mandala_Collection/Gate-43.jpg)
 
@@ -24,8 +24,8 @@ Without Gate 23, we may wonder how to clearly communicate our breakthrough insig
 
 ---
 
-### Line 2 - Dedication
+### Line 3 - Expediency
 
-**☀️ Exaltation:** The maintenance of specialized attitudes which promote breakthrough. Unique mental habits and thought processes which promote insight.
+**☀️ Exaltation:** The powerful drive for regeneration that will, when breakthrough is threatened, use any means, align with any force and endure any condemnation to achieve the goal. A certainty in knowing which can withstand condemnation.
 
-**🌑 Detriment:** A dedication to action, that when actualization is in sight may become incautious. The urge for expression that will abandon its normal processes when an opportunity arises.
+**🌑 Detriment:** An oversensitivity to condemnation, that may preclude justified expediency and result in failure. Individual insight abandoned in the face of condemnation.

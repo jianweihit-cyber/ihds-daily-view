@@ -1,6 +1,6 @@
 # [翻译失败] Gate 43 - Breakthrough
 
-**2026年11月12日**
+**2026年11月13日**
 
 ![閘門](../Gate_Rave_Mandala_Collection/Gate-43.jpg)
 
@@ -24,8 +24,8 @@ Without Gate 23, we may wonder how to clearly communicate our breakthrough insig
 
 ---
 
-### [翻译失败] Line 2 - Dedication
+### [翻译失败] Line 3 - Expediency
 
-**☀️ 高階表達:** [翻译失败] The maintenance of specialized attitudes which promote breakthrough. Unique mental habits and thought processes which promote insight.
+**☀️ 高階表達:** [翻译失败] The powerful drive for regeneration that will, when breakthrough is threatened, use any means, align with any force and endure any condemnation to achieve the goal. A certainty in knowing which can withstand condemnation.
 
-**🌑 低階表達:** [翻译失败] A dedication to action, that when actualization is in sight may become incautious. The urge for expression that will abandon its normal processes when an opportunity arises.
+**🌑 低階表達:** [翻译失败] An oversensitivity to condemnation, that may preclude justified expediency and result in failure. Individual insight abandoned in the face of condemnation.
