@@ -1,6 +1,6 @@
 # [翻译失败] Gate 43 - Breakthrough
 
-**2026年11月13日**
+**2026年11月14日**
 
 ![閘門](../Gate_Rave_Mandala_Collection/Gate-43.jpg)
 
@@ -8,7 +8,7 @@
 
 > [翻译失败] In order for achievement to be maintained a new order must be fairly established. Expressing and transforming inner truth into a unique perspective.
 
-### [翻译失败] Right Angle Cross of Explanation 4 | Godhead - Hades
+### [翻译失败] Right Angle Cross of Explanation 4, Juxtaposition Cross of Insight | Godhead - Hades
 
 *[翻译失败] Quarter of Mutation,  the Realm of SiriusTheme: Purpose fulfilled through TransformationMystical Theme: Accepting Death*
 
@@ -24,8 +24,8 @@ Without Gate 23, we may wonder how to clearly communicate our breakthrough insig
 
 ---
 
-### [翻译失败] Line 3 - Expediency
+### [翻译失败] Line 4 - The one-track mind
 
-**☀️ 高階表達:** [翻译失败] The powerful drive for regeneration that will, when breakthrough is threatened, use any means, align with any force and endure any condemnation to achieve the goal. A certainty in knowing which can withstand condemnation.
+**☀️ 高階表達:** [翻译失败] The overreliance and stubborn obsession with one's mental abilities in the face of recurring obstacles. This design, given Mercurial mental gifts, may though rarely succeed. A stubborn reliance on one's unique insights that demands focused mental ability to be properly conceptualized.
 
-**🌑 低階表達:** [翻译失败] An oversensitivity to condemnation, that may preclude justified expediency and result in failure. Individual insight abandoned in the face of condemnation.
+**🌑 低階表達:** [翻译失败] A belief in inherent right action based on limited knowledge that shuns advice. The vanity to attempt expression without depth.

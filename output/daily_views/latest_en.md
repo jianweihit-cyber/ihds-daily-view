@@ -1,6 +1,6 @@
 # Gate 43 - Breakthrough
 
-**November 13, 2026**
+**November 14, 2026**
 
 ![Gate](../Gate_Rave_Mandala_Collection/Gate-43.jpg)
 
@@ -8,7 +8,7 @@
 
 > In order for achievement to be maintained a new order must be fairly established. Expressing and transforming inner truth into a unique perspective.
 
-### Right Angle Cross of Explanation 4 | Godhead - Hades
+### Right Angle Cross of Explanation 4, Juxtaposition Cross of Insight | Godhead - Hades
 
 *Quarter of Mutation,  the Realm of SiriusTheme: Purpose fulfilled through TransformationMystical Theme: Accepting Death*
 
@@ -24,8 +24,8 @@ Without Gate 23, we may wonder how to clearly communicate our breakthrough insig
 
 ---
 
-### Line 3 - Expediency
+### Line 4 - The one-track mind
 
-**☀️ Exaltation:** The powerful drive for regeneration that will, when breakthrough is threatened, use any means, align with any force and endure any condemnation to achieve the goal. A certainty in knowing which can withstand condemnation.
+**☀️ Exaltation:** The overreliance and stubborn obsession with one's mental abilities in the face of recurring obstacles. This design, given Mercurial mental gifts, may though rarely succeed. A stubborn reliance on one's unique insights that demands focused mental ability to be properly conceptualized.
 
-**🌑 Detriment:** An oversensitivity to condemnation, that may preclude justified expediency and result in failure. Individual insight abandoned in the face of condemnation.
+**🌑 Detriment:** A belief in inherent right action based on limited knowledge that shuns advice. The vanity to attempt expression without depth.
